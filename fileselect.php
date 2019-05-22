@@ -6,7 +6,7 @@ use Classes\Fileselector\Fileselector;
 require_once __DIR__ . '/classes/Fileselector.php';
 
 $fileselector = new Fileselector(__DIR__ . '/../archive/original');
-$fileselector->filesCount();
+//$fileselector->filesCount();
 $fileselector->select(
     [
         '*.asp',

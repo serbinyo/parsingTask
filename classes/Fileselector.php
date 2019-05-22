@@ -20,6 +20,13 @@ class Fileselector
     private $logger;
     private $fileSystem;
 
+    /**
+     * Fileselector constructor.
+     *
+     * @param $path
+     *
+     * @throws \Exception
+     */
     public function __construct($path)
     {
         $this->finder = new Finder();
@@ -37,6 +44,9 @@ class Fileselector
         $this->logger->info('Количество файлов:', ['до обработки' => $count]);
     }
 
+    /**
+     * @param $filter
+     */
     public function select($filter): void
     {
         $content_files = $this->finder;
@@ -45,11 +55,13 @@ class Fileselector
         foreach ($content_files as $file) {
             $relativePath = $file->getRelativePath();
 
-            $this->fileSystem->mirror(__DIR__ . '/../spart/' . $relativePath, __DIR__
+            $this->fileSystem->mirror($this->dir . '/' . $relativePath, __DIR__
                 . '/../../archive/selected/' . $relativePath);
         }
         $count = (iterator_count($content_files) + 1);
-        $this->logger->info('Количество файлов:', ['выбрано файлов' => $count,
-            'критерий отбора' => $filter]);
+        $this->logger->info('Количество файлов:', [
+            'выбрано файлов' => $count,
+            'критерий отбора' => $filter,
+        ]);
     }
 }

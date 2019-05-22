@@ -2,3 +2,4 @@ vendor/
 archive/
 .idea/
 logs/
+nohup.out
