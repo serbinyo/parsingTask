@@ -53,4 +53,3 @@ class Fileselector
             'критерий отбора' => $filter]);
     }
 }
-
