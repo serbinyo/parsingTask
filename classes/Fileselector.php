@@ -37,20 +37,20 @@ class Fileselector
         $this->logger->info('Количество файлов:', ['до обработки' => $count]);
     }
 
-    public function select($filter)
+    public function select($filter): void
     {
         $content_files = $this->finder;
         $content_files->files()->name($filter);
 
         foreach ($content_files as $file) {
-
             $relativePath = $file->getRelativePath();
 
             $this->fileSystem->mirror(__DIR__ . '/../spart/' . $relativePath, __DIR__
                 . '/../../archive/selected/' . $relativePath);
         }
-
-        echo 'Выбрано файлов: ' . (iterator_count($content_files) + 1) . PHP_EOL;
+        $count = (iterator_count($content_files) + 1);
+        $this->logger->info('Количество файлов:', ['выбрано файлов' => $count,
+            'критерий отбора' => $filter]);
     }
 }
 
