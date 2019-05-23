@@ -63,4 +63,3 @@ if ($charset !== 'UTF-8') {
     $content = mb_convert_encoding($content, 'UTF-8', $charset);
     file_put_contents($path, $content);
 }
-

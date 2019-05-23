@@ -12,8 +12,8 @@ $logger = $log->pushHandler(new StreamHandler('logs/info.log', Logger::INFO));
 
 $fileselector = new Fileselector(__DIR__ . '/../archive/original');
 
-//$count = $fileselector->filesCount();
-//$logger->info('Количество файлов:', ['до обработки' => $count]);
+$count = $fileselector->filesCount();
+$logger->info('Количество файлов:', ['до обработки' => $count]);
 
 $fileselector->select(
     [

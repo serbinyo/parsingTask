@@ -1,7 +1,8 @@
 {
     "require": {
-        "symfony/finder": "^4.2",
+        "symfony/finder"    : "^4.2",
         "symfony/filesystem": "^4.2",
-        "monolog/monolog": "^1.24"
+        "monolog/monolog"   : "^1.24",
+        "ext-mbstring"        : "*"
     }
 }
