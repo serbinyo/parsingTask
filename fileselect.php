@@ -12,8 +12,8 @@ $logger = $log->pushHandler(new StreamHandler('logs/info.log', Logger::INFO));
 
 $fileselector = new Fileselector(__DIR__ . '/../archive/original');
 
-$count = $fileselector->filesCount();
-$logger->info('Количество файлов:', ['до обработки' => $count]);
+//$count = $fileselector->filesCount();
+//$logger->info('Количество файлов:', ['до обработки' => $count]);
 
 $fileselector->select(
     [
@@ -21,7 +21,8 @@ $fileselector->select(
         '*.html',
         '*.xhtml',
         '*.xml',
-        '*.txt'
+        '*.txt',
+        '*.htm'
     ],
     '/../../archive/selected'
 );
@@ -34,7 +35,8 @@ $logger->info('Количество файлов:', [
         '*.html',
         '*.xhtml',
         '*.xml',
-        '*.txt'
+        '*.txt',
+        '*.htm'
     ]
 ]);
 
@@ -50,3 +52,5 @@ $logger->info('Количество файлов:', [
  * [2019-05-22 17:58:42] name.INFO: Количество файлов: {"до обработки":152517} []
  * [2019-05-23 01:36:07] name.INFO: Количество файлов: {"выбрано файлов":104423,"критерий отбора":["*.asp","*.html","*.xhtml","*.xml","*.txt"]} []
  */
+
+//TODO проверить файлы без разширения *.
