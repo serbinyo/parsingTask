@@ -5,8 +5,6 @@ namespace Classes\Fileselector;
 
 require_once __DIR__ . '/../vendor/autoload.php';
 
-use Monolog\Handler\StreamHandler;
-use Monolog\Logger;
 use Symfony\Component\Filesystem\Filesystem;
 use Symfony\Component\Finder\Finder;
 
@@ -17,13 +15,12 @@ class Fileselector
 {
     private $finder;
     private $dir;
-    private $logger;
     private $fileSystem;
 
     /**
      * Fileselector constructor.
      *
-     * @param $path
+     * @param string $path путь до папки из которой нужно произвести выборку
      *
      * @throws \Exception
      */
@@ -33,35 +30,30 @@ class Fileselector
         $this->dir = $path;
         $this->finder->files()->in($path);
         $this->fileSystem = new Filesystem();
-
-        $log = new Logger('name');
-        $this->logger = $log->pushHandler(new StreamHandler('logs/info.log', Logger::INFO));
-    }
-
-    public function filesCount()
-    {
-        $count = (iterator_count($this->finder) + 1);
-        $this->logger->info('Количество файлов:', ['до обработки' => $count]);
     }
 
     /**
-     * @param $filter
+     * @return int возвращает количество файлов
      */
-    public function select($filter): void
+    public function filesCount(): int
     {
-        $content_files = $this->finder;
-        $content_files->files()->name($filter);
+        return iterator_count($this->finder);
+    }
 
-        foreach ($content_files as $file) {
+    /**
+     * @param string|array $filter   критерий для выборки по имени файла
+     *                               может принимать маску типа *.txt, массив масок или регулярное выражение
+     * @param string       $destPath путь до папки назначения
+     */
+    public function select($filter, $destPath): void
+    {
+        $this->finder->files()->name($filter);
+
+        foreach ($this->finder as $file) {
             $relativePath = $file->getRelativePath();
 
             $this->fileSystem->mirror($this->dir . '/' . $relativePath, __DIR__
-                . '/../../archive/selected/' . $relativePath);
+                . $destPath . '/' . $relativePath);
         }
-        $count = (iterator_count($content_files) + 1);
-        $this->logger->info('Количество файлов:', [
-            'выбрано файлов' => $count,
-            'критерий отбора' => $filter,
-        ]);
     }
 }

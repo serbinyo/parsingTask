@@ -2,11 +2,19 @@
 declare(strict_types=1);
 
 use Classes\Fileselector\Fileselector;
+use Monolog\Handler\StreamHandler;
+use Monolog\Logger;
 
 require_once __DIR__ . '/classes/Fileselector.php';
 
+$log = new Logger('name');
+$logger = $log->pushHandler(new StreamHandler('logs/info.log', Logger::INFO));
+
 $fileselector = new Fileselector(__DIR__ . '/../archive/original');
-//$fileselector->filesCount();
+
+$count = $fileselector->filesCount();
+$logger->info('Количество файлов:', ['до обработки' => $count]);
+
 $fileselector->select(
     [
         '*.asp',
@@ -14,8 +22,22 @@ $fileselector->select(
         '*.xhtml',
         '*.xml',
         '*.txt'
-    ]
+    ],
+    '/../../archive/selected'
 );
+
+$count = $fileselector->filesCount();
+$logger->info('Количество файлов:', [
+    'выбрано файлов' => $count,
+    'критерий отбора' => [
+        '*.asp',
+        '*.html',
+        '*.xhtml',
+        '*.xml',
+        '*.txt'
+    ]
+]);
+
 
 /*
  * Для запуска этого скрипта в фоне набрать
