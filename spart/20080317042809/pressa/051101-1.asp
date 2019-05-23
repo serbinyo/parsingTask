@@ -1,8 +1,8 @@
 <HTML>
 <HEAD>
-<TITLE>В Москве открылся Marks&Spenser: компания пытается поправить финансовое положение за счет России / Retail.RU v3.0 </TITLE>
+<TITLE>Р’ РњРѕСЃРєРІРµ РѕС‚РєСЂС‹Р»СЃСЏ Marks&Spenser: РєРѕРјРїР°РЅРёСЏ РїС‹С‚Р°РµС‚СЃСЏ РїРѕРїСЂР°РІРёС‚СЊ С„РёРЅР°РЅСЃРѕРІРѕРµ РїРѕР»РѕР¶РµРЅРёРµ Р·Р° СЃС‡РµС‚ Р РѕСЃСЃРёРё / Retail.RU v3.0 </TITLE>
 <META http-equiv="Content-Type" content="text/html">
-<meta name="keywords" content="retail, торговля, розница, автоматизация, учет, склад, супермаркет, гипермаркет, дискаунтер, штрих, код, опт, принтер, сканер, касса, ККМ, POS, терминал, EAN, ЮНИКОД, магазин, ТСД, Barcode, ССD, весы, чек, лента, ГМЭК, штрихкод, РАРУС, 1С, Альфа-Авто, торговый дом, электронные весы, аптека, фармацевт, общепит, ресторан, рынок, терминал сбора данных,  товар, цена, реестр, налог, торговое оборудование, витрины, прилавки, бар, кафе, супермаркет, электронные, кассовое оборудование, этикетки, этикетпистолеты, контрольно-кассовые машины, чековая лента, сейфы, счетно-денежные машины, детекторы фальшивых купюр, торговая реклама, автоматизация торговли, система автоматизации учета для торговли, складское оборудование, автоматическая идентификация, штрихкодовое оборудование, Denso, BHT, Metrologic, Chiper, CAS, Zebex, PSC, DataLogic, DataScan,  ICL, DataMax, Intermec, Bolet, Metler, TEC, Opticon, Eltron, Zebra, Bizerba, Scantech, Casio, Fujitsu, UPOS, OPOS, JavaPOS, ISBN, EDI, Siemens, Wincor, периферия, ISSN, оптовая торговля, розничная торговля">
+<meta name="keywords" content="retail, С‚РѕСЂРіРѕРІР»СЏ, СЂРѕР·РЅРёС†Р°, Р°РІС‚РѕРјР°С‚РёР·Р°С†РёСЏ, СѓС‡РµС‚, СЃРєР»Р°Рґ, СЃСѓРїРµСЂРјР°СЂРєРµС‚, РіРёРїРµСЂРјР°СЂРєРµС‚, РґРёСЃРєР°СѓРЅС‚РµСЂ, С€С‚СЂРёС…, РєРѕРґ, РѕРїС‚, РїСЂРёРЅС‚РµСЂ, СЃРєР°РЅРµСЂ, РєР°СЃСЃР°, РљРљРњ, POS, С‚РµСЂРјРёРЅР°Р», EAN, Р®РќРРљРћР”, РјР°РіР°Р·РёРЅ, РўРЎР”, Barcode, РЎРЎD, РІРµСЃС‹, С‡РµРє, Р»РµРЅС‚Р°, Р“РњР­Рљ, С€С‚СЂРёС…РєРѕРґ, Р РђР РЈРЎ, 1РЎ, РђР»СЊС„Р°-РђРІС‚Рѕ, С‚РѕСЂРіРѕРІС‹Р№ РґРѕРј, СЌР»РµРєС‚СЂРѕРЅРЅС‹Рµ РІРµСЃС‹, Р°РїС‚РµРєР°, С„Р°СЂРјР°С†РµРІС‚, РѕР±С‰РµРїРёС‚, СЂРµСЃС‚РѕСЂР°РЅ, СЂС‹РЅРѕРє, С‚РµСЂРјРёРЅР°Р» СЃР±РѕСЂР° РґР°РЅРЅС‹С…,  С‚РѕРІР°СЂ, С†РµРЅР°, СЂРµРµСЃС‚СЂ, РЅР°Р»РѕРі, С‚РѕСЂРіРѕРІРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ, РІРёС‚СЂРёРЅС‹, РїСЂРёР»Р°РІРєРё, Р±Р°СЂ, РєР°С„Рµ, СЃСѓРїРµСЂРјР°СЂРєРµС‚, СЌР»РµРєС‚СЂРѕРЅРЅС‹Рµ, РєР°СЃСЃРѕРІРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ, СЌС‚РёРєРµС‚РєРё, СЌС‚РёРєРµС‚РїРёСЃС‚РѕР»РµС‚С‹, РєРѕРЅС‚СЂРѕР»СЊРЅРѕ-РєР°СЃСЃРѕРІС‹Рµ РјР°С€РёРЅС‹, С‡РµРєРѕРІР°СЏ Р»РµРЅС‚Р°, СЃРµР№С„С‹, СЃС‡РµС‚РЅРѕ-РґРµРЅРµР¶РЅС‹Рµ РјР°С€РёРЅС‹, РґРµС‚РµРєС‚РѕСЂС‹ С„Р°Р»СЊС€РёРІС‹С… РєСѓРїСЋСЂ, С‚РѕСЂРіРѕРІР°СЏ СЂРµРєР»Р°РјР°, Р°РІС‚РѕРјР°С‚РёР·Р°С†РёСЏ С‚РѕСЂРіРѕРІР»Рё, СЃРёСЃС‚РµРјР° Р°РІС‚РѕРјР°С‚РёР·Р°С†РёРё СѓС‡РµС‚Р° РґР»СЏ С‚РѕСЂРіРѕРІР»Рё, СЃРєР»Р°РґСЃРєРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ, Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєР°СЏ РёРґРµРЅС‚РёС„РёРєР°С†РёСЏ, С€С‚СЂРёС…РєРѕРґРѕРІРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ, Denso, BHT, Metrologic, Chiper, CAS, Zebex, PSC, DataLogic, DataScan,  ICL, DataMax, Intermec, Bolet, Metler, TEC, Opticon, Eltron, Zebra, Bizerba, Scantech, Casio, Fujitsu, UPOS, OPOS, JavaPOS, ISBN, EDI, Siemens, Wincor, РїРµСЂРёС„РµСЂРёСЏ, ISSN, РѕРїС‚РѕРІР°СЏ С‚РѕСЂРіРѕРІР»СЏ, СЂРѕР·РЅРёС‡РЅР°СЏ С‚РѕСЂРіРѕРІР»СЏ">
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
 
 <link rel="stylesheet" href="../../styles/general.css" type="text/css">
@@ -26,18 +26,18 @@
 
 <script language="JavaScript" src="/relocate.js" type="text/javascript"></script>
 <map name="topmap">
-  <area shape="rect" coords="1,1,96,28" href="/biblio/" alt="Библиотека">
-  <area shape="rect" coords="97,1,230,28" href="/shop/" alt="Книги">
-  <area shape="rect" coords="231,1,308,28" href="/auto/progs.asp" alt="Программы">
-  <area shape="rect" coords="309,1,408,28" href="/encycl/catalog.asp" alt="Оборудование">
-  <area shape="rect" coords="409,0,518,28" href="/automation/" alt="Автоматизация">
-  <area shape="rect" coords="519,1,591,28" href="/contacts.asp" alt="Контакты">
+  <area shape="rect" coords="1,1,96,28" href="/biblio/" alt="Р‘РёР±Р»РёРѕС‚РµРєР°">
+  <area shape="rect" coords="97,1,230,28" href="/shop/" alt="РљРЅРёРіРё">
+  <area shape="rect" coords="231,1,308,28" href="/auto/progs.asp" alt="РџСЂРѕРіСЂР°РјРјС‹">
+  <area shape="rect" coords="309,1,408,28" href="/encycl/catalog.asp" alt="РћР±РѕСЂСѓРґРѕРІР°РЅРёРµ">
+  <area shape="rect" coords="409,0,518,28" href="/automation/" alt="РђРІС‚РѕРјР°С‚РёР·Р°С†РёСЏ">
+  <area shape="rect" coords="519,1,591,28" href="/contacts.asp" alt="РљРѕРЅС‚Р°РєС‚С‹">
 </map>
-<!--<a href="http://www.ibgroup.ru/retail/tolstogo.php" target="_blank"><img style="border:1px solid #2e72a3;" src="/banexch/pic/licedei.gif" alt="Лицедеи" width="780" height="60" border="0"></a>-->
+<!--<a href="http://www.ibgroup.ru/retail/tolstogo.php" target="_blank"><img style="border:1px solid #2e72a3;" src="/banexch/pic/licedei.gif" alt="Р›РёС†РµРґРµРё" width="780" height="60" border="0"></a>-->
 <table border="0" cellspacing="0" cellpadding="0" width="760">
 <!--top-->
 <tr>
-      <td rowspan="2" width="160"><a href="/"><img src="/images/lefttop_eng.gif" width="160" height="92" border="0" alt="На главную страницу"></a></td>
+      <td rowspan="2" width="160"><a href="/"><img src="/images/lefttop_eng.gif" width="160" height="92" border="0" alt="РќР° РіР»Р°РІРЅСѓСЋ СЃС‚СЂР°РЅРёС†Сѓ"></a></td>
       <td width="600" bgcolor="#ffffff">
         <table border="0" cellspacing="0" cellpadding="0" width="600">
         <tr>
@@ -83,12 +83,12 @@
       </td>
 </tr>
 <tr>
-      <td><img src="/images/topnav_bar.gif" width="600" height="20" border="0" alt="Навигационная панель" usemap="#topmap"></td>
+      <td><img src="/images/topnav_bar.gif" width="600" height="20" border="0" alt="РќР°РІРёРіР°С†РёРѕРЅРЅР°СЏ РїР°РЅРµР»СЊ" usemap="#topmap"></td>
 </tr>
 <!--end of top-->
 <!--center part-->
 <tr>
-<td valign="top"><a href="/"><img src="/images/lefttop1_eng.gif" width="160" height="20" border="0" alt="На главную страницу"></a></td>
+<td valign="top"><a href="/"><img src="/images/lefttop1_eng.gif" width="160" height="20" border="0" alt="РќР° РіР»Р°РІРЅСѓСЋ СЃС‚СЂР°РЅРёС†Сѓ"></a></td>
 <td align="right" valign="bottom"><a href="javascript:for_print()"><img src="/images/printv.gif" width="99" height="13" border="0" alt=""></a></td>
 </tr>
 <tr>
@@ -269,7 +269,7 @@
 <td><img src="images/1x1.gif" width="1" height="3" border="0" alt=""></td>
 </tr>
 
-<!--Рассылки новостей-->
+<!--Р Р°СЃСЃС‹Р»РєРё РЅРѕРІРѕСЃС‚РµР№-->
 <tr>
 <td valign="top" align="right">
         <table border="0" cellspacing="0" cellpadding="1"  width="100%">
@@ -277,7 +277,7 @@
         <td bgcolor="#2e72a3">
                 <table  width="100%" border="0" cellspacing="0" cellpadding="2">
                 <tr>
-                <td bgcolor="#b2cbdd" align="center"><p><b>Рассылки новостей </b></p></td>
+                <td bgcolor="#b2cbdd" align="center"><p><b>Р Р°СЃСЃС‹Р»РєРё РЅРѕРІРѕСЃС‚РµР№ </b></p></td>
                 </tr>
                 </table>
         </td>
@@ -295,14 +295,14 @@
          <form name="subs" action="http://new.retail.ru/mailing/index.php" method="post" style="padding:0; margin:0">
              <tr><td colspan="2" align="center">
             <br>
-			<a href="http://www.retail.ru/subscriber/4/">Новости торговли<br>(ежедневный выпуск)</a><br><br>
-           	<a href="http://www.retail.ru/subscriber/3/">Еженедельник Retail.ru<BR>(еженедельный выпуск)</a><br><br>
-           	<a href="http://www.retail.ru/shop/"><font color="red">Книжные новинки</font></a><br><br>
+			<a href="http://www.retail.ru/subscriber/4/">РќРѕРІРѕСЃС‚Рё С‚РѕСЂРіРѕРІР»Рё<br>(РµР¶РµРґРЅРµРІРЅС‹Р№ РІС‹РїСѓСЃРє)</a><br><br>
+           	<a href="http://www.retail.ru/subscriber/3/">Р•Р¶РµРЅРµРґРµР»СЊРЅРёРє Retail.ru<BR>(РµР¶РµРЅРµРґРµР»СЊРЅС‹Р№ РІС‹РїСѓСЃРє)</a><br><br>
+           	<a href="http://www.retail.ru/shop/"><font color="red">РљРЅРёР¶РЅС‹Рµ РЅРѕРІРёРЅРєРё</font></a><br><br>
                        </td></tr>
            <tr><td colspan="2" align="center"><p>
-             <input name="add" type="submit" value="Подписаться"><br><br>
+             <input name="add" type="submit" value="РџРѕРґРїРёСЃР°С‚СЊСЃСЏ"><br><br>
 
-               <a href="http://subscribe.ru/catalog/trade.retail555">master_class.retail.ru  на Subscribe.Ru </a></p></td></tr>
+               <a href="http://subscribe.ru/catalog/trade.retail555">master_class.retail.ru  РЅР° Subscribe.Ru </a></p></td></tr>
          </form>
         </table>
         </td>
@@ -311,13 +311,13 @@
 </td>
 </tr>
 
-<!--end of Рассылки новостей-->
+<!--end of Р Р°СЃСЃС‹Р»РєРё РЅРѕРІРѕСЃС‚РµР№-->
 
 <tr>
 <td><img src="/images/1x1.gif" width="1" height="3" border="0" alt=""></td>
 </tr>
 
-<!--Форма поиска-->
+<!--Р¤РѕСЂРјР° РїРѕРёСЃРєР°-->
 <tr>
 <td valign="top" align="right">
         <table border="0" cellspacing="0" cellpadding="1"  width="100%">
@@ -325,7 +325,7 @@
         <td bgcolor="#2e72a3">
                 <table  width="100%" border="0" cellspacing="0" cellpadding="2">
                 <tr>
-                <td bgcolor="#b2cbdd"><p><b>Поиск на сайте</b></p></td>
+                <td bgcolor="#b2cbdd"><p><b>РџРѕРёСЃРє РЅР° СЃР°Р№С‚Рµ</b></p></td>
                 </tr>
                 </table>
         </td>
@@ -343,14 +343,14 @@
               <table width="100%" border="0" cellspacing="0" cellpadding="2" bgcolor="#FFFFFF">
                <FORM name=web action=http://www.yandex.ru:8081/yandsearch method=get width="100%">
                   <tr><td align="center">
-                    <INPUT title="Введите слова для поиска" size="8" style="width:111px; height:16px" maxLength=160  name=text> 
+                    <INPUT title="Р’РІРµРґРёС‚Рµ СЃР»РѕРІР° РґР»СЏ РїРѕРёСЃРєР°" size="8" style="width:111px; height:16px" maxLength=160  name=text> 
                     <INPUT type=hidden value="http://www.retail.ru/" name=serverurl> 
                     <INPUT type=hidden value="Retail.ru" name=server_name> 
                     <INPUT type=hidden value="http://www.retail.ru/" name=referrer1> 
                     <INPUT type=hidden value="Retail.ru" name=referrer2>
                   </td></tr>
                   <tr><td align="center">
-                    <INPUT title=Найти! type=submit value=Найти! name=go><BR>
+                    <INPUT title=РќР°Р№С‚Рё! type=submit value=РќР°Р№С‚Рё! name=go><BR>
                   </td></tr>
                </FORM>
                </table>
@@ -360,7 +360,7 @@
 </td>
 </tr>
 
-<!--end Форма поиска-->
+<!--end Р¤РѕСЂРјР° РїРѕРёСЃРєР°-->
 
 
 
@@ -375,13 +375,13 @@
                 <tr>
                 <td bgcolor="ffffff" _bgcolor="E1E7EB" width="160">
 <P>
-<a href=/shop/ target=_blanc><b>Прайс-листы<br>интернет-магазина Retail.Ru</a>:</b><br>
-<a href="/shop/price.asp">- Прайс-лист на книги о розничной торговле</a><br>
-<a href="/shop/price_anot.asp">- Прайс-лист на книги о розничной торговле с краткими анотациями</a><br>&nbsp;<br>
+<a href=/shop/ target=_blanc><b>РџСЂР°Р№СЃ-Р»РёСЃС‚С‹<br>РёРЅС‚РµСЂРЅРµС‚-РјР°РіР°Р·РёРЅР° Retail.Ru</a>:</b><br>
+<a href="/shop/price.asp">- РџСЂР°Р№СЃ-Р»РёСЃС‚ РЅР° РєРЅРёРіРё Рѕ СЂРѕР·РЅРёС‡РЅРѕР№ С‚РѕСЂРіРѕРІР»Рµ</a><br>
+<a href="/shop/price_anot.asp">- РџСЂР°Р№СЃ-Р»РёСЃС‚ РЅР° РєРЅРёРіРё Рѕ СЂРѕР·РЅРёС‡РЅРѕР№ С‚РѕСЂРіРѕРІР»Рµ СЃ РєСЂР°С‚РєРёРјРё Р°РЅРѕС‚Р°С†РёСЏРјРё</a><br>&nbsp;<br>
 </P>
 <P>
-<a href=http://www.rarus.ru target=_blanc><b>Прайс-листы<br>компании &laquo;1C-Рарус&raquo;</a>:</b><br>
-<a href="/download/price.zip">- Прайс-лист на торговое оборудование, программы и услуги</a>
+<a href=http://www.rarus.ru target=_blanc><b>РџСЂР°Р№СЃ-Р»РёСЃС‚С‹<br>РєРѕРјРїР°РЅРёРё &laquo;1C-Р Р°СЂСѓСЃ&raquo;</a>:</b><br>
+<a href="/download/price.zip">- РџСЂР°Р№СЃ-Р»РёСЃС‚ РЅР° С‚РѕСЂРіРѕРІРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ, РїСЂРѕРіСЂР°РјРјС‹ Рё СѓСЃР»СѓРіРё</a>
 </P>
 
                 </td>
@@ -434,32 +434,32 @@
 <table width=90% border="0" cellspacing="0" cellpadding="0" align=center>
 <tr><td>
 
-<a href="/"><u>Главная</u></a> / <a href="/biblio/"><u>Библиотека</u></a> / <a href="/pressa/"><u>Газеты</u></a> / <a href="/pressa/retail/default.asp"><u>Retail.Ru - лента новостей: российский рынок</u></a>
+<a href="/"><u>Р“Р»Р°РІРЅР°СЏ</u></a>В /В <a href="/biblio/"><u>Р‘РёР±Р»РёРѕС‚РµРєР°</u></a>В /В <a href="/pressa/"><u>Р“Р°Р·РµС‚С‹</u></a>В /В <a href="/pressa/retail/default.asp"><u>Retail.Ru - Р»РµРЅС‚Р° РЅРѕРІРѕСЃС‚РµР№: СЂРѕСЃСЃРёР№СЃРєРёР№ СЂС‹РЅРѕРє</u></a>
 
 <span id="pageContent">
-<P> 
+<P>В 
 
-<h1>В Москве открылся Marks&Spenser: компания пытается поправить финансовое положение за счет России </h1>
+<h1>Р’ РњРѕСЃРєРІРµ РѕС‚РєСЂС‹Р»СЃСЏ Marks&Spenser: РєРѕРјРїР°РЅРёСЏ РїС‹С‚Р°РµС‚СЃСЏ РїРѕРїСЂР°РІРёС‚СЊ С„РёРЅР°РЅСЃРѕРІРѕРµ РїРѕР»РѕР¶РµРЅРёРµ Р·Р° СЃС‡РµС‚ Р РѕСЃСЃРёРё </h1>
 
-<p>Мария Соловиченко, <a href="http://www.gzt.ru">Газета</a> / <a href="/pressa/retail/default.asp">Retail.Ru</a>, 01.11.2005</p>
+<p>РњР°СЂРёСЏ РЎРѕР»РѕРІРёС‡РµРЅРєРѕ, <a href="http://www.gzt.ru">Р“Р°Р·РµС‚Р°</a> / <a href="/pressa/retail/default.asp">Retail.Ru</a>, 01.11.2005</p>
 
 <!--<TABLE ALIGN=right VSPACE=10 HSPACE=10 width=250 cellpadding=8>
 <TR><TD bgcolor="#f5f8f9">
-<P>Inditex Group объединяет около 2250 магазинов в 56 странах под брэндами Zara, Oysho, Massimo Dutti, Pull & Bear, Bershka, Stradivarius, Zara Home и Kiddy’s Class. В 2004 г. выручка Inditex составила свыше $5,7 млрд, из них на брэнд Zara приходится около $4,7 млрд. Это третий по величине продавец одежды в мире после американской Gap Inc (около $16 млрд) и шведской Hennes & Mauritz (около $8 млрд).  
+<P>Inditex Group РѕР±СЉРµРґРёРЅСЏРµС‚ РѕРєРѕР»Рѕ 2250 РјР°РіР°Р·РёРЅРѕРІ РІ 56 СЃС‚СЂР°РЅР°С… РїРѕРґ Р±СЂСЌРЅРґР°РјРё Zara, Oysho, Massimo Dutti, Pull & Bear, Bershka, Stradivarius, Zara Home Рё KiddyвЂ™s Class. Р’ 2004 Рі. РІС‹СЂСѓС‡РєР° Inditex СЃРѕСЃС‚Р°РІРёР»Р° СЃРІС‹С€Рµ $5,7 РјР»СЂРґ, РёР· РЅРёС… РЅР° Р±СЂСЌРЅРґ Zara РїСЂРёС…РѕРґРёС‚СЃСЏ РѕРєРѕР»Рѕ $4,7 РјР»СЂРґ. Р­С‚Рѕ С‚СЂРµС‚РёР№ РїРѕ РІРµР»РёС‡РёРЅРµ РїСЂРѕРґР°РІРµС† РѕРґРµР¶РґС‹ РІ РјРёСЂРµ РїРѕСЃР»Рµ Р°РјРµСЂРёРєР°РЅСЃРєРѕР№ Gap Inc (РѕРєРѕР»Рѕ $16 РјР»СЂРґ) Рё С€РІРµРґСЃРєРѕР№ Hennes & Mauritz (РѕРєРѕР»Рѕ $8 РјР»СЂРґ).  
 </table>-->
 
-<P>Завтра в Москве откроется первый универмаг одного из ведущих розничных операторов в мире - британской сети Marks&Spenser. Символ британского ритейла расположится в торговом центре «Фестиваль» на Мичуринском проспекте, в котором он займет второй этаж площадью 1400 кв. метров. Новый универмаг позиционируется, прежде всего, как место для семейного шопинга. 
-<P>Ценовая политика M&S будет рассчитана прежде всего на женщин от 25 лет с высокой и средней покупательской способностью.
-<P>Во всем мире M&S работает по франшизе. Свои магазины компания имеет только в Великобритании и Ирландии. Российские магазины будут открываться по субфраншизе. Развитием марки в России занимается турецкий франчайзи Marks&Spencer компания Marka Magazacilik a. s., входящая в группу компаний Fiba Holding.
-<P>Предполагается, что ассортимент российского M&S будет типичен для этого универмага – мужская, женская и детская одежда, товары для дома, продукты питания. Все вещи будут продаваться исключительно под маркой M&S. Не обойдут Россию стороной и характерные для M&S ноу-хау - вещи с уникальными новшествами. Например, мужские костюмы, которые можно стирать в машине, мужские рубашки, которые не нужно гладить, антибактериальные носки.
-<P>Приход Marks&Spencer на российский рынок ждали с 2000 года. Все это время в компании признавали, что российский рынок розничной торговли весьма привлекательный, но это не мешало компании постоянно откладывать выход на наш «перспективный» рынок. Свою нерешительность руководство M&S объясняло тем, что инвестиционные риски в России весьма велики, арендные ставки высоки, помещений недостаточно, да и доходы россиян недостаточны, чтобы обеспечить адекватный товарооборот.
-<P>На самом же деле, по словам гендиректора консалтингового агентства «Магазин магазинов» Анны Ширяевой, компания испытывала серьезные финансовые затруднения. Из-за роста конкуренции на европейском рынке подразделения M&S не могли повысить объемы продаж, поскольку вынуждены были снижать цены. В последнее время финансовое положение флагмана британского ритейла оставляло желать лучшего. В 2004 году продажи компании серьезно упали. Чтобы сохранить магазины в Англии, M&S пришлось избавиться от нескольких заграничных подразделений. Компания продала 220 магазинов Brooks Brothers в США и Азии и 18 магазинов M&S во Франции.
-<P>По разным оценкам, общие затраты по выходу на российский рынок M&S составляют $20-30 млн. По словам представителей компании, российская сеть M&S будет развиваться на средства турецкого партнера. 
-<P>Интерес к нашему рынку со стороны крупного европейского ритейлора не случаен. Международная консалтинговая компания AT Kerney прочно закрепила за Россией первое место в рейтинге инвестиционной привлекательности в сфере розничной торговли. По оценкам аналитиков, рост европейской розничной торговли составляет не более 5% в год, российский же розничный рынок увеличивает свои обороты ежегодно на 50-300%. При этом даже в Москве у крупных торговых центров более чем радужные перспективы.
-<P>По данным компании «Ашан», московский рынок розничной торговли имеет прекрасные перспективы для роста. Сейчас организованной торговлей через крупные магазины охвачено только 12% рынка, тогда как в Европе - 90%. Таким образом, присутствие в России - хороший шанс для компании, терпящей убытки в Европе, повысить объем продаж.
-<P>Согласно планам M&S, в Москве появится несколько магазинов сети - второй M&S планируется открыть в ТК «Мега» в Теплом Стане. Со стратегией регионального развития в M&S рассчитывают определиться в 2006 году. Пока в списке перспективных рынков - города-миллионники, лидирующие в розничной торговле: Санкт-Петербург, Казань, Екатеринбург, Нижний Новгород.
+<P>Р—Р°РІС‚СЂР° РІ РњРѕСЃРєРІРµ РѕС‚РєСЂРѕРµС‚СЃСЏ РїРµСЂРІС‹Р№ СѓРЅРёРІРµСЂРјР°Рі РѕРґРЅРѕРіРѕ РёР· РІРµРґСѓС‰РёС… СЂРѕР·РЅРёС‡РЅС‹С… РѕРїРµСЂР°С‚РѕСЂРѕРІ РІ РјРёСЂРµ - Р±СЂРёС‚Р°РЅСЃРєРѕР№ СЃРµС‚Рё Marks&Spenser. РЎРёРјРІРѕР» Р±СЂРёС‚Р°РЅСЃРєРѕРіРѕ СЂРёС‚РµР№Р»Р° СЂР°СЃРїРѕР»РѕР¶РёС‚СЃСЏ РІ С‚РѕСЂРіРѕРІРѕРј С†РµРЅС‚СЂРµ В«Р¤РµСЃС‚РёРІР°Р»СЊВ» РЅР° РњРёС‡СѓСЂРёРЅСЃРєРѕРј РїСЂРѕСЃРїРµРєС‚Рµ, РІ РєРѕС‚РѕСЂРѕРј РѕРЅ Р·Р°Р№РјРµС‚ РІС‚РѕСЂРѕР№ СЌС‚Р°Р¶ РїР»РѕС‰Р°РґСЊСЋ 1400 РєРІ. РјРµС‚СЂРѕРІ. РќРѕРІС‹Р№ СѓРЅРёРІРµСЂРјР°Рі РїРѕР·РёС†РёРѕРЅРёСЂСѓРµС‚СЃСЏ, РїСЂРµР¶РґРµ РІСЃРµРіРѕ, РєР°Рє РјРµСЃС‚Рѕ РґР»СЏ СЃРµРјРµР№РЅРѕРіРѕ С€РѕРїРёРЅРіР°. 
+<P>Р¦РµРЅРѕРІР°СЏ РїРѕР»РёС‚РёРєР° M&S Р±СѓРґРµС‚ СЂР°СЃСЃС‡РёС‚Р°РЅР° РїСЂРµР¶РґРµ РІСЃРµРіРѕ РЅР° Р¶РµРЅС‰РёРЅ РѕС‚ 25 Р»РµС‚ СЃ РІС‹СЃРѕРєРѕР№ Рё СЃСЂРµРґРЅРµР№ РїРѕРєСѓРїР°С‚РµР»СЊСЃРєРѕР№ СЃРїРѕСЃРѕР±РЅРѕСЃС‚СЊСЋ.
+<P>Р’Рѕ РІСЃРµРј РјРёСЂРµ M&S СЂР°Р±РѕС‚Р°РµС‚ РїРѕ С„СЂР°РЅС€РёР·Рµ. РЎРІРѕРё РјР°РіР°Р·РёРЅС‹ РєРѕРјРїР°РЅРёСЏ РёРјРµРµС‚ С‚РѕР»СЊРєРѕ РІ Р’РµР»РёРєРѕР±СЂРёС‚Р°РЅРёРё Рё РСЂР»Р°РЅРґРёРё. Р РѕСЃСЃРёР№СЃРєРёРµ РјР°РіР°Р·РёРЅС‹ Р±СѓРґСѓС‚ РѕС‚РєСЂС‹РІР°С‚СЊСЃСЏ РїРѕ СЃСѓР±С„СЂР°РЅС€РёР·Рµ. Р Р°Р·РІРёС‚РёРµРј РјР°СЂРєРё РІ Р РѕСЃСЃРёРё Р·Р°РЅРёРјР°РµС‚СЃСЏ С‚СѓСЂРµС†РєРёР№ С„СЂР°РЅС‡Р°Р№Р·Рё Marks&Spencer РєРѕРјРїР°РЅРёСЏ Marka Magazacilik a. s., РІС…РѕРґСЏС‰Р°СЏ РІ РіСЂСѓРїРїСѓ РєРѕРјРїР°РЅРёР№ Fiba Holding.
+<P>РџСЂРµРґРїРѕР»Р°РіР°РµС‚СЃСЏ, С‡С‚Рѕ Р°СЃСЃРѕСЂС‚РёРјРµРЅС‚ СЂРѕСЃСЃРёР№СЃРєРѕРіРѕ M&S Р±СѓРґРµС‚ С‚РёРїРёС‡РµРЅ РґР»СЏ СЌС‚РѕРіРѕ СѓРЅРёРІРµСЂРјР°РіР° вЂ“ РјСѓР¶СЃРєР°СЏ, Р¶РµРЅСЃРєР°СЏ Рё РґРµС‚СЃРєР°СЏ РѕРґРµР¶РґР°, С‚РѕРІР°СЂС‹ РґР»СЏ РґРѕРјР°, РїСЂРѕРґСѓРєС‚С‹ РїРёС‚Р°РЅРёСЏ. Р’СЃРµ РІРµС‰Рё Р±СѓРґСѓС‚ РїСЂРѕРґР°РІР°С‚СЊСЃСЏ РёСЃРєР»СЋС‡РёС‚РµР»СЊРЅРѕ РїРѕРґ РјР°СЂРєРѕР№ M&S. РќРµ РѕР±РѕР№РґСѓС‚ Р РѕСЃСЃРёСЋ СЃС‚РѕСЂРѕРЅРѕР№ Рё С…Р°СЂР°РєС‚РµСЂРЅС‹Рµ РґР»СЏ M&S РЅРѕСѓ-С…Р°Сѓ - РІРµС‰Рё СЃ СѓРЅРёРєР°Р»СЊРЅС‹РјРё РЅРѕРІС€РµСЃС‚РІР°РјРё. РќР°РїСЂРёРјРµСЂ, РјСѓР¶СЃРєРёРµ РєРѕСЃС‚СЋРјС‹, РєРѕС‚РѕСЂС‹Рµ РјРѕР¶РЅРѕ СЃС‚РёСЂР°С‚СЊ РІ РјР°С€РёРЅРµ, РјСѓР¶СЃРєРёРµ СЂСѓР±Р°С€РєРё, РєРѕС‚РѕСЂС‹Рµ РЅРµ РЅСѓР¶РЅРѕ РіР»Р°РґРёС‚СЊ, Р°РЅС‚РёР±Р°РєС‚РµСЂРёР°Р»СЊРЅС‹Рµ РЅРѕСЃРєРё.
+<P>РџСЂРёС…РѕРґ Marks&Spencer РЅР° СЂРѕСЃСЃРёР№СЃРєРёР№ СЂС‹РЅРѕРє Р¶РґР°Р»Рё СЃ 2000 РіРѕРґР°. Р’СЃРµ СЌС‚Рѕ РІСЂРµРјСЏ РІ РєРѕРјРїР°РЅРёРё РїСЂРёР·РЅР°РІР°Р»Рё, С‡С‚Рѕ СЂРѕСЃСЃРёР№СЃРєРёР№ СЂС‹РЅРѕРє СЂРѕР·РЅРёС‡РЅРѕР№ С‚РѕСЂРіРѕРІР»Рё РІРµСЃСЊРјР° РїСЂРёРІР»РµРєР°С‚РµР»СЊРЅС‹Р№, РЅРѕ СЌС‚Рѕ РЅРµ РјРµС€Р°Р»Рѕ РєРѕРјРїР°РЅРёРё РїРѕСЃС‚РѕСЏРЅРЅРѕ РѕС‚РєР»Р°РґС‹РІР°С‚СЊ РІС‹С…РѕРґ РЅР° РЅР°С€ В«РїРµСЂСЃРїРµРєС‚РёРІРЅС‹Р№В» СЂС‹РЅРѕРє. РЎРІРѕСЋ РЅРµСЂРµС€РёС‚РµР»СЊРЅРѕСЃС‚СЊ СЂСѓРєРѕРІРѕРґСЃС‚РІРѕ M&S РѕР±СЉСЏСЃРЅСЏР»Рѕ С‚РµРј, С‡С‚Рѕ РёРЅРІРµСЃС‚РёС†РёРѕРЅРЅС‹Рµ СЂРёСЃРєРё РІ Р РѕСЃСЃРёРё РІРµСЃСЊРјР° РІРµР»РёРєРё, Р°СЂРµРЅРґРЅС‹Рµ СЃС‚Р°РІРєРё РІС‹СЃРѕРєРё, РїРѕРјРµС‰РµРЅРёР№ РЅРµРґРѕСЃС‚Р°С‚РѕС‡РЅРѕ, РґР° Рё РґРѕС…РѕРґС‹ СЂРѕСЃСЃРёСЏРЅ РЅРµРґРѕСЃС‚Р°С‚РѕС‡РЅС‹, С‡С‚РѕР±С‹ РѕР±РµСЃРїРµС‡РёС‚СЊ Р°РґРµРєРІР°С‚РЅС‹Р№ С‚РѕРІР°СЂРѕРѕР±РѕСЂРѕС‚.
+<P>РќР° СЃР°РјРѕРј Р¶Рµ РґРµР»Рµ, РїРѕ СЃР»РѕРІР°Рј РіРµРЅРґРёСЂРµРєС‚РѕСЂР° РєРѕРЅСЃР°Р»С‚РёРЅРіРѕРІРѕРіРѕ Р°РіРµРЅС‚СЃС‚РІР° В«РњР°РіР°Р·РёРЅ РјР°РіР°Р·РёРЅРѕРІВ» РђРЅРЅС‹ РЁРёСЂСЏРµРІРѕР№, РєРѕРјРїР°РЅРёСЏ РёСЃРїС‹С‚С‹РІР°Р»Р° СЃРµСЂСЊРµР·РЅС‹Рµ С„РёРЅР°РЅСЃРѕРІС‹Рµ Р·Р°С‚СЂСѓРґРЅРµРЅРёСЏ. РР·-Р·Р° СЂРѕСЃС‚Р° РєРѕРЅРєСѓСЂРµРЅС†РёРё РЅР° РµРІСЂРѕРїРµР№СЃРєРѕРј СЂС‹РЅРєРµ РїРѕРґСЂР°Р·РґРµР»РµРЅРёСЏ M&S РЅРµ РјРѕРіР»Рё РїРѕРІС‹СЃРёС‚СЊ РѕР±СЉРµРјС‹ РїСЂРѕРґР°Р¶, РїРѕСЃРєРѕР»СЊРєСѓ РІС‹РЅСѓР¶РґРµРЅС‹ Р±С‹Р»Рё СЃРЅРёР¶Р°С‚СЊ С†РµРЅС‹. Р’ РїРѕСЃР»РµРґРЅРµРµ РІСЂРµРјСЏ С„РёРЅР°РЅСЃРѕРІРѕРµ РїРѕР»РѕР¶РµРЅРёРµ С„Р»Р°РіРјР°РЅР° Р±СЂРёС‚Р°РЅСЃРєРѕРіРѕ СЂРёС‚РµР№Р»Р° РѕСЃС‚Р°РІР»СЏР»Рѕ Р¶РµР»Р°С‚СЊ Р»СѓС‡С€РµРіРѕ. Р’ 2004 РіРѕРґСѓ РїСЂРѕРґР°Р¶Рё РєРѕРјРїР°РЅРёРё СЃРµСЂСЊРµР·РЅРѕ СѓРїР°Р»Рё. Р§С‚РѕР±С‹ СЃРѕС…СЂР°РЅРёС‚СЊ РјР°РіР°Р·РёРЅС‹ РІ РђРЅРіР»РёРё, M&S РїСЂРёС€Р»РѕСЃСЊ РёР·Р±Р°РІРёС‚СЊСЃСЏ РѕС‚ РЅРµСЃРєРѕР»СЊРєРёС… Р·Р°РіСЂР°РЅРёС‡РЅС‹С… РїРѕРґСЂР°Р·РґРµР»РµРЅРёР№. РљРѕРјРїР°РЅРёСЏ РїСЂРѕРґР°Р»Р° 220 РјР°РіР°Р·РёРЅРѕРІ Brooks Brothers РІ РЎРЁРђ Рё РђР·РёРё Рё 18 РјР°РіР°Р·РёРЅРѕРІ M&S РІРѕ Р¤СЂР°РЅС†РёРё.
+<P>РџРѕ СЂР°Р·РЅС‹Рј РѕС†РµРЅРєР°Рј, РѕР±С‰РёРµ Р·Р°С‚СЂР°С‚С‹ РїРѕ РІС‹С…РѕРґСѓ РЅР° СЂРѕСЃСЃРёР№СЃРєРёР№ СЂС‹РЅРѕРє M&S СЃРѕСЃС‚Р°РІР»СЏСЋС‚ $20-30 РјР»РЅ. РџРѕ СЃР»РѕРІР°Рј РїСЂРµРґСЃС‚Р°РІРёС‚РµР»РµР№ РєРѕРјРїР°РЅРёРё, СЂРѕСЃСЃРёР№СЃРєР°СЏ СЃРµС‚СЊ M&S Р±СѓРґРµС‚ СЂР°Р·РІРёРІР°С‚СЊСЃСЏ РЅР° СЃСЂРµРґСЃС‚РІР° С‚СѓСЂРµС†РєРѕРіРѕ РїР°СЂС‚РЅРµСЂР°. 
+<P>РРЅС‚РµСЂРµСЃ Рє РЅР°С€РµРјСѓ СЂС‹РЅРєСѓ СЃРѕ СЃС‚РѕСЂРѕРЅС‹ РєСЂСѓРїРЅРѕРіРѕ РµРІСЂРѕРїРµР№СЃРєРѕРіРѕ СЂРёС‚РµР№Р»РѕСЂР° РЅРµ СЃР»СѓС‡Р°РµРЅ. РњРµР¶РґСѓРЅР°СЂРѕРґРЅР°СЏ РєРѕРЅСЃР°Р»С‚РёРЅРіРѕРІР°СЏ РєРѕРјРїР°РЅРёСЏ AT Kerney РїСЂРѕС‡РЅРѕ Р·Р°РєСЂРµРїРёР»Р° Р·Р° Р РѕСЃСЃРёРµР№ РїРµСЂРІРѕРµ РјРµСЃС‚Рѕ РІ СЂРµР№С‚РёРЅРіРµ РёРЅРІРµСЃС‚РёС†РёРѕРЅРЅРѕР№ РїСЂРёРІР»РµРєР°С‚РµР»СЊРЅРѕСЃС‚Рё РІ СЃС„РµСЂРµ СЂРѕР·РЅРёС‡РЅРѕР№ С‚РѕСЂРіРѕРІР»Рё. РџРѕ РѕС†РµРЅРєР°Рј Р°РЅР°Р»РёС‚РёРєРѕРІ, СЂРѕСЃС‚ РµРІСЂРѕРїРµР№СЃРєРѕР№ СЂРѕР·РЅРёС‡РЅРѕР№ С‚РѕСЂРіРѕРІР»Рё СЃРѕСЃС‚Р°РІР»СЏРµС‚ РЅРµ Р±РѕР»РµРµ 5% РІ РіРѕРґ, СЂРѕСЃСЃРёР№СЃРєРёР№ Р¶Рµ СЂРѕР·РЅРёС‡РЅС‹Р№ СЂС‹РЅРѕРє СѓРІРµР»РёС‡РёРІР°РµС‚ СЃРІРѕРё РѕР±РѕСЂРѕС‚С‹ РµР¶РµРіРѕРґРЅРѕ РЅР° 50-300%. РџСЂРё СЌС‚РѕРј РґР°Р¶Рµ РІ РњРѕСЃРєРІРµ Сѓ РєСЂСѓРїРЅС‹С… С‚РѕСЂРіРѕРІС‹С… С†РµРЅС‚СЂРѕРІ Р±РѕР»РµРµ С‡РµРј СЂР°РґСѓР¶РЅС‹Рµ РїРµСЂСЃРїРµРєС‚РёРІС‹.
+<P>РџРѕ РґР°РЅРЅС‹Рј РєРѕРјРїР°РЅРёРё В«РђС€Р°РЅВ», РјРѕСЃРєРѕРІСЃРєРёР№ СЂС‹РЅРѕРє СЂРѕР·РЅРёС‡РЅРѕР№ С‚РѕСЂРіРѕРІР»Рё РёРјРµРµС‚ РїСЂРµРєСЂР°СЃРЅС‹Рµ РїРµСЂСЃРїРµРєС‚РёРІС‹ РґР»СЏ СЂРѕСЃС‚Р°. РЎРµР№С‡Р°СЃ РѕСЂРіР°РЅРёР·РѕРІР°РЅРЅРѕР№ С‚РѕСЂРіРѕРІР»РµР№ С‡РµСЂРµР· РєСЂСѓРїРЅС‹Рµ РјР°РіР°Р·РёРЅС‹ РѕС…РІР°С‡РµРЅРѕ С‚РѕР»СЊРєРѕ 12% СЂС‹РЅРєР°, С‚РѕРіРґР° РєР°Рє РІ Р•РІСЂРѕРїРµ - 90%. РўР°РєРёРј РѕР±СЂР°Р·РѕРј, РїСЂРёСЃСѓС‚СЃС‚РІРёРµ РІ Р РѕСЃСЃРёРё - С…РѕСЂРѕС€РёР№ С€Р°РЅСЃ РґР»СЏ РєРѕРјРїР°РЅРёРё, С‚РµСЂРїСЏС‰РµР№ СѓР±С‹С‚РєРё РІ Р•РІСЂРѕРїРµ, РїРѕРІС‹СЃРёС‚СЊ РѕР±СЉРµРј РїСЂРѕРґР°Р¶.
+<P>РЎРѕРіР»Р°СЃРЅРѕ РїР»Р°РЅР°Рј M&S, РІ РњРѕСЃРєРІРµ РїРѕСЏРІРёС‚СЃСЏ РЅРµСЃРєРѕР»СЊРєРѕ РјР°РіР°Р·РёРЅРѕРІ СЃРµС‚Рё - РІС‚РѕСЂРѕР№ M&S РїР»Р°РЅРёСЂСѓРµС‚СЃСЏ РѕС‚РєСЂС‹С‚СЊ РІ РўРљ В«РњРµРіР°В» РІ РўРµРїР»РѕРј РЎС‚Р°РЅРµ. РЎРѕ СЃС‚СЂР°С‚РµРіРёРµР№ СЂРµРіРёРѕРЅР°Р»СЊРЅРѕРіРѕ СЂР°Р·РІРёС‚РёСЏ РІ M&S СЂР°СЃСЃС‡РёС‚С‹РІР°СЋС‚ РѕРїСЂРµРґРµР»РёС‚СЊСЃСЏ РІ 2006 РіРѕРґСѓ. РџРѕРєР° РІ СЃРїРёСЃРєРµ РїРµСЂСЃРїРµРєС‚РёРІРЅС‹С… СЂС‹РЅРєРѕРІ - РіРѕСЂРѕРґР°-РјРёР»Р»РёРѕРЅРЅРёРєРё, Р»РёРґРёСЂСѓСЋС‰РёРµ РІ СЂРѕР·РЅРёС‡РЅРѕР№ С‚РѕСЂРіРѕРІР»Рµ: РЎР°РЅРєС‚-РџРµС‚РµСЂР±СѓСЂРі, РљР°Р·Р°РЅСЊ, Р•РєР°С‚РµСЂРёРЅР±СѓСЂРі, РќРёР¶РЅРёР№ РќРѕРІРіРѕСЂРѕРґ.
 <P>&nbsp;
-<h3 align=center>Лучшие предложения интернет-магазина Retail.Ru</h3>
+<h3 align=center>Р›СѓС‡С€РёРµ РїСЂРµРґР»РѕР¶РµРЅРёСЏ РёРЅС‚РµСЂРЅРµС‚-РјР°РіР°Р·РёРЅР° Retail.Ru</h3>
 
 <!--include virtual="/connect.asp"-->
 
@@ -472,10 +472,10 @@
 <table border="0" cellspacing="0" width="100%" cellpadding="2">
         <tr><td colspan=3 height=15></td></tr>
         <tr><td colspan=3>
-                 <tr bgcolor="#f5f8f9" ondblclick="javascript:return edGoodOpen('http://www.retail.ru/_admin/education_new/shop/goods/items/edit.asp?selectedID=396&parent_id=61&man_id=24&page=1&sel=&inWin=yes',600,600)">   <td width="1%">     <a href="http://www.retail.ru/shop/goods/good/?goods_id=396" class="shop">     <img src="http://retail.ru/images/shop_data_img/123_789292.jpg" height=60 border=0 ></a>   </td>    <td valign="middle" width="98%">     <a href="http://www.retail.ru/shop/goods/good/?goods_id=396" class="shop">         <b>Ян-Бенедикт Стенкамп, Нирмалья Кумар</b>         <br>Марки торговых сетей: Новые конкуренты традиционных брендов</a><br>          <table cellspacing=0 width="100%"  cellpadding=0 border=0><tr><td width="1%">            <a href="http://www.retail.ru/shop/goods/good/?goods_id=396" class="shop">            <nobr>&nbsp;<b>2008</b> г.; - &nbsp;<b>256</b> стр.;</nobr></a></td>           <td width="99%" align=right> <b><span class="inactive">оглавление &gt;&gt;&gt;</span></b>           </td></tr></table>   </td>   <td align=center width="1%">      <a href="" onclick="javascript: basket('/shop/adding/?id=396'); return false;" class="shop">        <b>купить</b><br><font color=red><b>440</b></font> руб.      </a>   </td></tr><tr><td colspan=3 height=5></td></tr>
-<tr bgcolor="#FFFFFF" ondblclick="javascript:return edGoodOpen('http://www.retail.ru/_admin/education_new/shop/goods/items/edit.asp?selectedID=837&parent_id=83&man_id=94&page=1&sel=&inWin=yes',600,600)">   <td width="1%">     <a href="http://www.retail.ru/shop/goods/good/?goods_id=837" class="shop">     <img src="http://retail.ru/images/shop_data_img/123_358423.jpg" height=60 border=0 ></a>   </td>    <td valign="middle" width="98%">     <a href="http://www.retail.ru/shop/goods/good/?goods_id=837" class="shop">         <b>Липсиц И. В. , Рязанова О. И.  </b>         <br>Управление ценами в ритейле</a><br>          <table cellspacing=0 width="100%"  cellpadding=0 border=0><tr><td width="1%">            <a href="http://www.retail.ru/shop/goods/good/?goods_id=837" class="shop">            <nobr>&nbsp;<b>2008</b> г.; - &nbsp;<b>384</b> стр.;</nobr></a></td>           <td width="99%" align=right> <a href="/shop/goods/good/?goods_id=837&action=contens"><b>оглавление &gt;&gt;&gt;</b></a>           </td></tr></table>   </td>   <td align=center width="1%">      <a href="" onclick="javascript: basket('/shop/adding/?id=837'); return false;" class="shop">        <b>купить</b><br><font color=red><b>250</b></font> руб.      </a>   </td></tr><tr><td colspan=3 height=5></td></tr>
-<tr bgcolor="#f5f8f9" ondblclick="javascript:return edGoodOpen('http://www.retail.ru/_admin/education_new/shop/goods/items/edit.asp?selectedID=897&parent_id=62&man_id=133&page=1&sel=&inWin=yes',600,600)">   <td width="1%">     <a href="http://www.retail.ru/shop/goods/good/?goods_id=897" class="shop">     <img src="http://retail.ru/images/shop_data_img/roznica_635604.jpg" height=60 border=0 ></a>   </td>    <td valign="middle" width="98%">     <a href="http://www.retail.ru/shop/goods/good/?goods_id=897" class="shop">         <b>Кирилл Терещенко</b>         <br>Основы розничной торговли: международный опыт в практических решениях</a><br>          <table cellspacing=0 width="100%"  cellpadding=0 border=0><tr><td width="1%">            <a href="http://www.retail.ru/shop/goods/good/?goods_id=897" class="shop">            <nobr>&nbsp;<b>2007</b> г.; - &nbsp;<b>287</b> стр.;</nobr></a></td>           <td width="99%" align=right> <a href="/shop/goods/good/?goods_id=897&action=contens"><b>оглавление &gt;&gt;&gt;</b></a>           </td></tr></table>   </td>   <td align=center width="1%">      <a href="" onclick="javascript: basket('/shop/adding/?id=897'); return false;" class="shop">        <b>купить</b><br><font color=red><b>2500</b></font> руб.      </a>   </td></tr><tr><td colspan=3 height=5></td></tr>
-<tr bgcolor="#FFFFFF" ondblclick="javascript:return edGoodOpen('http://www.retail.ru/_admin/education_new/shop/goods/items/edit.asp?selectedID=910&parent_id=67&man_id=137&page=1&sel=&inWin=yes',600,600)">   <td width="1%">     <a href="http://www.retail.ru/shop/goods/good/?goods_id=910" class="shop">     <img src="http://retail.ru/images/shop_data_img/123_330955.jpg" height=60 border=0 ></a>   </td>    <td valign="middle" width="98%">     <a href="http://www.retail.ru/shop/goods/good/?goods_id=910" class="shop">         <b>Ким У., Моборн Р</b>         <br>Стратегия голубого океана. 3-е изд</a><br>          <table cellspacing=0 width="100%"  cellpadding=0 border=0><tr><td width="1%">            <a href="http://www.retail.ru/shop/goods/good/?goods_id=910" class="shop">            <nobr>&nbsp;<b>2008</b> г.; - &nbsp;<b>272</b> стр.;</nobr></a></td>           <td width="99%" align=right> <a href="/shop/goods/good/?goods_id=910&action=contens"><b>оглавление &gt;&gt;&gt;</b></a>           </td></tr></table>   </td>   <td align=center width="1%">      <a href="" onclick="javascript: basket('/shop/adding/?id=910'); return false;" class="shop">        <b>купить</b><br><font color=red><b>790</b></font> руб.      </a>   </td></tr><tr><td colspan=3 height=5></td></tr>
+                 <tr bgcolor="#f5f8f9" ondblclick="javascript:return edGoodOpen('http://www.retail.ru/_admin/education_new/shop/goods/items/edit.asp?selectedID=396&parent_id=61&man_id=24&page=1&sel=&inWin=yes',600,600)">   <td width="1%">     <a href="http://www.retail.ru/shop/goods/good/?goods_id=396" class="shop">     <img src="http://retail.ru/images/shop_data_img/123_789292.jpg" height=60 border=0 ></a>   </td>    <td valign="middle" width="98%">     <a href="http://www.retail.ru/shop/goods/good/?goods_id=396" class="shop">         <b>РЇРЅ-Р‘РµРЅРµРґРёРєС‚ РЎС‚РµРЅРєР°РјРї, РќРёСЂРјР°Р»СЊСЏ РљСѓРјР°СЂ</b>         <br>РњР°СЂРєРё С‚РѕСЂРіРѕРІС‹С… СЃРµС‚РµР№: РќРѕРІС‹Рµ РєРѕРЅРєСѓСЂРµРЅС‚С‹ С‚СЂР°РґРёС†РёРѕРЅРЅС‹С… Р±СЂРµРЅРґРѕРІ</a><br>          <table cellspacing=0 width="100%"  cellpadding=0 border=0><tr><td width="1%">            <a href="http://www.retail.ru/shop/goods/good/?goods_id=396" class="shop">            <nobr>&nbsp;<b>2008</b> Рі.; - &nbsp;<b>256</b> СЃС‚СЂ.;</nobr></a></td>           <td width="99%" align=right> <b><span class="inactive">РѕРіР»Р°РІР»РµРЅРёРµ &gt;&gt;&gt;</span></b>           </td></tr></table>   </td>   <td align=center width="1%">      <a href="" onclick="javascript: basket('/shop/adding/?id=396'); return false;" class="shop">        <b>РєСѓРїРёС‚СЊ</b><br><font color=red><b>440</b></font> СЂСѓР±.      </a>   </td></tr><tr><td colspan=3 height=5></td></tr>
+<tr bgcolor="#FFFFFF" ondblclick="javascript:return edGoodOpen('http://www.retail.ru/_admin/education_new/shop/goods/items/edit.asp?selectedID=837&parent_id=83&man_id=94&page=1&sel=&inWin=yes',600,600)">   <td width="1%">     <a href="http://www.retail.ru/shop/goods/good/?goods_id=837" class="shop">     <img src="http://retail.ru/images/shop_data_img/123_358423.jpg" height=60 border=0 ></a>   </td>    <td valign="middle" width="98%">     <a href="http://www.retail.ru/shop/goods/good/?goods_id=837" class="shop">         <b>Р›РёРїСЃРёС† Р. Р’. , Р СЏР·Р°РЅРѕРІР° Рћ. Р.  </b>         <br>РЈРїСЂР°РІР»РµРЅРёРµ С†РµРЅР°РјРё РІ СЂРёС‚РµР№Р»Рµ</a><br>          <table cellspacing=0 width="100%"  cellpadding=0 border=0><tr><td width="1%">            <a href="http://www.retail.ru/shop/goods/good/?goods_id=837" class="shop">            <nobr>&nbsp;<b>2008</b> Рі.; - &nbsp;<b>384</b> СЃС‚СЂ.;</nobr></a></td>           <td width="99%" align=right> <a href="/shop/goods/good/?goods_id=837&action=contens"><b>РѕРіР»Р°РІР»РµРЅРёРµ &gt;&gt;&gt;</b></a>           </td></tr></table>   </td>   <td align=center width="1%">      <a href="" onclick="javascript: basket('/shop/adding/?id=837'); return false;" class="shop">        <b>РєСѓРїРёС‚СЊ</b><br><font color=red><b>250</b></font> СЂСѓР±.      </a>   </td></tr><tr><td colspan=3 height=5></td></tr>
+<tr bgcolor="#f5f8f9" ondblclick="javascript:return edGoodOpen('http://www.retail.ru/_admin/education_new/shop/goods/items/edit.asp?selectedID=897&parent_id=62&man_id=133&page=1&sel=&inWin=yes',600,600)">   <td width="1%">     <a href="http://www.retail.ru/shop/goods/good/?goods_id=897" class="shop">     <img src="http://retail.ru/images/shop_data_img/roznica_635604.jpg" height=60 border=0 ></a>   </td>    <td valign="middle" width="98%">     <a href="http://www.retail.ru/shop/goods/good/?goods_id=897" class="shop">         <b>РљРёСЂРёР»Р» РўРµСЂРµС‰РµРЅРєРѕ</b>         <br>РћСЃРЅРѕРІС‹ СЂРѕР·РЅРёС‡РЅРѕР№ С‚РѕСЂРіРѕРІР»Рё: РјРµР¶РґСѓРЅР°СЂРѕРґРЅС‹Р№ РѕРїС‹С‚ РІ РїСЂР°РєС‚РёС‡РµСЃРєРёС… СЂРµС€РµРЅРёСЏС…</a><br>          <table cellspacing=0 width="100%"  cellpadding=0 border=0><tr><td width="1%">            <a href="http://www.retail.ru/shop/goods/good/?goods_id=897" class="shop">            <nobr>&nbsp;<b>2007</b> Рі.; - &nbsp;<b>287</b> СЃС‚СЂ.;</nobr></a></td>           <td width="99%" align=right> <a href="/shop/goods/good/?goods_id=897&action=contens"><b>РѕРіР»Р°РІР»РµРЅРёРµ &gt;&gt;&gt;</b></a>           </td></tr></table>   </td>   <td align=center width="1%">      <a href="" onclick="javascript: basket('/shop/adding/?id=897'); return false;" class="shop">        <b>РєСѓРїРёС‚СЊ</b><br><font color=red><b>2500</b></font> СЂСѓР±.      </a>   </td></tr><tr><td colspan=3 height=5></td></tr>
+<tr bgcolor="#FFFFFF" ondblclick="javascript:return edGoodOpen('http://www.retail.ru/_admin/education_new/shop/goods/items/edit.asp?selectedID=910&parent_id=67&man_id=137&page=1&sel=&inWin=yes',600,600)">   <td width="1%">     <a href="http://www.retail.ru/shop/goods/good/?goods_id=910" class="shop">     <img src="http://retail.ru/images/shop_data_img/123_330955.jpg" height=60 border=0 ></a>   </td>    <td valign="middle" width="98%">     <a href="http://www.retail.ru/shop/goods/good/?goods_id=910" class="shop">         <b>РљРёРј РЈ., РњРѕР±РѕСЂРЅ Р </b>         <br>РЎС‚СЂР°С‚РµРіРёСЏ РіРѕР»СѓР±РѕРіРѕ РѕРєРµР°РЅР°. 3-Рµ РёР·Рґ</a><br>          <table cellspacing=0 width="100%"  cellpadding=0 border=0><tr><td width="1%">            <a href="http://www.retail.ru/shop/goods/good/?goods_id=910" class="shop">            <nobr>&nbsp;<b>2008</b> Рі.; - &nbsp;<b>272</b> СЃС‚СЂ.;</nobr></a></td>           <td width="99%" align=right> <a href="/shop/goods/good/?goods_id=910&action=contens"><b>РѕРіР»Р°РІР»РµРЅРёРµ &gt;&gt;&gt;</b></a>           </td></tr></table>   </td>   <td align=center width="1%">      <a href="" onclick="javascript: basket('/shop/adding/?id=910'); return false;" class="shop">        <b>РєСѓРїРёС‚СЊ</b><br><font color=red><b>790</b></font> СЂСѓР±.      </a>   </td></tr><tr><td colspan=3 height=5></td></tr>
 
             </td>
         </tr>
@@ -511,9 +511,9 @@
 <td colspan="2">
         <table border="0" cellspacing="0" cellpadding="0">
         <tr>
-                <td><a href="http://www.retail.ru"><img src="/images/botwww.gif" width="160" height="24" border="0" alt="На главную страницу"></a></td>
+                <td><a href="http://www.retail.ru"><img src="/images/botwww.gif" width="160" height="24" border="0" alt="РќР° РіР»Р°РІРЅСѓСЋ СЃС‚СЂР°РЅРёС†Сѓ"></a></td>
 
-            <td><img src="/images/botnav_bar.gif" width="600" height="24" border="0" alt="Навигационная панель" usemap="#bmap"></td>
+            <td><img src="/images/botnav_bar.gif" width="600" height="24" border="0" alt="РќР°РІРёРіР°С†РёРѕРЅРЅР°СЏ РїР°РЅРµР»СЊ" usemap="#bmap"></td>
         </tr>
         </table>
 
@@ -527,7 +527,7 @@
 </center>
 <br>
 
-<!-- нижний банер тут -->
+<!-- РЅРёР¶РЅРёР№ Р±Р°РЅРµСЂ С‚СѓС‚ -->
 </td>
 </tr>
 <tr>
@@ -560,20 +560,20 @@
 
 </center>
 <map name="topmap">
-  <area shape="rect" coords="1,1,96,28" href="/biblio/" alt="Библиотека">
-  <area shape="rect" coords="97,1,230,28" href="/shop/" alt="Книги">
-  <area shape="rect" coords="231,1,308,28" href="/auto/progs.asp" alt="Программы">
-  <area shape="rect" coords="309,1,408,28" href="/encycl/catalog.asp" alt="Оборудование">
-  <area shape="rect" coords="409,0,518,28" href="/automation/" alt="Автоматизация">
-  <area shape="rect" coords="519,1,591,28" href="/contacts.asp" alt="Контакты">
+  <area shape="rect" coords="1,1,96,28" href="/biblio/" alt="Р‘РёР±Р»РёРѕС‚РµРєР°">
+  <area shape="rect" coords="97,1,230,28" href="/shop/" alt="РљРЅРёРіРё">
+  <area shape="rect" coords="231,1,308,28" href="/auto/progs.asp" alt="РџСЂРѕРіСЂР°РјРјС‹">
+  <area shape="rect" coords="309,1,408,28" href="/encycl/catalog.asp" alt="РћР±РѕСЂСѓРґРѕРІР°РЅРёРµ">
+  <area shape="rect" coords="409,0,518,28" href="/automation/" alt="РђРІС‚РѕРјР°С‚РёР·Р°С†РёСЏ">
+  <area shape="rect" coords="519,1,591,28" href="/contacts.asp" alt="РљРѕРЅС‚Р°РєС‚С‹">
 </map>
 <map name="bmap">
-  <area shape="rect" coords="7,1,97,33" href="/biblio/" alt="Библиотека">
-  <area shape="rect" coords="99,1,234,33" href="/shop/" alt="Книги">
-  <area shape="rect" coords="235,0,313,32" href="/auto/progs.asp" alt="Программы">
-  <area shape="rect" coords="314,1,412,32" href="/encycl/catalog.asp" alt="Оборудование">
-  <area shape="rect" coords="413,0,519,33" href="/automation/" alt="Автоматизация">
-  <area shape="rect" coords="522,1,592,33" href="/contacts.asp" alt="Контакты">
+  <area shape="rect" coords="7,1,97,33" href="/biblio/" alt="Р‘РёР±Р»РёРѕС‚РµРєР°">
+  <area shape="rect" coords="99,1,234,33" href="/shop/" alt="РљРЅРёРіРё">
+  <area shape="rect" coords="235,0,313,32" href="/auto/progs.asp" alt="РџСЂРѕРіСЂР°РјРјС‹">
+  <area shape="rect" coords="314,1,412,32" href="/encycl/catalog.asp" alt="РћР±РѕСЂСѓРґРѕРІР°РЅРёРµ">
+  <area shape="rect" coords="413,0,519,33" href="/automation/" alt="РђРІС‚РѕРјР°С‚РёР·Р°С†РёСЏ">
+  <area shape="rect" coords="522,1,592,33" href="/contacts.asp" alt="РљРѕРЅС‚Р°РєС‚С‹">
 </map>
 
 

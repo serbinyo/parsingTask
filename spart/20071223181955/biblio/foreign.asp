@@ -1,8 +1,8 @@
 <HTML>
 <HEAD>
-<TITLE>Зарубежный опыт / Библиотека / Retail.RU v3.0 </TITLE>
+<TITLE>Р—Р°СЂСѓР±РµР¶РЅС‹Р№ РѕРїС‹С‚ / Р‘РёР±Р»РёРѕС‚РµРєР° / Retail.RU v3.0 </TITLE>
 <META http-equiv="Content-Type" content="text/html">
-<meta name="keywords" content="retail, торговля, розница, автоматизация, учет, склад, супермаркет, гипермаркет, дискаунтер, штрих, код, опт, принтер, сканер, касса, ККМ, POS, терминал, EAN, ЮНИКОД, магазин, ТСД, Barcode, ССD, весы, чек, лента, ГМЭК, штрихкод, РАРУС, 1С, Альфа-Авто, торговый дом, электронные весы, аптека, фармацевт, общепит, ресторан, рынок, терминал сбора данных,  товар, цена, реестр, налог, торговое оборудование, витрины, прилавки, бар, кафе, супермаркет, электронные, кассовое оборудование, этикетки, этикетпистолеты, контрольно-кассовые машины, чековая лента, сейфы, счетно-денежные машины, детекторы фальшивых купюр, торговая реклама, автоматизация торговли, система автоматизации учета для торговли, складское оборудование, автоматическая идентификация, штрихкодовое оборудование, Denso, BHT, Metrologic, Chiper, CAS, Zebex, PSC, DataLogic, DataScan,  ICL, DataMax, Intermec, Bolet, Metler, TEC, Opticon, Eltron, Zebra, Bizerba, Scantech, Casio, Fujitsu, UPOS, OPOS, JavaPOS, ISBN, EDI, Siemens, Wincor, периферия, ISSN, оптовая торговля, розничная торговля">
+<meta name="keywords" content="retail, С‚РѕСЂРіРѕРІР»СЏ, СЂРѕР·РЅРёС†Р°, Р°РІС‚РѕРјР°С‚РёР·Р°С†РёСЏ, СѓС‡РµС‚, СЃРєР»Р°Рґ, СЃСѓРїРµСЂРјР°СЂРєРµС‚, РіРёРїРµСЂРјР°СЂРєРµС‚, РґРёСЃРєР°СѓРЅС‚РµСЂ, С€С‚СЂРёС…, РєРѕРґ, РѕРїС‚, РїСЂРёРЅС‚РµСЂ, СЃРєР°РЅРµСЂ, РєР°СЃСЃР°, РљРљРњ, POS, С‚РµСЂРјРёРЅР°Р», EAN, Р®РќРРљРћР”, РјР°РіР°Р·РёРЅ, РўРЎР”, Barcode, РЎРЎD, РІРµСЃС‹, С‡РµРє, Р»РµРЅС‚Р°, Р“РњР­Рљ, С€С‚СЂРёС…РєРѕРґ, Р РђР РЈРЎ, 1РЎ, РђР»СЊС„Р°-РђРІС‚Рѕ, С‚РѕСЂРіРѕРІС‹Р№ РґРѕРј, СЌР»РµРєС‚СЂРѕРЅРЅС‹Рµ РІРµСЃС‹, Р°РїС‚РµРєР°, С„Р°СЂРјР°С†РµРІС‚, РѕР±С‰РµРїРёС‚, СЂРµСЃС‚РѕСЂР°РЅ, СЂС‹РЅРѕРє, С‚РµСЂРјРёРЅР°Р» СЃР±РѕСЂР° РґР°РЅРЅС‹С…,  С‚РѕРІР°СЂ, С†РµРЅР°, СЂРµРµСЃС‚СЂ, РЅР°Р»РѕРі, С‚РѕСЂРіРѕРІРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ, РІРёС‚СЂРёРЅС‹, РїСЂРёР»Р°РІРєРё, Р±Р°СЂ, РєР°С„Рµ, СЃСѓРїРµСЂРјР°СЂРєРµС‚, СЌР»РµРєС‚СЂРѕРЅРЅС‹Рµ, РєР°СЃСЃРѕРІРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ, СЌС‚РёРєРµС‚РєРё, СЌС‚РёРєРµС‚РїРёСЃС‚РѕР»РµС‚С‹, РєРѕРЅС‚СЂРѕР»СЊРЅРѕ-РєР°СЃСЃРѕРІС‹Рµ РјР°С€РёРЅС‹, С‡РµРєРѕРІР°СЏ Р»РµРЅС‚Р°, СЃРµР№С„С‹, СЃС‡РµС‚РЅРѕ-РґРµРЅРµР¶РЅС‹Рµ РјР°С€РёРЅС‹, РґРµС‚РµРєС‚РѕСЂС‹ С„Р°Р»СЊС€РёРІС‹С… РєСѓРїСЋСЂ, С‚РѕСЂРіРѕРІР°СЏ СЂРµРєР»Р°РјР°, Р°РІС‚РѕРјР°С‚РёР·Р°С†РёСЏ С‚РѕСЂРіРѕРІР»Рё, СЃРёСЃС‚РµРјР° Р°РІС‚РѕРјР°С‚РёР·Р°С†РёРё СѓС‡РµС‚Р° РґР»СЏ С‚РѕСЂРіРѕРІР»Рё, СЃРєР»Р°РґСЃРєРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ, Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєР°СЏ РёРґРµРЅС‚РёС„РёРєР°С†РёСЏ, С€С‚СЂРёС…РєРѕРґРѕРІРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ, Denso, BHT, Metrologic, Chiper, CAS, Zebex, PSC, DataLogic, DataScan,  ICL, DataMax, Intermec, Bolet, Metler, TEC, Opticon, Eltron, Zebra, Bizerba, Scantech, Casio, Fujitsu, UPOS, OPOS, JavaPOS, ISBN, EDI, Siemens, Wincor, РїРµСЂРёС„РµСЂРёСЏ, ISSN, РѕРїС‚РѕРІР°СЏ С‚РѕСЂРіРѕРІР»СЏ, СЂРѕР·РЅРёС‡РЅР°СЏ С‚РѕСЂРіРѕРІР»СЏ">
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
 
 <link rel="stylesheet" href="/styles/general.css" type="text/css">
@@ -27,18 +27,18 @@
 
 <script language="JavaScript" src="/relocate.js" type="text/javascript"></script>
 <map name="topmap">
-  <area shape="rect" coords="1,1,96,28" href="/biblio/" alt="Библиотека">
-  <area shape="rect" coords="97,1,230,28" href="/shop/" alt="Книги">
-  <area shape="rect" coords="231,1,308,28" href="/auto/progs.asp" alt="Программы">
-  <area shape="rect" coords="309,1,408,28" href="/encycl/catalog.asp" alt="Оборудование">
-  <area shape="rect" coords="409,0,518,28" href="/automation/" alt="Автоматизация">
-  <area shape="rect" coords="519,1,591,28" href="/contacts.asp" alt="Контакты">
+  <area shape="rect" coords="1,1,96,28" href="/biblio/" alt="Р‘РёР±Р»РёРѕС‚РµРєР°">
+  <area shape="rect" coords="97,1,230,28" href="/shop/" alt="РљРЅРёРіРё">
+  <area shape="rect" coords="231,1,308,28" href="/auto/progs.asp" alt="РџСЂРѕРіСЂР°РјРјС‹">
+  <area shape="rect" coords="309,1,408,28" href="/encycl/catalog.asp" alt="РћР±РѕСЂСѓРґРѕРІР°РЅРёРµ">
+  <area shape="rect" coords="409,0,518,28" href="/automation/" alt="РђРІС‚РѕРјР°С‚РёР·Р°С†РёСЏ">
+  <area shape="rect" coords="519,1,591,28" href="/contacts.asp" alt="РљРѕРЅС‚Р°РєС‚С‹">
 </map>
-<a href="http://www.ibgroup.ru/retail/tolstogo.php" target="_blank"><img style="border:1px solid #2e72a3;" src="/banexch/pic/licedei.gif" alt="Лицедеи" width="780" height="60" border="0"></a>
+<a href="http://www.ibgroup.ru/retail/tolstogo.php" target="_blank"><img style="border:1px solid #2e72a3;" src="/banexch/pic/licedei.gif" alt="Р›РёС†РµРґРµРё" width="780" height="60" border="0"></a>
 <table border="0" cellspacing="0" cellpadding="0" width="760">
 <!--top-->
 <tr>
-      <td rowspan="2" width="160"><a href="/"><img src="/images/lefttop_eng.gif" width="160" height="92" border="0" alt="На главную страницу"></a></td>
+      <td rowspan="2" width="160"><a href="/"><img src="/images/lefttop_eng.gif" width="160" height="92" border="0" alt="РќР° РіР»Р°РІРЅСѓСЋ СЃС‚СЂР°РЅРёС†Сѓ"></a></td>
       <td width="600" bgcolor="#ffffff">
         <table border="0" cellspacing="0" cellpadding="0" width="600">
         <tr>
@@ -84,12 +84,12 @@
       </td>
 </tr>
 <tr>
-      <td><img src="/images/topnav_bar.gif" width="600" height="20" border="0" alt="Навигационная панель" usemap="#topmap"></td>
+      <td><img src="/images/topnav_bar.gif" width="600" height="20" border="0" alt="РќР°РІРёРіР°С†РёРѕРЅРЅР°СЏ РїР°РЅРµР»СЊ" usemap="#topmap"></td>
 </tr>
 <!--end of top-->
 <!--center part-->
 <tr>
-<td valign="top"><a href="/"><img src="/images/lefttop1_eng.gif" width="160" height="20" border="0" alt="На главную страницу"></a></td>
+<td valign="top"><a href="/"><img src="/images/lefttop1_eng.gif" width="160" height="20" border="0" alt="РќР° РіР»Р°РІРЅСѓСЋ СЃС‚СЂР°РЅРёС†Сѓ"></a></td>
 <td align="right" valign="bottom"><a href="javascript:for_print()"><img src="/images/printv.gif" width="99" height="13" border="0" alt=""></a></td>
 </tr>
 <tr>
@@ -186,7 +186,7 @@
 <td><img src="/images/1x1.gif" width="1" height="3" border="0" alt=""></td>
 </tr>
 
-<!--Рассылки новостей-->
+<!--Р Р°СЃСЃС‹Р»РєРё РЅРѕРІРѕСЃС‚РµР№-->
 <tr>
 <td valign="top" align="right">
         <table border="0" cellspacing="0" cellpadding="1"  width="100%">
@@ -194,7 +194,7 @@
         <td bgcolor="#2e72a3">
                 <table  width="100%" border="0" cellspacing="0" cellpadding="2">
                 <tr>
-                <td bgcolor="#b2cbdd" align="center"><p><b>Рассылки новостей </b></p></td>
+                <td bgcolor="#b2cbdd" align="center"><p><b>Р Р°СЃСЃС‹Р»РєРё РЅРѕРІРѕСЃС‚РµР№ </b></p></td>
                 </tr>
                 </table>
         </td>
@@ -212,14 +212,14 @@
          <form name="subs" action="http://new.retail.ru/mailing/index.php" method="post" style="padding:0; margin:0">
              <tr><td colspan="2" align="center">
             <br>
-			<a href="http://www.retail.ru/subscriber/4/">Новости торговли<br>(ежедневный выпуск)</a><br><br>
-           	<a href="http://www.retail.ru/subscriber/3/">Еженедельник Retail.ru<BR>(еженедельный выпуск)</a><br><br>
-           	<a href="http://www.retail.ru/shop/"><font color="red">Книжные новинки</font></a><br><br>
+			<a href="http://www.retail.ru/subscriber/4/">РќРѕРІРѕСЃС‚Рё С‚РѕСЂРіРѕРІР»Рё<br>(РµР¶РµРґРЅРµРІРЅС‹Р№ РІС‹РїСѓСЃРє)</a><br><br>
+           	<a href="http://www.retail.ru/subscriber/3/">Р•Р¶РµРЅРµРґРµР»СЊРЅРёРє Retail.ru<BR>(РµР¶РµРЅРµРґРµР»СЊРЅС‹Р№ РІС‹РїСѓСЃРє)</a><br><br>
+           	<a href="http://www.retail.ru/shop/"><font color="red">РљРЅРёР¶РЅС‹Рµ РЅРѕРІРёРЅРєРё</font></a><br><br>
                        </td></tr>
            <tr><td colspan="2" align="center"><p>
-             <input name="add" type="submit" value="Подписаться"><br><br>
+             <input name="add" type="submit" value="РџРѕРґРїРёСЃР°С‚СЊСЃСЏ"><br><br>
 
-               <a href="http://subscribe.ru/catalog/trade.retail555">master_class.retail.ru  на Subscribe.Ru </a></p></td></tr>
+               <a href="http://subscribe.ru/catalog/trade.retail555">master_class.retail.ru  РЅР° Subscribe.Ru </a></p></td></tr>
          </form>
         </table>
         </td>
@@ -228,13 +228,13 @@
 </td>
 </tr>
 
-<!--end of Рассылки новостей-->
+<!--end of Р Р°СЃСЃС‹Р»РєРё РЅРѕРІРѕСЃС‚РµР№-->
 
 <tr>
 <td><img src="/images/1x1.gif" width="1" height="3" border="0" alt=""></td>
 </tr>
 
-<!--Форма поиска-->
+<!--Р¤РѕСЂРјР° РїРѕРёСЃРєР°-->
 <tr>
 <td valign="top" align="right">
         <table border="0" cellspacing="0" cellpadding="1"  width="100%">
@@ -242,7 +242,7 @@
         <td bgcolor="#2e72a3">
                 <table  width="100%" border="0" cellspacing="0" cellpadding="2">
                 <tr>
-                <td bgcolor="#b2cbdd"><p><b>Поиск на сайте</b></p></td>
+                <td bgcolor="#b2cbdd"><p><b>РџРѕРёСЃРє РЅР° СЃР°Р№С‚Рµ</b></p></td>
                 </tr>
                 </table>
         </td>
@@ -260,14 +260,14 @@
               <table width="100%" border="0" cellspacing="0" cellpadding="2" bgcolor="#FFFFFF">
                <FORM name=web action=http://www.yandex.ru:8081/yandsearch method=get width="100%">
                   <tr><td align="center">
-                    <INPUT title="Введите слова для поиска" size="8" style="width:111px; height:16px" maxLength=160  name=text> 
+                    <INPUT title="Р’РІРµРґРёС‚Рµ СЃР»РѕРІР° РґР»СЏ РїРѕРёСЃРєР°" size="8" style="width:111px; height:16px" maxLength=160  name=text> 
                     <INPUT type=hidden value="http://www.retail.ru/" name=serverurl> 
                     <INPUT type=hidden value="Retail.ru" name=server_name> 
                     <INPUT type=hidden value="http://www.retail.ru/" name=referrer1> 
                     <INPUT type=hidden value="Retail.ru" name=referrer2>
                   </td></tr>
                   <tr><td align="center">
-                    <INPUT title=Найти! type=submit value=Найти! name=go><BR>
+                    <INPUT title=РќР°Р№С‚Рё! type=submit value=РќР°Р№С‚Рё! name=go><BR>
                   </td></tr>
                </FORM>
                </table>
@@ -277,7 +277,7 @@
 </td>
 </tr>
 
-<!--end Форма поиска-->
+<!--end Р¤РѕСЂРјР° РїРѕРёСЃРєР°-->
 
 
 
@@ -292,13 +292,13 @@
                 <tr>
                 <td bgcolor="ffffff" _bgcolor="E1E7EB" width="160">
 <P>
-<a href=/shop/ target=_blanc><b>Прайс-листы<br>интернет-магазина Retail.Ru</a>:</b><br>
-<a href="/shop/price.asp">- Прайс-лист на книги о розничной торговле</a><br>
-<a href="/shop/price_anot.asp">- Прайс-лист на книги о розничной торговле с краткими анотациями</a><br>&nbsp;<br>
+<a href=/shop/ target=_blanc><b>РџСЂР°Р№СЃ-Р»РёСЃС‚С‹<br>РёРЅС‚РµСЂРЅРµС‚-РјР°РіР°Р·РёРЅР° Retail.Ru</a>:</b><br>
+<a href="/shop/price.asp">- РџСЂР°Р№СЃ-Р»РёСЃС‚ РЅР° РєРЅРёРіРё Рѕ СЂРѕР·РЅРёС‡РЅРѕР№ С‚РѕСЂРіРѕРІР»Рµ</a><br>
+<a href="/shop/price_anot.asp">- РџСЂР°Р№СЃ-Р»РёСЃС‚ РЅР° РєРЅРёРіРё Рѕ СЂРѕР·РЅРёС‡РЅРѕР№ С‚РѕСЂРіРѕРІР»Рµ СЃ РєСЂР°С‚РєРёРјРё Р°РЅРѕС‚Р°С†РёСЏРјРё</a><br>&nbsp;<br>
 </P>
 <P>
-<a href=http://www.rarus.ru target=_blanc><b>Прайс-листы<br>компании &laquo;1C-Рарус&raquo;</a>:</b><br>
-<a href="/download/price.zip">- Прайс-лист на торговое оборудование, программы и услуги</a>
+<a href=http://www.rarus.ru target=_blanc><b>РџСЂР°Р№СЃ-Р»РёСЃС‚С‹<br>РєРѕРјРїР°РЅРёРё &laquo;1C-Р Р°СЂСѓСЃ&raquo;</a>:</b><br>
+<a href="/download/price.zip">- РџСЂР°Р№СЃ-Р»РёСЃС‚ РЅР° С‚РѕСЂРіРѕРІРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ, РїСЂРѕРіСЂР°РјРјС‹ Рё СѓСЃР»СѓРіРё</a>
 </P>
 
                 </td>
@@ -365,35 +365,35 @@
 <br><br>
         </center>
 
-<a href="/"><u>Главная</u></a>&nbsp;/&nbsp;<a href="/biblio/default.asp"><u>Библиотека</u></a>&nbsp;/&nbsp;<a href="/biblio/organization.asp"><u>Организация торговой компании</u></a>
-<h1>Зарубежный опыт</h1>
+<a href="/"><u>Р“Р»Р°РІРЅР°СЏ</u></a>&nbsp;/&nbsp;<a href="/biblio/default.asp"><u>Р‘РёР±Р»РёРѕС‚РµРєР°</u></a>&nbsp;/&nbsp;<a href="/biblio/organization.asp"><u>РћСЂРіР°РЅРёР·Р°С†РёСЏ С‚РѕСЂРіРѕРІРѕР№ РєРѕРјРїР°РЅРёРё</u></a>
+<h1>Р—Р°СЂСѓР±РµР¶РЅС‹Р№ РѕРїС‹С‚</h1>
 
 <ul>
-	<li><a href="/biblio/experience04.asp">Будущее белорусской розницы</a><br>
-	<i>(Интервью с Екатериной Богачевой, международным экспертом по мерчендайзингу, владелицей Академии мерчендайзинга™
+	<li><a href="/biblio/experience04.asp">Р‘СѓРґСѓС‰РµРµ Р±РµР»РѕСЂСѓСЃСЃРєРѕР№ СЂРѕР·РЅРёС†С‹</a><br>
+	<i>(РРЅС‚РµСЂРІСЊСЋ СЃ Р•РєР°С‚РµСЂРёРЅРѕР№ Р‘РѕРіР°С‡РµРІРѕР№, РјРµР¶РґСѓРЅР°СЂРѕРґРЅС‹Рј СЌРєСЃРїРµСЂС‚РѕРј РїРѕ РјРµСЂС‡РµРЅРґР°Р№Р·РёРЅРіСѓ, РІР»Р°РґРµР»РёС†РµР№ РђРєР°РґРµРјРёРё РјРµСЂС‡РµРЅРґР°Р№Р·РёРЅРіР°в„ў
   <a href="http://www.merchbook.com">www.merchbook.com</a>)</i></li>
-	<li><a href="/biblio/experience02.asp">Игра в защите </a><br><i>(Оборудование. Технологии и оборудование для магазинов, N01, 01.2006)</i></li>
-	<li><a href="/biblio/experience01.asp">Провинциальный миллиардер <br><i>(Свой Бизнес, N7(24), 07.2004)</i></li>
-	<li><a href="/biblio/foreign18.htm">Перекресток пяти дорог</a><br><i>(Инфобизнес)</i></li>
-	<li><a href="/biblio/foreign17.htm">Стратегии глобализации в розничной торговле продуктами питания</a><br><i>(ACNielsen декабрь 2002 г.)</i></li>
-	<li><a href="/biblio/tor/7_2002-1.htm">Успех нового дизайна магазина</a><br>  <i>(Торговое оборудование в России N7-2002)</i></li>
-	<li><a href="/biblio/foreign16.htm">О пользе трезвого расчета</a><br>  <i>(Новости торговли/Торговое оборудование №10, 2002)</i></li>
-	<li><a href="/biblio/foreign15.htm">Обзор: Стратегии розничных мировых розничных сетей.</a><br>  <i>(Центр Исследований РАМ, июль 2002)</i></li>
-	<li><a href="/biblio/foreign14.htm">Современные технологии розничной торговли.</a><br>  <i>(Retail Merchandaiser, июль 2002)</i></li>
-	<li><a href="/biblio/foreign13.htm">Записки о немецкой рознице.</a><br>  <i>("Эксперт:Оборудование" #6(66), июнь 2002)</i></li>
-	<li><a href="/biblio/foreign09.htm">Торговля в США: некоторые цифры.</a><br>  <i>(Офис N5, 2002)</i></li>
-	<li><a href="/biblio/foreign12.htm">Сети в сетях сетей.</a><br>  <i>(Офис N3, 2002)</i></li>
-	<li><a href="/biblio/foreign11.htm">Аквариум для покупателя или От товаров — к экосистеме.</a><br>  <i>(Офис N3, 2002)</i></li>
-	<li><a href="/biblio/foreign10.htm">Производительность в торговле.</a><br>  <i>(Офис N1-2, 2002)</i></li>
-	<li><a href="/biblio/shopm14.htm">Сколько стоит шоп-фиттинг?</a><br> <i>(Stores & shops, No 1/2002)</i></li>		
-	<li><a href="/articles/merch17.htm">За тех, кто не спит! Реклама в США. Конец ХХ века</a><br>  <i>("Рекламное Измерение" № 1 (66), 2000 г)</i></li>
-	<li><a href="/biblio/foreign07.htm">Зарубежный опыт: немецкий супермаркет</a><br>  <i>(Все для магазина, ресторана, отеля, склада. N5-2001)</i></li>
-	<li><a href="/biblio/foreign06.htm">…Плюс купонизация всей страны </a><br>  <i>("Рекламное Измерение" № 3 (68), 2000 г)</i></li>
-	<li><a href="/biblio/foreign05.htm">О торговле - без базара. Способы преодоления колебаний покупателя </a><br>  <i>("Рекламное Измерение" № 1 (42), 1998 г)</i></li>
-	<li><a href="/biblio/foreign04.htm">Скажите, пожалуйста, как пройти в...</a><br>  <i>("Рекламное Измерение" № 3 (44), 1998 г)</i></li>
-	<li><a href="/biblio/foreign03.htm">Розничная торговля: дискаунт </a><br>  <i>(Retail Intelligence/E-xecutive, 2001)</i></li>
-	<li><a href="/biblio/foreign02.htm">Борьба ритейлеров за новые рынки: пример Carrefour </a><br>  <i>(Retail Intelligence/E-xecutive, 2001)</i></li>
-	<li><a href="/biblio/foreign01.htm">…Магазин, который я выбираю</a><br>  <i>("Рекламное Измерение" № 7 (48), 1998 г)</i></li>
+	<li><a href="/biblio/experience02.asp">РРіСЂР° РІ Р·Р°С‰РёС‚Рµ </a><br><i>(РћР±РѕСЂСѓРґРѕРІР°РЅРёРµ. РўРµС…РЅРѕР»РѕРіРёРё Рё РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ РґР»СЏ РјР°РіР°Р·РёРЅРѕРІ, N01, 01.2006)</i></li>
+	<li><a href="/biblio/experience01.asp">РџСЂРѕРІРёРЅС†РёР°Р»СЊРЅС‹Р№ РјРёР»Р»РёР°СЂРґРµСЂ <br><i>(РЎРІРѕР№ Р‘РёР·РЅРµСЃ, N7(24), 07.2004)</i></li>
+	<li><a href="/biblio/foreign18.htm">РџРµСЂРµРєСЂРµСЃС‚РѕРє РїСЏС‚Рё РґРѕСЂРѕРі</a><br><i>(РРЅС„РѕР±РёР·РЅРµСЃ)</i></li>
+	<li><a href="/biblio/foreign17.htm">РЎС‚СЂР°С‚РµРіРёРё РіР»РѕР±Р°Р»РёР·Р°С†РёРё РІ СЂРѕР·РЅРёС‡РЅРѕР№ С‚РѕСЂРіРѕРІР»Рµ РїСЂРѕРґСѓРєС‚Р°РјРё РїРёС‚Р°РЅРёСЏ</a><br><i>(ACNielsen РґРµРєР°Р±СЂСЊ 2002 Рі.)</i></li>
+	<li><a href="/biblio/tor/7_2002-1.htm">РЈСЃРїРµС… РЅРѕРІРѕРіРѕ РґРёР·Р°Р№РЅР° РјР°РіР°Р·РёРЅР°</a><br>  <i>(РўРѕСЂРіРѕРІРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ РІ Р РѕСЃСЃРёРё N7-2002)</i></li>
+	<li><a href="/biblio/foreign16.htm">Рћ РїРѕР»СЊР·Рµ С‚СЂРµР·РІРѕРіРѕ СЂР°СЃС‡РµС‚Р°</a><br>  <i>(РќРѕРІРѕСЃС‚Рё С‚РѕСЂРіРѕРІР»Рё/РўРѕСЂРіРѕРІРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ в„–10, 2002)</i></li>
+	<li><a href="/biblio/foreign15.htm">РћР±Р·РѕСЂ: РЎС‚СЂР°С‚РµРіРёРё СЂРѕР·РЅРёС‡РЅС‹С… РјРёСЂРѕРІС‹С… СЂРѕР·РЅРёС‡РЅС‹С… СЃРµС‚РµР№.</a><br>  <i>(Р¦РµРЅС‚СЂ РСЃСЃР»РµРґРѕРІР°РЅРёР№ Р РђРњ, РёСЋР»СЊ 2002)</i></li>
+	<li><a href="/biblio/foreign14.htm">РЎРѕРІСЂРµРјРµРЅРЅС‹Рµ С‚РµС…РЅРѕР»РѕРіРёРё СЂРѕР·РЅРёС‡РЅРѕР№ С‚РѕСЂРіРѕРІР»Рё.</a><br>  <i>(Retail Merchandaiser, РёСЋР»СЊ 2002)</i></li>
+	<li><a href="/biblio/foreign13.htm">Р—Р°РїРёСЃРєРё Рѕ РЅРµРјРµС†РєРѕР№ СЂРѕР·РЅРёС†Рµ.</a><br>  <i>("Р­РєСЃРїРµСЂС‚:РћР±РѕСЂСѓРґРѕРІР°РЅРёРµ" #6(66), РёСЋРЅСЊ 2002)</i></li>
+	<li><a href="/biblio/foreign09.htm">РўРѕСЂРіРѕРІР»СЏ РІ РЎРЁРђ: РЅРµРєРѕС‚РѕСЂС‹Рµ С†РёС„СЂС‹.</a><br>  <i>(РћС„РёСЃ N5, 2002)</i></li>
+	<li><a href="/biblio/foreign12.htm">РЎРµС‚Рё РІ СЃРµС‚СЏС… СЃРµС‚РµР№.</a><br>  <i>(РћС„РёСЃ N3, 2002)</i></li>
+	<li><a href="/biblio/foreign11.htm">РђРєРІР°СЂРёСѓРј РґР»СЏ РїРѕРєСѓРїР°С‚РµР»СЏ РёР»Рё РћС‚ С‚РѕРІР°СЂРѕРІ вЂ” Рє СЌРєРѕСЃРёСЃС‚РµРјРµ.</a><br>  <i>(РћС„РёСЃ N3, 2002)</i></li>
+	<li><a href="/biblio/foreign10.htm">РџСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ РІ С‚РѕСЂРіРѕРІР»Рµ.</a><br>  <i>(РћС„РёСЃ N1-2, 2002)</i></li>
+	<li><a href="/biblio/shopm14.htm">РЎРєРѕР»СЊРєРѕ СЃС‚РѕРёС‚ С€РѕРї-С„РёС‚С‚РёРЅРі?</a><br> <i>(Stores & shops, No 1/2002)</i></li>		
+	<li><a href="/articles/merch17.htm">Р—Р° С‚РµС…, РєС‚Рѕ РЅРµ СЃРїРёС‚! Р РµРєР»Р°РјР° РІ РЎРЁРђ. РљРѕРЅРµС† РҐРҐ РІРµРєР°</a><br>  <i>("Р РµРєР»Р°РјРЅРѕРµ РР·РјРµСЂРµРЅРёРµ" в„– 1 (66), 2000 Рі)</i></li>
+	<li><a href="/biblio/foreign07.htm">Р—Р°СЂСѓР±РµР¶РЅС‹Р№ РѕРїС‹С‚: РЅРµРјРµС†РєРёР№ СЃСѓРїРµСЂРјР°СЂРєРµС‚</a><br>  <i>(Р’СЃРµ РґР»СЏ РјР°РіР°Р·РёРЅР°, СЂРµСЃС‚РѕСЂР°РЅР°, РѕС‚РµР»СЏ, СЃРєР»Р°РґР°. N5-2001)</i></li>
+	<li><a href="/biblio/foreign06.htm">вЂ¦РџР»СЋСЃ РєСѓРїРѕРЅРёР·Р°С†РёСЏ РІСЃРµР№ СЃС‚СЂР°РЅС‹ </a><br>  <i>("Р РµРєР»Р°РјРЅРѕРµ РР·РјРµСЂРµРЅРёРµ" в„– 3 (68), 2000 Рі)</i></li>
+	<li><a href="/biblio/foreign05.htm">Рћ С‚РѕСЂРіРѕРІР»Рµ - Р±РµР· Р±Р°Р·Р°СЂР°. РЎРїРѕСЃРѕР±С‹ РїСЂРµРѕРґРѕР»РµРЅРёСЏ РєРѕР»РµР±Р°РЅРёР№ РїРѕРєСѓРїР°С‚РµР»СЏ </a><br>  <i>("Р РµРєР»Р°РјРЅРѕРµ РР·РјРµСЂРµРЅРёРµ" в„– 1 (42), 1998 Рі)</i></li>
+	<li><a href="/biblio/foreign04.htm">РЎРєР°Р¶РёС‚Рµ, РїРѕР¶Р°Р»СѓР№СЃС‚Р°, РєР°Рє РїСЂРѕР№С‚Рё РІ...</a><br>  <i>("Р РµРєР»Р°РјРЅРѕРµ РР·РјРµСЂРµРЅРёРµ" в„– 3 (44), 1998 Рі)</i></li>
+	<li><a href="/biblio/foreign03.htm">Р РѕР·РЅРёС‡РЅР°СЏ С‚РѕСЂРіРѕРІР»СЏ: РґРёСЃРєР°СѓРЅС‚ </a><br>  <i>(Retail Intelligence/E-xecutive, 2001)</i></li>
+	<li><a href="/biblio/foreign02.htm">Р‘РѕСЂСЊР±Р° СЂРёС‚РµР№Р»РµСЂРѕРІ Р·Р° РЅРѕРІС‹Рµ СЂС‹РЅРєРё: РїСЂРёРјРµСЂ Carrefour </a><br>  <i>(Retail Intelligence/E-xecutive, 2001)</i></li>
+	<li><a href="/biblio/foreign01.htm">вЂ¦РњР°РіР°Р·РёРЅ, РєРѕС‚РѕСЂС‹Р№ СЏ РІС‹Р±РёСЂР°СЋ</a><br>  <i>("Р РµРєР»Р°РјРЅРѕРµ РР·РјРµСЂРµРЅРёРµ" в„– 7 (48), 1998 Рі)</i></li>
 </ul>
 </td></tr></table>
 <!-- set header_norm -->
@@ -415,9 +415,9 @@
 <td colspan="2">
         <table border="0" cellspacing="0" cellpadding="0">
         <tr>
-                <td><a href="http://www.retail.ru"><img src="/images/botwww.gif" width="160" height="24" border="0" alt="На главную страницу"></a></td>
+                <td><a href="http://www.retail.ru"><img src="/images/botwww.gif" width="160" height="24" border="0" alt="РќР° РіР»Р°РІРЅСѓСЋ СЃС‚СЂР°РЅРёС†Сѓ"></a></td>
 
-            <td><img src="/images/botnav_bar.gif" width="600" height="24" border="0" alt="Навигационная панель" usemap="#bmap"></td>
+            <td><img src="/images/botnav_bar.gif" width="600" height="24" border="0" alt="РќР°РІРёРіР°С†РёРѕРЅРЅР°СЏ РїР°РЅРµР»СЊ" usemap="#bmap"></td>
         </tr>
         </table>
 
@@ -431,7 +431,7 @@
 </center>
 <br>
 
-<!-- нижний банер тут -->
+<!-- РЅРёР¶РЅРёР№ Р±Р°РЅРµСЂ С‚СѓС‚ -->
 </td>
 </tr>
 <tr>
@@ -471,20 +471,20 @@ document.write("<script src='http://txt.adv.vz.ru/cgi-bin/iframe/retail?"+vztxt_
 
 </center>
 <map name="topmap">
-  <area shape="rect" coords="1,1,96,28" href="/biblio/" alt="Библиотека">
-  <area shape="rect" coords="97,1,230,28" href="/shop/" alt="Книги">
-  <area shape="rect" coords="231,1,308,28" href="/auto/progs.asp" alt="Программы">
-  <area shape="rect" coords="309,1,408,28" href="/encycl/catalog.asp" alt="Оборудование">
-  <area shape="rect" coords="409,0,518,28" href="/automation/" alt="Автоматизация">
-  <area shape="rect" coords="519,1,591,28" href="/contacts.asp" alt="Контакты">
+  <area shape="rect" coords="1,1,96,28" href="/biblio/" alt="Р‘РёР±Р»РёРѕС‚РµРєР°">
+  <area shape="rect" coords="97,1,230,28" href="/shop/" alt="РљРЅРёРіРё">
+  <area shape="rect" coords="231,1,308,28" href="/auto/progs.asp" alt="РџСЂРѕРіСЂР°РјРјС‹">
+  <area shape="rect" coords="309,1,408,28" href="/encycl/catalog.asp" alt="РћР±РѕСЂСѓРґРѕРІР°РЅРёРµ">
+  <area shape="rect" coords="409,0,518,28" href="/automation/" alt="РђРІС‚РѕРјР°С‚РёР·Р°С†РёСЏ">
+  <area shape="rect" coords="519,1,591,28" href="/contacts.asp" alt="РљРѕРЅС‚Р°РєС‚С‹">
 </map>
 <map name="bmap">
-  <area shape="rect" coords="7,1,97,33" href="/biblio/" alt="Библиотека">
-  <area shape="rect" coords="99,1,234,33" href="/shop/" alt="Книги">
-  <area shape="rect" coords="235,0,313,32" href="/auto/progs.asp" alt="Программы">
-  <area shape="rect" coords="314,1,412,32" href="/encycl/catalog.asp" alt="Оборудование">
-  <area shape="rect" coords="413,0,519,33" href="/automation/" alt="Автоматизация">
-  <area shape="rect" coords="522,1,592,33" href="/contacts.asp" alt="Контакты">
+  <area shape="rect" coords="7,1,97,33" href="/biblio/" alt="Р‘РёР±Р»РёРѕС‚РµРєР°">
+  <area shape="rect" coords="99,1,234,33" href="/shop/" alt="РљРЅРёРіРё">
+  <area shape="rect" coords="235,0,313,32" href="/auto/progs.asp" alt="РџСЂРѕРіСЂР°РјРјС‹">
+  <area shape="rect" coords="314,1,412,32" href="/encycl/catalog.asp" alt="РћР±РѕСЂСѓРґРѕРІР°РЅРёРµ">
+  <area shape="rect" coords="413,0,519,33" href="/automation/" alt="РђРІС‚РѕРјР°С‚РёР·Р°С†РёСЏ">
+  <area shape="rect" coords="522,1,592,33" href="/contacts.asp" alt="РљРѕРЅС‚Р°РєС‚С‹">
 </map>
 
 

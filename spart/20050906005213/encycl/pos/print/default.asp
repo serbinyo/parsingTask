@@ -1,8 +1,8 @@
 <HTML>
 <HEAD>
-<TITLE>Принтеры чеков / Каталог / Энциклопедия ТО / Retail.RU v3.0</TITLE>
+<TITLE>РџСЂРёРЅС‚РµСЂС‹ С‡РµРєРѕРІ / РљР°С‚Р°Р»РѕРі / Р­РЅС†РёРєР»РѕРїРµРґРёСЏ РўРћ / Retail.RU v3.0</TITLE>
 <META http-equiv="Content-Type" content="text/html">
-<meta name="keywords" content="retail, торговля, розница, автоматизация, учет, склад, супермаркет, гипермаркет, дискаунтер, штрих, код, опт, принтер, сканер, касса, ККМ, POS, терминал, EAN, ЮНИКОД, магазин, ТСД, Barcode, ССD, весы, чек, лента, ГМЭК, штрихкод, РАРУС, 1С, Альфа-Авто, торговый дом, электронные весы, аптека, фармацевт, общепит, ресторан, рынок, терминал сбора данных,  товар, цена, реестр, налог, торговое оборудование, витрины, прилавки, бар, кафе, супермаркет, электронные, кассовое оборудование, этикетки, этикетпистолеты, контрольно-кассовые машины, чековая лента, сейфы, счетно-денежные машины, детекторы фальшивых купюр, торговая реклама, автоматизация торговли, система автоматизации учета для торговли, складское оборудование, автоматическая идентификация, штрихкодовое оборудование, Denso, BHT, Metrologic, Chiper, CAS, Zebex, PSC, DataLogic, DataScan,  ICL, DataMax, Intermec, Bolet, Metler, TEC, Opticon, Eltron, Zebra, Bizerba, Scantech, Casio, Fujitsu, UPOS, OPOS, JavaPOS, ISBN, EDI, Siemens, Wincor, периферия, ISSN, оптовая торговля, розничная торговля">
+<meta name="keywords" content="retail, С‚РѕСЂРіРѕРІР»СЏ, СЂРѕР·РЅРёС†Р°, Р°РІС‚РѕРјР°С‚РёР·Р°С†РёСЏ, СѓС‡РµС‚, СЃРєР»Р°Рґ, СЃСѓРїРµСЂРјР°СЂРєРµС‚, РіРёРїРµСЂРјР°СЂРєРµС‚, РґРёСЃРєР°СѓРЅС‚РµСЂ, С€С‚СЂРёС…, РєРѕРґ, РѕРїС‚, РїСЂРёРЅС‚РµСЂ, СЃРєР°РЅРµСЂ, РєР°СЃСЃР°, РљРљРњ, POS, С‚РµСЂРјРёРЅР°Р», EAN, Р®РќРРљРћР”, РјР°РіР°Р·РёРЅ, РўРЎР”, Barcode, РЎРЎD, РІРµСЃС‹, С‡РµРє, Р»РµРЅС‚Р°, Р“РњР­Рљ, С€С‚СЂРёС…РєРѕРґ, Р РђР РЈРЎ, 1РЎ, РђР»СЊС„Р°-РђРІС‚Рѕ, С‚РѕСЂРіРѕРІС‹Р№ РґРѕРј, СЌР»РµРєС‚СЂРѕРЅРЅС‹Рµ РІРµСЃС‹, Р°РїС‚РµРєР°, С„Р°СЂРјР°С†РµРІС‚, РѕР±С‰РµРїРёС‚, СЂРµСЃС‚РѕСЂР°РЅ, СЂС‹РЅРѕРє, С‚РµСЂРјРёРЅР°Р» СЃР±РѕСЂР° РґР°РЅРЅС‹С…,  С‚РѕРІР°СЂ, С†РµРЅР°, СЂРµРµСЃС‚СЂ, РЅР°Р»РѕРі, С‚РѕСЂРіРѕРІРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ, РІРёС‚СЂРёРЅС‹, РїСЂРёР»Р°РІРєРё, Р±Р°СЂ, РєР°С„Рµ, СЃСѓРїРµСЂРјР°СЂРєРµС‚, СЌР»РµРєС‚СЂРѕРЅРЅС‹Рµ, РєР°СЃСЃРѕРІРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ, СЌС‚РёРєРµС‚РєРё, СЌС‚РёРєРµС‚РїРёСЃС‚РѕР»РµС‚С‹, РєРѕРЅС‚СЂРѕР»СЊРЅРѕ-РєР°СЃСЃРѕРІС‹Рµ РјР°С€РёРЅС‹, С‡РµРєРѕРІР°СЏ Р»РµРЅС‚Р°, СЃРµР№С„С‹, СЃС‡РµС‚РЅРѕ-РґРµРЅРµР¶РЅС‹Рµ РјР°С€РёРЅС‹, РґРµС‚РµРєС‚РѕСЂС‹ С„Р°Р»СЊС€РёРІС‹С… РєСѓРїСЋСЂ, С‚РѕСЂРіРѕРІР°СЏ СЂРµРєР»Р°РјР°, Р°РІС‚РѕРјР°С‚РёР·Р°С†РёСЏ С‚РѕСЂРіРѕРІР»Рё, СЃРёСЃС‚РµРјР° Р°РІС‚РѕРјР°С‚РёР·Р°С†РёРё СѓС‡РµС‚Р° РґР»СЏ С‚РѕСЂРіРѕРІР»Рё, СЃРєР»Р°РґСЃРєРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ, Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєР°СЏ РёРґРµРЅС‚РёС„РёРєР°С†РёСЏ, С€С‚СЂРёС…РєРѕРґРѕРІРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ, Denso, BHT, Metrologic, Chiper, CAS, Zebex, PSC, DataLogic, DataScan,  ICL, DataMax, Intermec, Bolet, Metler, TEC, Opticon, Eltron, Zebra, Bizerba, Scantech, Casio, Fujitsu, UPOS, OPOS, JavaPOS, ISBN, EDI, Siemens, Wincor, РїРµСЂРёС„РµСЂРёСЏ, ISSN, РѕРїС‚РѕРІР°СЏ С‚РѕСЂРіРѕРІР»СЏ, СЂРѕР·РЅРёС‡РЅР°СЏ С‚РѕСЂРіРѕРІР»СЏ">
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
 
 
@@ -26,17 +26,17 @@
 
 <script language="JavaScript" src="/relocate.js" type="text/javascript"></script>
 <map name="topmap">
-  <area shape="rect" coords="1,1,96,28" href="/biblio/" alt="Библиотека">
-  <area shape="rect" coords="97,1,230,28" href="/shop/" alt="Книги">
-  <area shape="rect" coords="231,1,308,28" href="/auto/progs.asp" alt="Программы">
-  <area shape="rect" coords="309,1,408,28" href="/encycl/catalog.asp" alt="Оборудование">
-  <area shape="rect" coords="409,0,518,28" href="/automation/" alt="Автоматизация">
-  <area shape="rect" coords="519,1,591,28" href="/contacts.asp" alt="Контакты">
+  <area shape="rect" coords="1,1,96,28" href="/biblio/" alt="Р‘РёР±Р»РёРѕС‚РµРєР°">
+  <area shape="rect" coords="97,1,230,28" href="/shop/" alt="РљРЅРёРіРё">
+  <area shape="rect" coords="231,1,308,28" href="/auto/progs.asp" alt="РџСЂРѕРіСЂР°РјРјС‹">
+  <area shape="rect" coords="309,1,408,28" href="/encycl/catalog.asp" alt="РћР±РѕСЂСѓРґРѕРІР°РЅРёРµ">
+  <area shape="rect" coords="409,0,518,28" href="/automation/" alt="РђРІС‚РѕРјР°С‚РёР·Р°С†РёСЏ">
+  <area shape="rect" coords="519,1,591,28" href="/contacts.asp" alt="РљРѕРЅС‚Р°РєС‚С‹">
 </map>
 <table border="0" cellspacing="0" cellpadding="0" width="760">
 <!--top-->
 <tr>
-      <td rowspan="2" width="160"><a href="/"><img src="/images/lefttop_eng.gif" width="160" height="92" border="0" alt="На главную страницу"></a></td>
+      <td rowspan="2" width="160"><a href="/"><img src="/images/lefttop_eng.gif" width="160" height="92" border="0" alt="РќР° РіР»Р°РІРЅСѓСЋ СЃС‚СЂР°РЅРёС†Сѓ"></a></td>
       <td width="600" bgcolor="#ffffff">
         <table border="0" cellspacing="0" cellpadding="0" width="600">
         <tr>
@@ -72,12 +72,12 @@ scrolling=no frameborder=0></if rame>
       </td>
 </tr>
 <tr>
-      <td><img src="/images/topnav_bar.gif" width="600" height="20" border="0" alt="Навигационная панель" usemap="#topmap"></td>
+      <td><img src="/images/topnav_bar.gif" width="600" height="20" border="0" alt="РќР°РІРёРіР°С†РёРѕРЅРЅР°СЏ РїР°РЅРµР»СЊ" usemap="#topmap"></td>
 </tr>
 <!--end of top-->
 <!--center part-->
 <tr>
-<td valign="top"><a href="/"><img src="/images/lefttop1_eng.gif" width="160" height="20" border="0" alt="На главную страницу"></a></td>
+<td valign="top"><a href="/"><img src="/images/lefttop1_eng.gif" width="160" height="20" border="0" alt="РќР° РіР»Р°РІРЅСѓСЋ СЃС‚СЂР°РЅРёС†Сѓ"></a></td>
 <td align="right" valign="bottom"><a href="javascript:for_print()"><img src="/images/printv.gif" width="99" height="13" border="0" alt=""></a></td>
 </tr>
 <tr>
@@ -152,7 +152,7 @@ scrolling=no frameborder=0></if rame>
 <td><img src="/images/1x1.gif" width="1" height="3" border="0" alt=""></td>
 </tr>
 
-<!--Рассылки новостей-->
+<!--Р Р°СЃСЃС‹Р»РєРё РЅРѕРІРѕСЃС‚РµР№-->
 
 <tr>
 <td valign="top" align="right">
@@ -161,7 +161,7 @@ scrolling=no frameborder=0></if rame>
         <td bgcolor="#2e72a3">
                 <table  width="100%" border="0" cellspacing="0" cellpadding="2">
                 <tr>
-                <td bgcolor="b2cbdd"><p><b>Рассылки новостей</b></p></td>
+                <td bgcolor="b2cbdd"><p><b>Р Р°СЃСЃС‹Р»РєРё РЅРѕРІРѕСЃС‚РµР№</b></p></td>
                 </tr>
                 </table>
         </td>
@@ -180,25 +180,25 @@ function validateEmail() {
         var email = document.subs.subscribers.value;
         if (String(email).length<=7) {
                 if (String(email).length==0) {
-                        alert("Пожалуйста, введите адрес!");
+                        alert("РџРѕР¶Р°Р»СѓР№СЃС‚Р°, РІРІРµРґРёС‚Рµ Р°РґСЂРµСЃ!");
                 } else {
-                        alert("Слишком короткий адрес!");
+                        alert("РЎР»РёС€РєРѕРј РєРѕСЂРѕС‚РєРёР№ Р°РґСЂРµСЃ!");
                 }
                 return false;
         }
 
         var mischars = Array("&", "?", "/", ":", "=", "+", "%", "<", ">");
         for (i=0; i<mischars.length; i++) if (email.indexOf(mischars[i])!=-1) {
-                alert("Адрес содержит недопустимый символ!");
+                alert("РђРґСЂРµСЃ СЃРѕРґРµСЂР¶РёС‚ РЅРµРґРѕРїСѓСЃС‚РёРјС‹Р№ СЃРёРјРІРѕР»!");
                 return false;
         }
 
         if ((email.indexOf("@")==-1 || email.indexOf("@")==0) || email.indexOf("@")==String(email).length) {
-                alert("Неверный адрес!");
+                alert("РќРµРІРµСЂРЅС‹Р№ Р°РґСЂРµСЃ!");
                 return false;
         }
         if ((email.indexOf(".")==-1 || email.indexOf(".")==0) || email.indexOf(".")==String(email).length) {
-                alert("Неверный адрес!");
+                alert("РќРµРІРµСЂРЅС‹Р№ Р°РґСЂРµСЃ!");
                 return false;
         }
 
@@ -207,21 +207,21 @@ function validateEmail() {
 </script>
         <table bgcolor="#ffffff" width="100%" border="0" cellspacing="0" cellpadding="0">
          <form name="subs" action="/_mailing/add-single.asp" method="post" onsubmit="return validateEmail()" style="padding:0; margin:0">
-           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="weekly" value="subs" CHECKED><a href="http://www.retail.ru/arch/">Новости Retail.Ru<br>(еженедельный выпуск)</a></font></td></tr>
-           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="daily" value="subs" CHECKED><a href="http://www.retail.ru/subscriber/4/">Новости торговли<br>(ежедневный выпуск)</a></font></td></tr>
-           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="rus_rinw" value="subs" CHECKED><a href="http://www.retail.ru/subscriber/3/">Новости торговли<BR>(еженедельный выпуск)</a></font></td></tr>
-           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="rus_riam" value="subs" CHECKED><a href="http://www.retail.ru/subscriber/2/">Автоматизация предприятий торговли<BR>(ежемесячный выпуск)</a></font></td></tr>
-           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="rus_shop" value="subs" CHECKED><a href="http://www.retail.ru/shop/">Новости интернет-магазина Retail.Ru</a></font></td></tr>
+           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="weekly" value="subs" CHECKED><a href="http://www.retail.ru/arch/">РќРѕРІРѕСЃС‚Рё Retail.Ru<br>(РµР¶РµРЅРµРґРµР»СЊРЅС‹Р№ РІС‹РїСѓСЃРє)</a></font></td></tr>
+           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="daily" value="subs" CHECKED><a href="http://www.retail.ru/subscriber/4/">РќРѕРІРѕСЃС‚Рё С‚РѕСЂРіРѕРІР»Рё<br>(РµР¶РµРґРЅРµРІРЅС‹Р№ РІС‹РїСѓСЃРє)</a></font></td></tr>
+           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="rus_rinw" value="subs" CHECKED><a href="http://www.retail.ru/subscriber/3/">РќРѕРІРѕСЃС‚Рё С‚РѕСЂРіРѕРІР»Рё<BR>(РµР¶РµРЅРµРґРµР»СЊРЅС‹Р№ РІС‹РїСѓСЃРє)</a></font></td></tr>
+           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="rus_riam" value="subs" CHECKED><a href="http://www.retail.ru/subscriber/2/">РђРІС‚РѕРјР°С‚РёР·Р°С†РёСЏ РїСЂРµРґРїСЂРёСЏС‚РёР№ С‚РѕСЂРіРѕРІР»Рё<BR>(РµР¶РµРјРµСЃСЏС‡РЅС‹Р№ РІС‹РїСѓСЃРє)</a></font></td></tr>
+           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="rus_shop" value="subs" CHECKED><a href="http://www.retail.ru/shop/">РќРѕРІРѕСЃС‚Рё РёРЅС‚РµСЂРЅРµС‚-РјР°РіР°Р·РёРЅР° Retail.Ru</a></font></td></tr>
 
-           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="ua_daily" value="subs" CHECKED><a href="http://www.retail.ru/arch/">Новости Retail.Ru - Украинская Редакция<br>(ежедневный выпуск)</a></font></td></tr>
+           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="ua_daily" value="subs" CHECKED><a href="http://www.retail.ru/arch/">РќРѕРІРѕСЃС‚Рё Retail.Ru - РЈРєСЂР°РёРЅСЃРєР°СЏ Р РµРґР°РєС†РёСЏ<br>(РµР¶РµРґРЅРµРІРЅС‹Р№ РІС‹РїСѓСЃРє)</a></font></td></tr>
 
 <!--           <tr><td colspan="2" align="left"><font color="#255a80"><INPUT TYPE=checkbox name="rwna" value="subs">Retail.Ru Weekly News & Announces</font></td></tr> -->
            <tr><td colspan="2" align="left"><font color="#255a80"><INPUT TYPE=checkbox name="rind" value="subs">Retail Industry<br>News Daily</font></td></tr>
 <!--           <tr><td colspan="2" align="left"><font color="#255a80"><INPUT TYPE=checkbox name="rinw" value="subs">Retail Industry<br>News Weekly</font></td></tr>
            <tr><td colspan="2" align="left"><font color="#255a80"><INPUT TYPE=checkbox name="riam" value="subs">Retail Industry Automation Monthly</font></td></tr> -->
 
-           <tr><td colspan="2" align="center">&nbsp;<input name="subscribers" size="10" VALUE="ваш e-mail" style="width:111px;" type="text" onfocus='if (this.value=="ваш e-mail") this.value=""' onblur='if (this.value=="") this.value="ваш e-mail"'></td></tr>
-           <tr><td colspan="2" align="center"><input name="add" type="submit" value="Подписаться"></td></tr>
+           <tr><td colspan="2" align="center">&nbsp;<input name="subscribers" size="10" VALUE="РІР°С€ e-mail" style="width:111px;" type="text" onfocus='if (this.value=="РІР°С€ e-mail") this.value=""' onblur='if (this.value=="") this.value="РІР°С€ e-mail"'></td></tr>
+           <tr><td colspan="2" align="center"><input name="add" type="submit" value="РџРѕРґРїРёСЃР°С‚СЊСЃСЏ"></td></tr>
          </form>
         </table>
         </td>
@@ -231,7 +231,7 @@ function validateEmail() {
 </tr>
 
 
-<!--end of Рассылки новостей-->
+<!--end of Р Р°СЃСЃС‹Р»РєРё РЅРѕРІРѕСЃС‚РµР№-->
 
 <tr><td><img src="/images/1x1.gif" width="160" height="3" border="0" alt=""></td></tr>
 
@@ -244,13 +244,13 @@ function validateEmail() {
                 <tr>
                 <td bgcolor="ffffff" _bgcolor="E1E7EB" width="160">
 <P>
-<a href=/shop/ target=_blanc><b>Прайс-листы<br>интернет-магазина Retail.Ru</a>:</b><br>
-<a href="/shop/price.asp">- Прайс-лист на книги о розничной торговле</a><br>
-<a href="/shop/price_anot.asp">- Прайс-лист на книги о розничной торговле с краткими анотациями</a><br>&nbsp;<br>
+<a href=/shop/ target=_blanc><b>РџСЂР°Р№СЃ-Р»РёСЃС‚С‹<br>РёРЅС‚РµСЂРЅРµС‚-РјР°РіР°Р·РёРЅР° Retail.Ru</a>:</b><br>
+<a href="/shop/price.asp">- РџСЂР°Р№СЃ-Р»РёСЃС‚ РЅР° РєРЅРёРіРё Рѕ СЂРѕР·РЅРёС‡РЅРѕР№ С‚РѕСЂРіРѕРІР»Рµ</a><br>
+<a href="/shop/price_anot.asp">- РџСЂР°Р№СЃ-Р»РёСЃС‚ РЅР° РєРЅРёРіРё Рѕ СЂРѕР·РЅРёС‡РЅРѕР№ С‚РѕСЂРіРѕРІР»Рµ СЃ РєСЂР°С‚РєРёРјРё Р°РЅРѕС‚Р°С†РёСЏРјРё</a><br>&nbsp;<br>
 </P>
 <P>
-<a href=http://www.rarus.ru target=_blanc><b>Прайс-листы<br>компании &laquo;1C-Рарус&raquo;</a>:</b><br>
-<a href="/download/price.zip">- Прайс-лист на торговое оборудование, программы и услуги</a>
+<a href=http://www.rarus.ru target=_blanc><b>РџСЂР°Р№СЃ-Р»РёСЃС‚С‹<br>РєРѕРјРїР°РЅРёРё &laquo;1C-Р Р°СЂСѓСЃ&raquo;</a>:</b><br>
+<a href="/download/price.zip">- РџСЂР°Р№СЃ-Р»РёСЃС‚ РЅР° С‚РѕСЂРіРѕРІРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ, РїСЂРѕРіСЂР°РјРјС‹ Рё СѓСЃР»СѓРіРё</a>
 </P>
 
                 </td>
@@ -269,13 +269,13 @@ function validateEmail() {
         <tr>
         <td>
 
-<a href="/encycl/catalog.asp"><u>Оборудование</u></a>&nbsp;/&nbsp;<a href="/encycl/pos.asp"><u>POS-периферия</u></a>&nbsp;/&nbsp;Принтеры чеков
-<h1>Принтеры чеков</h1>
+<a href="/encycl/catalog.asp"><u>РћР±РѕСЂСѓРґРѕРІР°РЅРёРµ</u></a>&nbsp;/&nbsp;<a href="/encycl/pos.asp"><u>POS-РїРµСЂРёС„РµСЂРёСЏ</u></a>&nbsp;/&nbsp;РџСЂРёРЅС‚РµСЂС‹ С‡РµРєРѕРІ
+<h1>РџСЂРёРЅС‚РµСЂС‹ С‡РµРєРѕРІ</h1>
 <ul>
-	<li><a href="/encycl/cass/epson/">Принтеры чеков EPSON</a></li>
-	<li><a href="/encycl/cass/siemens/">Принтеры чеков Siemens</a></li>
-	<li><a href="/encycl/pos/print/star/">Принтеры чеков Star</a></li>
-	<li><a href="/encycl/pos/print/axiohm/">Принтер чеков Axiohm</a></li>
+	<li><a href="/encycl/cass/epson/">РџСЂРёРЅС‚РµСЂС‹ С‡РµРєРѕРІ EPSON</a></li>
+	<li><a href="/encycl/cass/siemens/">РџСЂРёРЅС‚РµСЂС‹ С‡РµРєРѕРІ Siemens</a></li>
+	<li><a href="/encycl/pos/print/star/">РџСЂРёРЅС‚РµСЂС‹ С‡РµРєРѕРІ Star</a></li>
+	<li><a href="/encycl/pos/print/axiohm/">РџСЂРёРЅС‚РµСЂ С‡РµРєРѕРІ Axiohm</a></li>
 </ul>
 
 <!-- set header_norm -->
@@ -293,9 +293,9 @@ function validateEmail() {
 <td colspan="2">
         <table border="0" cellspacing="0" cellpadding="0">
         <tr>
-                <td><a href="http://www.retail.ru"><img src="/images/botwww.gif" width="160" height="24" border="0" alt="На главную страницу"></a></td>
+                <td><a href="http://www.retail.ru"><img src="/images/botwww.gif" width="160" height="24" border="0" alt="РќР° РіР»Р°РІРЅСѓСЋ СЃС‚СЂР°РЅРёС†Сѓ"></a></td>
 
-            <td><img src="/images/botnav_bar.gif" width="600" height="24" border="0" alt="Навигационная панель" usemap="#bmap"></td>
+            <td><img src="/images/botnav_bar.gif" width="600" height="24" border="0" alt="РќР°РІРёРіР°С†РёРѕРЅРЅР°СЏ РїР°РЅРµР»СЊ" usemap="#bmap"></td>
         </tr>
         </table>
 </td>
@@ -315,20 +315,20 @@ function validateEmail() {
 
 </center>
 <map name="topmap"> 
-  <area shape="rect" coords="1,1,96,28" href="/biblio/" alt="Библиотека">
-  <area shape="rect" coords="97,1,230,28" href="/shop/" alt="Книги">
-  <area shape="rect" coords="231,1,308,28" href="/auto/progs.asp" alt="Программы">
-  <area shape="rect" coords="309,1,408,28" href="/encycl/catalog.asp" alt="Оборудование">
-  <area shape="rect" coords="409,0,518,28" href="/automation/" alt="Автоматизация">
-  <area shape="rect" coords="519,1,591,28" href="/contacts.asp" alt="Контакты">
+  <area shape="rect" coords="1,1,96,28" href="/biblio/" alt="Р‘РёР±Р»РёРѕС‚РµРєР°">
+  <area shape="rect" coords="97,1,230,28" href="/shop/" alt="РљРЅРёРіРё">
+  <area shape="rect" coords="231,1,308,28" href="/auto/progs.asp" alt="РџСЂРѕРіСЂР°РјРјС‹">
+  <area shape="rect" coords="309,1,408,28" href="/encycl/catalog.asp" alt="РћР±РѕСЂСѓРґРѕРІР°РЅРёРµ">
+  <area shape="rect" coords="409,0,518,28" href="/automation/" alt="РђРІС‚РѕРјР°С‚РёР·Р°С†РёСЏ">
+  <area shape="rect" coords="519,1,591,28" href="/contacts.asp" alt="РљРѕРЅС‚Р°РєС‚С‹">
 </map>
 <map name="bmap"> 
-  <area shape="rect" coords="7,1,97,33" href="/biblio/" alt="Библиотека">
-  <area shape="rect" coords="99,1,234,33" href="/shop/" alt="Книги">
-  <area shape="rect" coords="235,0,313,32" href="/auto/progs.asp" alt="Программы">
-  <area shape="rect" coords="314,1,412,32" href="/encycl/catalog.asp" alt="Оборудование">
-  <area shape="rect" coords="413,0,519,33" href="/automation/" alt="Автоматизация">
-  <area shape="rect" coords="522,1,592,33" href="/contacts.asp" alt="Контакты">
+  <area shape="rect" coords="7,1,97,33" href="/biblio/" alt="Р‘РёР±Р»РёРѕС‚РµРєР°">
+  <area shape="rect" coords="99,1,234,33" href="/shop/" alt="РљРЅРёРіРё">
+  <area shape="rect" coords="235,0,313,32" href="/auto/progs.asp" alt="РџСЂРѕРіСЂР°РјРјС‹">
+  <area shape="rect" coords="314,1,412,32" href="/encycl/catalog.asp" alt="РћР±РѕСЂСѓРґРѕРІР°РЅРёРµ">
+  <area shape="rect" coords="413,0,519,33" href="/automation/" alt="РђРІС‚РѕРјР°С‚РёР·Р°С†РёСЏ">
+  <area shape="rect" coords="522,1,592,33" href="/contacts.asp" alt="РљРѕРЅС‚Р°РєС‚С‹">
 </map>
 
 

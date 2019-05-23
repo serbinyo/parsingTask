@@ -1,8 +1,8 @@
 <HTML>
 <HEAD>
-<TITLE>Открыт 190-й магазин «АТБ» в Украине / Retail.RU v3.0 </TITLE>
+<TITLE>РћС‚РєСЂС‹С‚ 190-Р№ РјР°РіР°Р·РёРЅ В«РђРўР‘В» РІ РЈРєСЂР°РёРЅРµ / Retail.RU v3.0 </TITLE>
 <META http-equiv="Content-Type" content="text/html">
-<meta name="keywords" content="retail, торговля, розница, автоматизация, учет, склад, супермаркет, гипермаркет, дискаунтер, штрих, код, опт, принтер, сканер, касса, ККМ, POS, терминал, EAN, ЮНИКОД, магазин, ТСД, Barcode, ССD, весы, чек, лента, ГМЭК, штрихкод, РАРУС, 1С, Альфа-Авто, торговый дом, электронные весы, аптека, фармацевт, общепит, ресторан, рынок, терминал сбора данных,  товар, цена, реестр, налог, торговое оборудование, витрины, прилавки, бар, кафе, супермаркет, электронные, кассовое оборудование, этикетки, этикетпистолеты, контрольно-кассовые машины, чековая лента, сейфы, счетно-денежные машины, детекторы фальшивых купюр, торговая реклама, автоматизация торговли, система автоматизации учета для торговли, складское оборудование, автоматическая идентификация, штрихкодовое оборудование, Denso, BHT, Metrologic, Chiper, CAS, Zebex, PSC, DataLogic, DataScan,  ICL, DataMax, Intermec, Bolet, Metler, TEC, Opticon, Eltron, Zebra, Bizerba, Scantech, Casio, Fujitsu, UPOS, OPOS, JavaPOS, ISBN, EDI, Siemens, Wincor, периферия, ISSN, оптовая торговля, розничная торговля">
+<meta name="keywords" content="retail, С‚РѕСЂРіРѕРІР»СЏ, СЂРѕР·РЅРёС†Р°, Р°РІС‚РѕРјР°С‚РёР·Р°С†РёСЏ, СѓС‡РµС‚, СЃРєР»Р°Рґ, СЃСѓРїРµСЂРјР°СЂРєРµС‚, РіРёРїРµСЂРјР°СЂРєРµС‚, РґРёСЃРєР°СѓРЅС‚РµСЂ, С€С‚СЂРёС…, РєРѕРґ, РѕРїС‚, РїСЂРёРЅС‚РµСЂ, СЃРєР°РЅРµСЂ, РєР°СЃСЃР°, РљРљРњ, POS, С‚РµСЂРјРёРЅР°Р», EAN, Р®РќРРљРћР”, РјР°РіР°Р·РёРЅ, РўРЎР”, Barcode, РЎРЎD, РІРµСЃС‹, С‡РµРє, Р»РµРЅС‚Р°, Р“РњР­Рљ, С€С‚СЂРёС…РєРѕРґ, Р РђР РЈРЎ, 1РЎ, РђР»СЊС„Р°-РђРІС‚Рѕ, С‚РѕСЂРіРѕРІС‹Р№ РґРѕРј, СЌР»РµРєС‚СЂРѕРЅРЅС‹Рµ РІРµСЃС‹, Р°РїС‚РµРєР°, С„Р°СЂРјР°С†РµРІС‚, РѕР±С‰РµРїРёС‚, СЂРµСЃС‚РѕСЂР°РЅ, СЂС‹РЅРѕРє, С‚РµСЂРјРёРЅР°Р» СЃР±РѕСЂР° РґР°РЅРЅС‹С…,  С‚РѕРІР°СЂ, С†РµРЅР°, СЂРµРµСЃС‚СЂ, РЅР°Р»РѕРі, С‚РѕСЂРіРѕРІРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ, РІРёС‚СЂРёРЅС‹, РїСЂРёР»Р°РІРєРё, Р±Р°СЂ, РєР°С„Рµ, СЃСѓРїРµСЂРјР°СЂРєРµС‚, СЌР»РµРєС‚СЂРѕРЅРЅС‹Рµ, РєР°СЃСЃРѕРІРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ, СЌС‚РёРєРµС‚РєРё, СЌС‚РёРєРµС‚РїРёСЃС‚РѕР»РµС‚С‹, РєРѕРЅС‚СЂРѕР»СЊРЅРѕ-РєР°СЃСЃРѕРІС‹Рµ РјР°С€РёРЅС‹, С‡РµРєРѕРІР°СЏ Р»РµРЅС‚Р°, СЃРµР№С„С‹, СЃС‡РµС‚РЅРѕ-РґРµРЅРµР¶РЅС‹Рµ РјР°С€РёРЅС‹, РґРµС‚РµРєС‚РѕСЂС‹ С„Р°Р»СЊС€РёРІС‹С… РєСѓРїСЋСЂ, С‚РѕСЂРіРѕРІР°СЏ СЂРµРєР»Р°РјР°, Р°РІС‚РѕРјР°С‚РёР·Р°С†РёСЏ С‚РѕСЂРіРѕРІР»Рё, СЃРёСЃС‚РµРјР° Р°РІС‚РѕРјР°С‚РёР·Р°С†РёРё СѓС‡РµС‚Р° РґР»СЏ С‚РѕСЂРіРѕРІР»Рё, СЃРєР»Р°РґСЃРєРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ, Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєР°СЏ РёРґРµРЅС‚РёС„РёРєР°С†РёСЏ, С€С‚СЂРёС…РєРѕРґРѕРІРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ, Denso, BHT, Metrologic, Chiper, CAS, Zebex, PSC, DataLogic, DataScan,  ICL, DataMax, Intermec, Bolet, Metler, TEC, Opticon, Eltron, Zebra, Bizerba, Scantech, Casio, Fujitsu, UPOS, OPOS, JavaPOS, ISBN, EDI, Siemens, Wincor, РїРµСЂРёС„РµСЂРёСЏ, ISSN, РѕРїС‚РѕРІР°СЏ С‚РѕСЂРіРѕРІР»СЏ, СЂРѕР·РЅРёС‡РЅР°СЏ С‚РѕСЂРіРѕРІР»СЏ">
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
 
 <link rel="stylesheet" href="file:///E|/styles/general.css" type="text/css">
@@ -17,17 +17,17 @@
 
 <script language="JavaScript" src="/relocate.js" type="text/javascript"></script>
 <map name="topmap">
-  <area shape="rect" coords="1,1,96,28" href="/ua/biblio/" alt="Библиотека">
-  <area shape="rect" coords="97,1,230,28" href="/shop/" alt="Книги">
-  <area shape="rect" coords="231,1,308,28" href="/auto/progs.asp" alt="Программы">
-  <area shape="rect" coords="309,1,408,28" href="/encycl/catalog.asp" alt="Оборудование">
-  <area shape="rect" coords="409,0,518,28" href="/automation/" alt="Автоматизация">
-  <area shape="rect" coords="519,1,591,28" href="/ua/feedback.asp" alt="Контакты">
+  <area shape="rect" coords="1,1,96,28" href="/ua/biblio/" alt="Р‘РёР±Р»РёРѕС‚РµРєР°">
+  <area shape="rect" coords="97,1,230,28" href="/shop/" alt="РљРЅРёРіРё">
+  <area shape="rect" coords="231,1,308,28" href="/auto/progs.asp" alt="РџСЂРѕРіСЂР°РјРјС‹">
+  <area shape="rect" coords="309,1,408,28" href="/encycl/catalog.asp" alt="РћР±РѕСЂСѓРґРѕРІР°РЅРёРµ">
+  <area shape="rect" coords="409,0,518,28" href="/automation/" alt="РђРІС‚РѕРјР°С‚РёР·Р°С†РёСЏ">
+  <area shape="rect" coords="519,1,591,28" href="/ua/feedback.asp" alt="РљРѕРЅС‚Р°РєС‚С‹">
 </map>
 <table border="0" cellspacing="0" cellpadding="0" width="760">
 <!--top-->
 <tr>
-      <td rowspan="2" width="160"><a href="/ua/"><img src="/images/lefttop_eng.gif" width="160" height="92" border="0" alt="На главную страницу"></a></td>
+      <td rowspan="2" width="160"><a href="/ua/"><img src="/images/lefttop_eng.gif" width="160" height="92" border="0" alt="РќР° РіР»Р°РІРЅСѓСЋ СЃС‚СЂР°РЅРёС†Сѓ"></a></td>
       <td width="600" bgcolor="#ffffff">
         <table border="0" cellspacing="0" cellpadding="0" width="600">
         <tr>
@@ -38,7 +38,7 @@
 <td><a href="/reklama.htm"><img src="/images/rek1.gif" width="14" height="60" border="0" alt=""></a></td>
 <td>
 
-<!-- TOP банер -->
+<!-- TOP Р±Р°РЅРµСЂ -->
 
   <!--<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
                       codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"
@@ -52,7 +52,7 @@
                   </OBJECT>-->
 <a target="_blank" href=/banexch/click.asp?bid=90><img src="/banexch/showbaner.asp?bid=90" border="0"></a><br>
     <!-- <br> -->
-<!-- TOP банер END-->
+<!-- TOP Р±Р°РЅРµСЂ END-->
 
 
 </td>
@@ -66,12 +66,12 @@
       </td>
 </tr>
 <tr>
-      <td><img src="/images/topnav_bar.gif" width="600" height="20" border="0" alt="Навигационная панель" usemap="#topmap"></td>
+      <td><img src="/images/topnav_bar.gif" width="600" height="20" border="0" alt="РќР°РІРёРіР°С†РёРѕРЅРЅР°СЏ РїР°РЅРµР»СЊ" usemap="#topmap"></td>
 </tr>
 <!--end of top-->
 <!--center part-->
 <tr>
-<td valign="top"><a href="/"><img src="/images/lefttop1_eng.gif" width="160" height="20" border="0" alt="На главную страницу"></a></td>
+<td valign="top"><a href="/"><img src="/images/lefttop1_eng.gif" width="160" height="20" border="0" alt="РќР° РіР»Р°РІРЅСѓСЋ СЃС‚СЂР°РЅРёС†Сѓ"></a></td>
 <td align="right" valign="bottom"><a href="javascript:for_print()"><img src="/images/printv.gif" width="99" height="13" border="0" alt=""></a></td>
 </tr>
 <tr>
@@ -146,7 +146,7 @@
 <td><img src="/images/1x1.gif" width="1" height="3" border="0" alt=""></td>
 </tr>
 
-<!--Рассылки новостей-->
+<!--Р Р°СЃСЃС‹Р»РєРё РЅРѕРІРѕСЃС‚РµР№-->
 
 <tr>
 <td valign="top" align="right">
@@ -155,7 +155,7 @@
         <td bgcolor="#2e72a3">
                 <table  width="100%" border="0" cellspacing="0" cellpadding="2">
                 <tr>
-                <td bgcolor="#b2cbdd"><p><b>Рассылки новостей</b></p></td>
+                <td bgcolor="#b2cbdd"><p><b>Р Р°СЃСЃС‹Р»РєРё РЅРѕРІРѕСЃС‚РµР№</b></p></td>
                 </tr>
                 </table>
         </td>
@@ -174,25 +174,25 @@ function validateEmail() {
         var email = document.subs.subscribers.value;
         if (String(email).length<=7) {
                 if (String(email).length==0) {
-                        alert("Пожалуйста, введите адрес!");
+                        alert("РџРѕР¶Р°Р»СѓР№СЃС‚Р°, РІРІРµРґРёС‚Рµ Р°РґСЂРµСЃ!");
                 } else {
-                        alert("Слишком короткий адрес!");
+                        alert("РЎР»РёС€РєРѕРј РєРѕСЂРѕС‚РєРёР№ Р°РґСЂРµСЃ!");
                 }
                 return false;
         }
 
         var mischars = Array("&", "?", "/", ":", "=", "+", "%", "<", ">");
         for (i=0; i<mischars.length; i++) if (email.indexOf(mischars[i])!=-1) {
-                alert("Адрес содержит недопустимый символ!");
+                alert("РђРґСЂРµСЃ СЃРѕРґРµСЂР¶РёС‚ РЅРµРґРѕРїСѓСЃС‚РёРјС‹Р№ СЃРёРјРІРѕР»!");
                 return false;
         }
 
         if ((email.indexOf("@")==-1 || email.indexOf("@")==0) || email.indexOf("@")==String(email).length) {
-                alert("Неверный адрес!");
+                alert("РќРµРІРµСЂРЅС‹Р№ Р°РґСЂРµСЃ!");
                 return false;
         }
         if ((email.indexOf(".")==-1 || email.indexOf(".")==0) || email.indexOf(".")==String(email).length) {
-                alert("Неверный адрес!");
+                alert("РќРµРІРµСЂРЅС‹Р№ Р°РґСЂРµСЃ!");
                 return false;
         }
 
@@ -201,17 +201,17 @@ function validateEmail() {
 </script>
         <table bgcolor="#ffffff" width="100%" border="0" cellspacing="0" cellpadding="0">
          <form name="subs" action="/_mailing/add-single.asp" method="post" onsubmit="return validateEmail()" style="padding:0; margin:0">
-           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="subsSect" value="ua_daily" CHECKED><a href="http://www.retail.ru/arch/">Новости Retail.Ru - Украинская Редакция<br>(ежедневный выпуск)</a></font></td></tr>
+           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="subsSect" value="ua_daily" CHECKED><a href="http://www.retail.ru/arch/">РќРѕРІРѕСЃС‚Рё Retail.Ru - РЈРєСЂР°РёРЅСЃРєР°СЏ Р РµРґР°РєС†РёСЏ<br>(РµР¶РµРґРЅРµРІРЅС‹Р№ РІС‹РїСѓСЃРє)</a></font></td></tr>
 
-           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="subsSect" value="weekly" CHECKED><a href="http://www.retail.ru/arch/">Новости Retail.Ru<br>(еженедельный выпуск)</a></font></td></tr>
-           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="subsSect" value="daily" CHECKED><a href="http://www.retail.ru/subscriber/4/">Новости торговли<br>(ежедневный выпуск)</a></font></td></tr>
-           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="subsSect" value="rus_rinw" CHECKED><a href="http://www.retail.ru/subscriber/3/">Новости торговли<BR>(еженедельный выпуск)</a></font></td></tr>
-           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="subsSect" value="rus_riam" CHECKED><a href="http://www.retail.ru/subscriber/2/">Автоматизация предприятий торговли<BR>(ежемесячный выпуск)</a></font></td></tr>
-           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="subsSect" value="rus_shop" CHECKED><a href="http://www.retail.ru/shop/">Новости интернет-магазина Retail.Ru</a></font></td></tr>
+           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="subsSect" value="weekly" CHECKED><a href="http://www.retail.ru/arch/">РќРѕРІРѕСЃС‚Рё Retail.Ru<br>(РµР¶РµРЅРµРґРµР»СЊРЅС‹Р№ РІС‹РїСѓСЃРє)</a></font></td></tr>
+           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="subsSect" value="daily" CHECKED><a href="http://www.retail.ru/subscriber/4/">РќРѕРІРѕСЃС‚Рё С‚РѕСЂРіРѕРІР»Рё<br>(РµР¶РµРґРЅРµРІРЅС‹Р№ РІС‹РїСѓСЃРє)</a></font></td></tr>
+           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="subsSect" value="rus_rinw" CHECKED><a href="http://www.retail.ru/subscriber/3/">РќРѕРІРѕСЃС‚Рё С‚РѕСЂРіРѕРІР»Рё<BR>(РµР¶РµРЅРµРґРµР»СЊРЅС‹Р№ РІС‹РїСѓСЃРє)</a></font></td></tr>
+           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="subsSect" value="rus_riam" CHECKED><a href="http://www.retail.ru/subscriber/2/">РђРІС‚РѕРјР°С‚РёР·Р°С†РёСЏ РїСЂРµРґРїСЂРёСЏС‚РёР№ С‚РѕСЂРіРѕРІР»Рё<BR>(РµР¶РµРјРµСЃСЏС‡РЅС‹Р№ РІС‹РїСѓСЃРє)</a></font></td></tr>
+           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="subsSect" value="rus_shop" CHECKED><a href="http://www.retail.ru/shop/">РќРѕРІРѕСЃС‚Рё РёРЅС‚РµСЂРЅРµС‚-РјР°РіР°Р·РёРЅР° Retail.Ru</a></font></td></tr>
 
 
-           <tr><td colspan="2" align="center">&nbsp;<input name="subscribers" size="10" VALUE="ваш e-mail" style="width:111px;" type="text" onfocus='if (this.value=="ваш e-mail") this.value=""' onblur='if (this.value=="") this.value="ваш e-mail"'></td></tr>
-           <tr><td colspan="2" align="center"><input name="add" type="submit" value="Подписаться"></td></tr>
+           <tr><td colspan="2" align="center">&nbsp;<input name="subscribers" size="10" VALUE="РІР°С€ e-mail" style="width:111px;" type="text" onfocus='if (this.value=="РІР°С€ e-mail") this.value=""' onblur='if (this.value=="") this.value="РІР°С€ e-mail"'></td></tr>
+           <tr><td colspan="2" align="center"><input name="add" type="submit" value="РџРѕРґРїРёСЃР°С‚СЊСЃСЏ"></td></tr>
          </form>
         </table>
         </td>
@@ -221,7 +221,7 @@ function validateEmail() {
 </tr>
 
 
-<!--end of Рассылки новостей-->
+<!--end of Р Р°СЃСЃС‹Р»РєРё РЅРѕРІРѕСЃС‚РµР№-->
 
 <tr><td><img src="/images/1x1.gif" width="160" height="3" border="0" alt=""></td></tr>
 
@@ -234,13 +234,13 @@ function validateEmail() {
                 <tr>
                 <td bgcolor="ffffff" _bgcolor="E1E7EB" width="160">
 <P>
-<a href=/shop/ target=_blanc><b>Прайс-листы<br>интернет-магазина Retail.Ru</a>:</b><br>
-<a href="/shop/price.asp">- Прайс-лист на книги о розничной торговле</a><br>
-<a href="/shop/price_anot.asp">- Прайс-лист на книги о розничной торговле с краткими анотациями</a><br>&nbsp;<br>
+<a href=/shop/ target=_blanc><b>РџСЂР°Р№СЃ-Р»РёСЃС‚С‹<br>РёРЅС‚РµСЂРЅРµС‚-РјР°РіР°Р·РёРЅР° Retail.Ru</a>:</b><br>
+<a href="/shop/price.asp">- РџСЂР°Р№СЃ-Р»РёСЃС‚ РЅР° РєРЅРёРіРё Рѕ СЂРѕР·РЅРёС‡РЅРѕР№ С‚РѕСЂРіРѕРІР»Рµ</a><br>
+<a href="/shop/price_anot.asp">- РџСЂР°Р№СЃ-Р»РёСЃС‚ РЅР° РєРЅРёРіРё Рѕ СЂРѕР·РЅРёС‡РЅРѕР№ С‚РѕСЂРіРѕРІР»Рµ СЃ РєСЂР°С‚РєРёРјРё Р°РЅРѕС‚Р°С†РёСЏРјРё</a><br>&nbsp;<br>
 </P>
 <P>
-<a href=http://www.rarus.ru target=_blanc><b>Прайс-листы<br>компании &laquo;1C-Рарус&raquo;</a>:</b><br>
-<a href="/download/price.zip">- Прайс-лист на торговое оборудование, программы и услуги</a>
+<a href=http://www.rarus.ru target=_blanc><b>РџСЂР°Р№СЃ-Р»РёСЃС‚С‹<br>РєРѕРјРїР°РЅРёРё &laquo;1C-Р Р°СЂСѓСЃ&raquo;</a>:</b><br>
+<a href="/download/price.zip">- РџСЂР°Р№СЃ-Р»РёСЃС‚ РЅР° С‚РѕСЂРіРѕРІРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ, РїСЂРѕРіСЂР°РјРјС‹ Рё СѓСЃР»СѓРіРё</a>
 </P>
 
                 </td>
@@ -262,34 +262,34 @@ function validateEmail() {
 
  <table width=90% border="0" cellspacing="0" cellpadding="0" align=center>
 <tr><td>
-<P> &nbsp;<br>
-<a href="/"><u>Retail.Ru</u></a> / <a href="/ua/"><u>Украинская редакция</u></a> / <a href="/ua/pressa/"><u>Retail.Ru - Лента новостей: Украинский рынок</u></a> <br>&nbsp;
+<P>В &nbsp;<br>
+<a href="/"><u>Retail.Ru</u></a>В /В <a href="/ua/"><u>РЈРєСЂР°РёРЅСЃРєР°СЏ СЂРµРґР°РєС†РёСЏ</u></a>В /В <a href="/ua/pressa/"><u>Retail.Ru - Р›РµРЅС‚Р° РЅРѕРІРѕСЃС‚РµР№: РЈРєСЂР°РёРЅСЃРєРёР№ СЂС‹РЅРѕРє</u></a>В <br>&nbsp;
 <span id="pageContent">
 
-<h1>Открыт 190-й магазин «АТБ» в Украине </h1>
+<h1>РћС‚РєСЂС‹С‚ 190-Р№ РјР°РіР°Р·РёРЅ В«РђРўР‘В» РІ РЈРєСЂР°РёРЅРµ </h1>
 
   <!--contentBody-->
 
-<p> ©  Retail.Ru - Украинская редакция</a>, 17.08.2007</p>
+<p> В©  Retail.Ru - РЈРєСЂР°РёРЅСЃРєР°СЏ СЂРµРґР°РєС†РёСЏ</a>, 17.08.2007</p>
 
 <!--<TABLE ALIGN=right VSPACE=10 HSPACE=10 width=250 cellpadding=8>
 <TR>
-<TD bgcolor="#f5f8f9"><P>Сеть «Велика Кишеня» представлена в 14 городах Украины и насчитывает 34 магазина (27 супермаркетов и семь гипермаркетов), пять из которых - в составе собственных торговых центров. Совокупные торговые площади сети составляют более 90 тыс. кв. м. Продажи сети в 2004 году составляли $109 млн, в 2005-м - $232 млн, в 2006-м - $403 млн.
+<TD bgcolor="#f5f8f9"><P>РЎРµС‚СЊ В«Р’РµР»РёРєР° РљРёС€РµРЅСЏВ» РїСЂРµРґСЃС‚Р°РІР»РµРЅР° РІ 14 РіРѕСЂРѕРґР°С… РЈРєСЂР°РёРЅС‹ Рё РЅР°СЃС‡РёС‚С‹РІР°РµС‚ 34 РјР°РіР°Р·РёРЅР° (27 СЃСѓРїРµСЂРјР°СЂРєРµС‚РѕРІ Рё СЃРµРјСЊ РіРёРїРµСЂРјР°СЂРєРµС‚РѕРІ), РїСЏС‚СЊ РёР· РєРѕС‚РѕСЂС‹С… - РІ СЃРѕСЃС‚Р°РІРµ СЃРѕР±СЃС‚РІРµРЅРЅС‹С… С‚РѕСЂРіРѕРІС‹С… С†РµРЅС‚СЂРѕРІ. РЎРѕРІРѕРєСѓРїРЅС‹Рµ С‚РѕСЂРіРѕРІС‹Рµ РїР»РѕС‰Р°РґРё СЃРµС‚Рё СЃРѕСЃС‚Р°РІР»СЏСЋС‚ Р±РѕР»РµРµ 90 С‚С‹СЃ. РєРІ. Рј. РџСЂРѕРґР°Р¶Рё СЃРµС‚Рё РІ 2004 РіРѕРґСѓ СЃРѕСЃС‚Р°РІР»СЏР»Рё $109 РјР»РЅ, РІ 2005-Рј - $232 РјР»РЅ, РІ 2006-Рј - $403 РјР»РЅ.
 </table>-->
 
-<P>Национальная розничная компания «АТБ-Маркет» (Днепропетровская обл.) открыла новый магазин в Краматорске Донецкой области, который стал 190-м «АТБ» в Украине, сообщила пиар-менеджер Корпорации «АТБ» Анна Личман.
-</P><P>Новый магазин открылся на ул. Парковая, 64-Б, торговая площадь магазина 451,8 кв. м, покупателей обслуживает пять кассовых терминалов.
-</P><P>С открытием нового супермаркета, сеть «АТБ» представлена в Краматорске уже двумя магазинами. Как сообщалось ранее, первый магазин сети открылся в городе в начале июля 2007 года. В целом в Донецкой области на сегодня работают 16 магазинов сети «АТБ».
-</P><P>Как сообщила заместитель городского головы, на сегодня в городе, помимо «АТБ» представлены магазины розничных сетей «БУМ» (Донецк), «Велика кишеня» (Киев), луганской компании «Абсолют» и местной «Арбат».
-</P><P>Торговый сектор Краматорска на конец первого полугодия 2007 года насчитывал 630 магазинов (68 тысяч кв. м торговых площадей), из них 221— продовольственных, 355 — не продовольственных и 54 — смешанных. За первое полугодие  2007 года в городе открылось 10 новых магазинов (торговая площадь 6 тысяч кв. метров), из них 4 продовольственных.
-</P><P>Обеспеченность населения торговыми площадями на 1 июня 2007 года составляет 330 кв. метров на тысячу человек (на 1 января 2007 года — 301 кв. м на тыс. человек).
-</P><P>В Краматорске проживает 205 тысяч горожан.
+<P>РќР°С†РёРѕРЅР°Р»СЊРЅР°СЏ СЂРѕР·РЅРёС‡РЅР°СЏ РєРѕРјРїР°РЅРёСЏ В«РђРўР‘-РњР°СЂРєРµС‚В» (Р”РЅРµРїСЂРѕРїРµС‚СЂРѕРІСЃРєР°СЏ РѕР±Р».) РѕС‚РєСЂС‹Р»Р° РЅРѕРІС‹Р№ РјР°РіР°Р·РёРЅ РІ РљСЂР°РјР°С‚РѕСЂСЃРєРµ Р”РѕРЅРµС†РєРѕР№ РѕР±Р»Р°СЃС‚Рё, РєРѕС‚РѕСЂС‹Р№ СЃС‚Р°Р» 190-Рј В«РђРўР‘В» РІ РЈРєСЂР°РёРЅРµ, СЃРѕРѕР±С‰РёР»Р° РїРёР°СЂ-РјРµРЅРµРґР¶РµСЂ РљРѕСЂРїРѕСЂР°С†РёРё В«РђРўР‘В» РђРЅРЅР° Р›РёС‡РјР°РЅ.
+</P><P>РќРѕРІС‹Р№ РјР°РіР°Р·РёРЅ РѕС‚РєСЂС‹Р»СЃСЏ РЅР° СѓР». РџР°СЂРєРѕРІР°СЏ, 64-Р‘, С‚РѕСЂРіРѕРІР°СЏ РїР»РѕС‰Р°РґСЊ РјР°РіР°Р·РёРЅР° 451,8 РєРІ. Рј, РїРѕРєСѓРїР°С‚РµР»РµР№ РѕР±СЃР»СѓР¶РёРІР°РµС‚ РїСЏС‚СЊ РєР°СЃСЃРѕРІС‹С… С‚РµСЂРјРёРЅР°Р»РѕРІ.
+</P><P>РЎ РѕС‚РєСЂС‹С‚РёРµРј РЅРѕРІРѕРіРѕ СЃСѓРїРµСЂРјР°СЂРєРµС‚Р°, СЃРµС‚СЊ В«РђРўР‘В» РїСЂРµРґСЃС‚Р°РІР»РµРЅР° РІ РљСЂР°РјР°С‚РѕСЂСЃРєРµ СѓР¶Рµ РґРІСѓРјСЏ РјР°РіР°Р·РёРЅР°РјРё. РљР°Рє СЃРѕРѕР±С‰Р°Р»РѕСЃСЊ СЂР°РЅРµРµ, РїРµСЂРІС‹Р№ РјР°РіР°Р·РёРЅ СЃРµС‚Рё РѕС‚РєСЂС‹Р»СЃСЏ РІ РіРѕСЂРѕРґРµ РІ РЅР°С‡Р°Р»Рµ РёСЋР»СЏ 2007 РіРѕРґР°. Р’ С†РµР»РѕРј РІ Р”РѕРЅРµС†РєРѕР№ РѕР±Р»Р°СЃС‚Рё РЅР° СЃРµРіРѕРґРЅСЏ СЂР°Р±РѕС‚Р°СЋС‚ 16 РјР°РіР°Р·РёРЅРѕРІ СЃРµС‚Рё В«РђРўР‘В».
+</P><P>РљР°Рє СЃРѕРѕР±С‰РёР»Р° Р·Р°РјРµСЃС‚РёС‚РµР»СЊ РіРѕСЂРѕРґСЃРєРѕРіРѕ РіРѕР»РѕРІС‹, РЅР° СЃРµРіРѕРґРЅСЏ РІ РіРѕСЂРѕРґРµ, РїРѕРјРёРјРѕ В«РђРўР‘В» РїСЂРµРґСЃС‚Р°РІР»РµРЅС‹ РјР°РіР°Р·РёРЅС‹ СЂРѕР·РЅРёС‡РЅС‹С… СЃРµС‚РµР№ В«Р‘РЈРњВ» (Р”РѕРЅРµС†Рє), В«Р’РµР»РёРєР° РєРёС€РµРЅСЏВ» (РљРёРµРІ), Р»СѓРіР°РЅСЃРєРѕР№ РєРѕРјРїР°РЅРёРё В«РђР±СЃРѕР»СЋС‚В» Рё РјРµСЃС‚РЅРѕР№ В«РђСЂР±Р°С‚В».
+</P><P>РўРѕСЂРіРѕРІС‹Р№ СЃРµРєС‚РѕСЂ РљСЂР°РјР°С‚РѕСЂСЃРєР° РЅР° РєРѕРЅРµС† РїРµСЂРІРѕРіРѕ РїРѕР»СѓРіРѕРґРёСЏ 2007 РіРѕРґР° РЅР°СЃС‡РёС‚С‹РІР°Р» 630 РјР°РіР°Р·РёРЅРѕРІ (68 С‚С‹СЃСЏС‡ РєРІ. Рј С‚РѕСЂРіРѕРІС‹С… РїР»РѕС‰Р°РґРµР№), РёР· РЅРёС… 221вЂ” РїСЂРѕРґРѕРІРѕР»СЊСЃС‚РІРµРЅРЅС‹С…, 355 вЂ” РЅРµ РїСЂРѕРґРѕРІРѕР»СЊСЃС‚РІРµРЅРЅС‹С… Рё 54 вЂ” СЃРјРµС€Р°РЅРЅС‹С…. Р—Р° РїРµСЂРІРѕРµ РїРѕР»СѓРіРѕРґРёРµ  2007 РіРѕРґР° РІ РіРѕСЂРѕРґРµ РѕС‚РєСЂС‹Р»РѕСЃСЊ 10 РЅРѕРІС‹С… РјР°РіР°Р·РёРЅРѕРІ (С‚РѕСЂРіРѕРІР°СЏ РїР»РѕС‰Р°РґСЊ 6 С‚С‹СЃСЏС‡ РєРІ. РјРµС‚СЂРѕРІ), РёР· РЅРёС… 4 РїСЂРѕРґРѕРІРѕР»СЊСЃС‚РІРµРЅРЅС‹С….
+</P><P>РћР±РµСЃРїРµС‡РµРЅРЅРѕСЃС‚СЊ РЅР°СЃРµР»РµРЅРёСЏ С‚РѕСЂРіРѕРІС‹РјРё РїР»РѕС‰Р°РґСЏРјРё РЅР° 1 РёСЋРЅСЏ 2007 РіРѕРґР° СЃРѕСЃС‚Р°РІР»СЏРµС‚ 330 РєРІ. РјРµС‚СЂРѕРІ РЅР° С‚С‹СЃСЏС‡Сѓ С‡РµР»РѕРІРµРє (РЅР° 1 СЏРЅРІР°СЂСЏ 2007 РіРѕРґР° вЂ” 301 РєРІ. Рј РЅР° С‚С‹СЃ. С‡РµР»РѕРІРµРє).
+</P><P>Р’ РљСЂР°РјР°С‚РѕСЂСЃРєРµ РїСЂРѕР¶РёРІР°РµС‚ 205 С‚С‹СЃСЏС‡ РіРѕСЂРѕР¶Р°РЅ.
 
 </P>
 <!--contentBodyEND-->
 </span><!--pageContent-->
   
-<P> &nbsp; <b>Рейтинг статьи и комментарии читателей:</b>
+<P>В &nbsp; <b>Р РµР№С‚РёРЅРі СЃС‚Р°С‚СЊРё Рё РєРѕРјРјРµРЅС‚Р°СЂРёРё С‡РёС‚Р°С‚РµР»РµР№:</b>
 
   <div class="js-kit-rating"></div>
 <script src="http://js-kit.com/ratings.js"></script>
@@ -304,10 +304,10 @@ function validateEmail() {
 
 <script type="text/javascript"><!--
 
-// Размер шрифтов
+// Р Р°Р·РјРµСЂ С€СЂРёС„С‚РѕРІ
 var yandex_ad_fontSize = 1;
 
-// Настройки объявлений Директа
+// РќР°СЃС‚СЂРѕР№РєРё РѕР±СЉСЏРІР»РµРЅРёР№ Р”РёСЂРµРєС‚Р°
 var yandex_direct_fontColor = '000000';
 var yandex_direct_titleColor = '003399';
 var yandex_direct_siteurlColor = '006600';
@@ -319,20 +319,20 @@ document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/code/
 
 //--></script>
 
-<!-- Вставьте эту строчку туда, где планируется показывать рекламный блок Яндекс.Директа -->
+<!-- Р’СЃС‚Р°РІСЊС‚Рµ СЌС‚Сѓ СЃС‚СЂРѕС‡РєСѓ С‚СѓРґР°, РіРґРµ РїР»Р°РЅРёСЂСѓРµС‚СЃСЏ РїРѕРєР°Р·С‹РІР°С‚СЊ СЂРµРєР»Р°РјРЅС‹Р№ Р±Р»РѕРє РЇРЅРґРµРєСЃ.Р”РёСЂРµРєС‚Р° -->
 <script type="text/javascript">yandex_direct_print()</script>
 
 <hr>
 
-<!-- Вставьте эту строчку туда, где планируется показывать рекламный блок Яндекс.Директа -->
+<!-- Р’СЃС‚Р°РІСЊС‚Рµ СЌС‚Сѓ СЃС‚СЂРѕС‡РєСѓ С‚СѓРґР°, РіРґРµ РїР»Р°РЅРёСЂСѓРµС‚СЃСЏ РїРѕРєР°Р·С‹РІР°С‚СЊ СЂРµРєР»Р°РјРЅС‹Р№ Р±Р»РѕРє РЇРЅРґРµРєСЃ.Р”РёСЂРµРєС‚Р° -->
 <script type="text/javascript">yandex_direct_print()</script>
 
 
-<P><I>Версия интернет-магазина Retail.Ru, локализованная для украинского рынка, 
-пока не запущена. В Украину доставка книг осуществляется почтой и 
-экспресс-почтой.<BR>&nbsp;</I> 
+<P><I>Р’РµСЂСЃРёСЏ РёРЅС‚РµСЂРЅРµС‚-РјР°РіР°Р·РёРЅР° Retail.Ru, Р»РѕРєР°Р»РёР·РѕРІР°РЅРЅР°СЏ РґР»СЏ СѓРєСЂР°РёРЅСЃРєРѕРіРѕ СЂС‹РЅРєР°, 
+РїРѕРєР° РЅРµ Р·Р°РїСѓС‰РµРЅР°. Р’ РЈРєСЂР°РёРЅСѓ РґРѕСЃС‚Р°РІРєР° РєРЅРёРі РѕСЃСѓС‰РµСЃС‚РІР»СЏРµС‚СЃСЏ РїРѕС‡С‚РѕР№ Рё 
+СЌРєСЃРїСЂРµСЃСЃ-РїРѕС‡С‚РѕР№.<BR>&nbsp;</I> 
 <HR>
-<h3 align=center>Лучшие предложения интернет-магазина Retail.Ru</h3>
+<h3 align=center>Р›СѓС‡С€РёРµ РїСЂРµРґР»РѕР¶РµРЅРёСЏ РёРЅС‚РµСЂРЅРµС‚-РјР°РіР°Р·РёРЅР° Retail.Ru</h3>
 
 <TABLE ALIGN=center width=90%> 
 <TR><TD>
@@ -341,10 +341,10 @@ document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/code/
 <table border="0" cellspacing="0" width="100%" cellpadding="2">
         <tr><td colspan=3 height=15></td></tr>
         <tr><td colspan=3>
-                 <tr bgcolor="#f5f8f9" ondblclick="javascript:return edGoodOpen('http://retail.ru/_admin/education_new/shop/goods/items/edit.asp?selectedID=850&parent_id=69&man_id=128&page=1&sel=&inWin=yes',600,600)">   <td width="1%">     <a href="http://retail.ru/shop/goods/good/?goods_id=850" class="shop">     <img src="http://retail.ru/images/shop_data_img/123_221888.jpg" height=60 border=0 ></a>   </td>    <td valign="middle" width="98%">     <a href="http://retail.ru/shop/goods/good/?goods_id=850" class="shop">         <b>Под общ. ред. К. А. Бебекина</b>         <br>Логистика. Управление потоками</a><br>          <table cellspacing=0 width="100%"  cellpadding=0 border=0><tr><td width="1%">            <a href="http://retail.ru/shop/goods/good/?goods_id=850" class="shop">            <nobr>&nbsp;<b>2007</b> г.; - &nbsp;<b>800</b> стр.;</nobr></a></td>           <td width="99%" align=right> <a href="/shop/goods/good/?goods_id=850&action=contens"><b>оглавление &gt;&gt;&gt;</b></a>           </td></tr></table>   </td>   <td align=center width="1%">      <a href="" onclick="javascript: basket('/shop/adding/?id=850'); return false;" class="shop">        <b>купить</b><br><font color=red><b>7300</b></font> руб.      </a>   </td></tr><tr><td colspan=3 height=5></td></tr>
-<tr bgcolor="#FFFFFF" ondblclick="javascript:return edGoodOpen('http://retail.ru/_admin/education_new/shop/goods/items/edit.asp?selectedID=883&parent_id=86&man_id=76&page=1&sel=&inWin=yes',600,600)">   <td width="1%">     <a href="http://retail.ru/shop/goods/good/?goods_id=883" class="shop">     <img src="http://retail.ru/images/shop_data_img/123_234917.jpg" height=60 border=0 ></a>   </td>    <td valign="middle" width="98%">     <a href="http://retail.ru/shop/goods/good/?goods_id=883" class="shop">         <b>Боб Нельсон, Дин Р. Cпицер</b>         <br>1001 способ признания и вознаграждения: полный справочник</a><br>          <table cellspacing=0 width="100%"  cellpadding=0 border=0><tr><td width="1%">            <a href="http://retail.ru/shop/goods/good/?goods_id=883" class="shop">            <nobr>&nbsp;<b>2008</b> г.; - &nbsp;<b>448</b> стр.;</nobr></a></td>           <td width="99%" align=right> <a href="/shop/goods/good/?goods_id=883&action=contens"><b>оглавление &gt;&gt;&gt;</b></a>           </td></tr></table>   </td>   <td align=center width="1%">      <a href="" onclick="javascript: basket('/shop/adding/?id=883'); return false;" class="shop">        <b>купить</b><br><font color=red><b>290</b></font> руб.      </a>   </td></tr><tr><td colspan=3 height=5></td></tr>
-<tr bgcolor="#f5f8f9" ondblclick="javascript:return edGoodOpen('http://retail.ru/_admin/education_new/shop/goods/items/edit.asp?selectedID=897&parent_id=62&man_id=133&page=1&sel=&inWin=yes',600,600)">   <td width="1%">     <a href="http://retail.ru/shop/goods/good/?goods_id=897" class="shop">     <img src="http://retail.ru/images/shop_data_img/roznica_635604.jpg" height=60 border=0 ></a>   </td>    <td valign="middle" width="98%">     <a href="http://retail.ru/shop/goods/good/?goods_id=897" class="shop">         <b>Кирилл Терещенко</b>         <br>Основы розничной торговли: международный опыт в практических решениях</a><br>          <table cellspacing=0 width="100%"  cellpadding=0 border=0><tr><td width="1%">            <a href="http://retail.ru/shop/goods/good/?goods_id=897" class="shop">            <nobr>&nbsp;<b>2007</b> г.; - &nbsp;<b>287</b> стр.;</nobr></a></td>           <td width="99%" align=right> <a href="/shop/goods/good/?goods_id=897&action=contens"><b>оглавление &gt;&gt;&gt;</b></a>           </td></tr></table>   </td>   <td align=center width="1%">      <a href="" onclick="javascript: basket('/shop/adding/?id=897'); return false;" class="shop">        <b>купить</b><br><font color=red><b>2500</b></font> руб.      </a>   </td></tr><tr><td colspan=3 height=5></td></tr>
-<tr bgcolor="#FFFFFF" ondblclick="javascript:return edGoodOpen('http://retail.ru/_admin/education_new/shop/goods/items/edit.asp?selectedID=913&parent_id=88&man_id=51&page=1&sel=&inWin=yes',600,600)">   <td width="1%">     <a href="http://retail.ru/shop/goods/good/?goods_id=913" class="shop">     <img src="http://retail.ru/images/shop_data_img/123_571937.jpg" height=60 border=0 ></a>   </td>    <td valign="middle" width="98%">     <a href="http://retail.ru/shop/goods/good/?goods_id=913" class="shop">         <b>Джей Конрад Левинсон,  Эл Лаутенслагер</b>         <br>Партизанский маркетинг за 30 дней: Пошаговое руководство</a><br>          <table cellspacing=0 width="100%"  cellpadding=0 border=0><tr><td width="1%">            <a href="http://retail.ru/shop/goods/good/?goods_id=913" class="shop">            <nobr>&nbsp;<b>2008</b> г.; - &nbsp;<b>256</b> стр.;</nobr></a></td>           <td width="99%" align=right> <b><span class="inactive">оглавление &gt;&gt;&gt;</span></b>           </td></tr></table>   </td>   <td align=center width="1%">      <a href="" onclick="javascript: basket('/shop/adding/?id=913'); return false;" class="shop">        <b>купить</b><br><font color=red><b>630</b></font> руб.      </a>   </td></tr><tr><td colspan=3 height=5></td></tr>
+                 <tr bgcolor="#f5f8f9" ondblclick="javascript:return edGoodOpen('http://retail.ru/_admin/education_new/shop/goods/items/edit.asp?selectedID=850&parent_id=69&man_id=128&page=1&sel=&inWin=yes',600,600)">   <td width="1%">     <a href="http://retail.ru/shop/goods/good/?goods_id=850" class="shop">     <img src="http://retail.ru/images/shop_data_img/123_221888.jpg" height=60 border=0 ></a>   </td>    <td valign="middle" width="98%">     <a href="http://retail.ru/shop/goods/good/?goods_id=850" class="shop">         <b>РџРѕРґ РѕР±С‰. СЂРµРґ. Рљ. Рђ. Р‘РµР±РµРєРёРЅР°</b>         <br>Р›РѕРіРёСЃС‚РёРєР°. РЈРїСЂР°РІР»РµРЅРёРµ РїРѕС‚РѕРєР°РјРё</a><br>          <table cellspacing=0 width="100%"  cellpadding=0 border=0><tr><td width="1%">            <a href="http://retail.ru/shop/goods/good/?goods_id=850" class="shop">            <nobr>&nbsp;<b>2007</b> Рі.; - &nbsp;<b>800</b> СЃС‚СЂ.;</nobr></a></td>           <td width="99%" align=right> <a href="/shop/goods/good/?goods_id=850&action=contens"><b>РѕРіР»Р°РІР»РµРЅРёРµ &gt;&gt;&gt;</b></a>           </td></tr></table>   </td>   <td align=center width="1%">      <a href="" onclick="javascript: basket('/shop/adding/?id=850'); return false;" class="shop">        <b>РєСѓРїРёС‚СЊ</b><br><font color=red><b>7300</b></font> СЂСѓР±.      </a>   </td></tr><tr><td colspan=3 height=5></td></tr>
+<tr bgcolor="#FFFFFF" ondblclick="javascript:return edGoodOpen('http://retail.ru/_admin/education_new/shop/goods/items/edit.asp?selectedID=883&parent_id=86&man_id=76&page=1&sel=&inWin=yes',600,600)">   <td width="1%">     <a href="http://retail.ru/shop/goods/good/?goods_id=883" class="shop">     <img src="http://retail.ru/images/shop_data_img/123_234917.jpg" height=60 border=0 ></a>   </td>    <td valign="middle" width="98%">     <a href="http://retail.ru/shop/goods/good/?goods_id=883" class="shop">         <b>Р‘РѕР± РќРµР»СЊСЃРѕРЅ, Р”РёРЅ Р . CРїРёС†РµСЂ</b>         <br>1001 СЃРїРѕСЃРѕР± РїСЂРёР·РЅР°РЅРёСЏ Рё РІРѕР·РЅР°РіСЂР°Р¶РґРµРЅРёСЏ: РїРѕР»РЅС‹Р№ СЃРїСЂР°РІРѕС‡РЅРёРє</a><br>          <table cellspacing=0 width="100%"  cellpadding=0 border=0><tr><td width="1%">            <a href="http://retail.ru/shop/goods/good/?goods_id=883" class="shop">            <nobr>&nbsp;<b>2008</b> Рі.; - &nbsp;<b>448</b> СЃС‚СЂ.;</nobr></a></td>           <td width="99%" align=right> <a href="/shop/goods/good/?goods_id=883&action=contens"><b>РѕРіР»Р°РІР»РµРЅРёРµ &gt;&gt;&gt;</b></a>           </td></tr></table>   </td>   <td align=center width="1%">      <a href="" onclick="javascript: basket('/shop/adding/?id=883'); return false;" class="shop">        <b>РєСѓРїРёС‚СЊ</b><br><font color=red><b>290</b></font> СЂСѓР±.      </a>   </td></tr><tr><td colspan=3 height=5></td></tr>
+<tr bgcolor="#f5f8f9" ondblclick="javascript:return edGoodOpen('http://retail.ru/_admin/education_new/shop/goods/items/edit.asp?selectedID=897&parent_id=62&man_id=133&page=1&sel=&inWin=yes',600,600)">   <td width="1%">     <a href="http://retail.ru/shop/goods/good/?goods_id=897" class="shop">     <img src="http://retail.ru/images/shop_data_img/roznica_635604.jpg" height=60 border=0 ></a>   </td>    <td valign="middle" width="98%">     <a href="http://retail.ru/shop/goods/good/?goods_id=897" class="shop">         <b>РљРёСЂРёР»Р» РўРµСЂРµС‰РµРЅРєРѕ</b>         <br>РћСЃРЅРѕРІС‹ СЂРѕР·РЅРёС‡РЅРѕР№ С‚РѕСЂРіРѕРІР»Рё: РјРµР¶РґСѓРЅР°СЂРѕРґРЅС‹Р№ РѕРїС‹С‚ РІ РїСЂР°РєС‚РёС‡РµСЃРєРёС… СЂРµС€РµРЅРёСЏС…</a><br>          <table cellspacing=0 width="100%"  cellpadding=0 border=0><tr><td width="1%">            <a href="http://retail.ru/shop/goods/good/?goods_id=897" class="shop">            <nobr>&nbsp;<b>2007</b> Рі.; - &nbsp;<b>287</b> СЃС‚СЂ.;</nobr></a></td>           <td width="99%" align=right> <a href="/shop/goods/good/?goods_id=897&action=contens"><b>РѕРіР»Р°РІР»РµРЅРёРµ &gt;&gt;&gt;</b></a>           </td></tr></table>   </td>   <td align=center width="1%">      <a href="" onclick="javascript: basket('/shop/adding/?id=897'); return false;" class="shop">        <b>РєСѓРїРёС‚СЊ</b><br><font color=red><b>2500</b></font> СЂСѓР±.      </a>   </td></tr><tr><td colspan=3 height=5></td></tr>
+<tr bgcolor="#FFFFFF" ondblclick="javascript:return edGoodOpen('http://retail.ru/_admin/education_new/shop/goods/items/edit.asp?selectedID=913&parent_id=88&man_id=51&page=1&sel=&inWin=yes',600,600)">   <td width="1%">     <a href="http://retail.ru/shop/goods/good/?goods_id=913" class="shop">     <img src="http://retail.ru/images/shop_data_img/123_571937.jpg" height=60 border=0 ></a>   </td>    <td valign="middle" width="98%">     <a href="http://retail.ru/shop/goods/good/?goods_id=913" class="shop">         <b>Р”Р¶РµР№ РљРѕРЅСЂР°Рґ Р›РµРІРёРЅСЃРѕРЅ,  Р­Р» Р›Р°СѓС‚РµРЅСЃР»Р°РіРµСЂ</b>         <br>РџР°СЂС‚РёР·Р°РЅСЃРєРёР№ РјР°СЂРєРµС‚РёРЅРі Р·Р° 30 РґРЅРµР№: РџРѕС€Р°РіРѕРІРѕРµ СЂСѓРєРѕРІРѕРґСЃС‚РІРѕ</a><br>          <table cellspacing=0 width="100%"  cellpadding=0 border=0><tr><td width="1%">            <a href="http://retail.ru/shop/goods/good/?goods_id=913" class="shop">            <nobr>&nbsp;<b>2008</b> Рі.; - &nbsp;<b>256</b> СЃС‚СЂ.;</nobr></a></td>           <td width="99%" align=right> <b><span class="inactive">РѕРіР»Р°РІР»РµРЅРёРµ &gt;&gt;&gt;</span></b>           </td></tr></table>   </td>   <td align=center width="1%">      <a href="" onclick="javascript: basket('/shop/adding/?id=913'); return false;" class="shop">        <b>РєСѓРїРёС‚СЊ</b><br><font color=red><b>630</b></font> СЂСѓР±.      </a>   </td></tr><tr><td colspan=3 height=5></td></tr>
 
             </td>
         </tr>
@@ -375,9 +375,9 @@ document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/code/
 <td colspan="2">
         <table border="0" cellspacing="0" cellpadding="0">
         <tr>
-                <td><a href="http://www.retail.ru"><img src="/images/botwww.gif" width="160" height="24" border="0" alt="На главную страницу"></a></td>
+                <td><a href="http://www.retail.ru"><img src="/images/botwww.gif" width="160" height="24" border="0" alt="РќР° РіР»Р°РІРЅСѓСЋ СЃС‚СЂР°РЅРёС†Сѓ"></a></td>
 
-            <td><img src="/images/botnav_bar.gif" width="600" height="24" border="0" alt="Навигационная панель" usemap="#bmap"></td>
+            <td><img src="/images/botnav_bar.gif" width="600" height="24" border="0" alt="РќР°РІРёРіР°С†РёРѕРЅРЅР°СЏ РїР°РЅРµР»СЊ" usemap="#bmap"></td>
         </tr>
         </table>
 </td>
@@ -389,18 +389,18 @@ document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/code/
  <SCRIPT type="text/javascript">
    var begun_auto_colors = new Array();
    var begun_auto_fonts_size = new Array();
-   begun_auto_pad = 46887775; // идентификатор площадки
-   begun_auto_limit = 3; // число объявлений выводимых на площадке
-   begun_auto_width = 600; // ширина блока объявлений.
-   begun_auto_colors[0] = '#4682B4'; // цвет ссылки объявлений
-   begun_auto_colors[1] = '#000000'; // цвет текста объявления
-   begun_auto_colors[2] = '#A9A9A9'; // цвет домена объявления
-   begun_auto_colors[3] = '#FFFFFF'; // цвет фона блока объявлений
-   begun_auto_fonts_size[0] = '10pt'; // р-мер шрифта ссылки объявлений
-   begun_auto_fonts_size[1] = '8pt'; // р-мер шрифта текста объявления
-   begun_auto_fonts_size[2] = '7pt'; // р-мер шрифта домена объявления
-   begun_auto_fonts_size[3] = '8pt'; // р-мер шрифта заглушки
-   begun_block_type = 'Horizontal'; // тип блока
+   begun_auto_pad = 46887775; // РёРґРµРЅС‚РёС„РёРєР°С‚РѕСЂ РїР»РѕС‰Р°РґРєРё
+   begun_auto_limit = 3; // С‡РёСЃР»Рѕ РѕР±СЉСЏРІР»РµРЅРёР№ РІС‹РІРѕРґРёРјС‹С… РЅР° РїР»РѕС‰Р°РґРєРµ
+   begun_auto_width = 600; // С€РёСЂРёРЅР° Р±Р»РѕРєР° РѕР±СЉСЏРІР»РµРЅРёР№.
+   begun_auto_colors[0] = '#4682B4'; // С†РІРµС‚ СЃСЃС‹Р»РєРё РѕР±СЉСЏРІР»РµРЅРёР№
+   begun_auto_colors[1] = '#000000'; // С†РІРµС‚ С‚РµРєСЃС‚Р° РѕР±СЉСЏРІР»РµРЅРёСЏ
+   begun_auto_colors[2] = '#A9A9A9'; // С†РІРµС‚ РґРѕРјРµРЅР° РѕР±СЉСЏРІР»РµРЅРёСЏ
+   begun_auto_colors[3] = '#FFFFFF'; // С†РІРµС‚ С„РѕРЅР° Р±Р»РѕРєР° РѕР±СЉСЏРІР»РµРЅРёР№
+   begun_auto_fonts_size[0] = '10pt'; // СЂ-РјРµСЂ С€СЂРёС„С‚Р° СЃСЃС‹Р»РєРё РѕР±СЉСЏРІР»РµРЅРёР№
+   begun_auto_fonts_size[1] = '8pt'; // СЂ-РјРµСЂ С€СЂРёС„С‚Р° С‚РµРєСЃС‚Р° РѕР±СЉСЏРІР»РµРЅРёСЏ
+   begun_auto_fonts_size[2] = '7pt'; // СЂ-РјРµСЂ С€СЂРёС„С‚Р° РґРѕРјРµРЅР° РѕР±СЉСЏРІР»РµРЅРёСЏ
+   begun_auto_fonts_size[3] = '8pt'; // СЂ-РјРµСЂ С€СЂРёС„С‚Р° Р·Р°РіР»СѓС€РєРё
+   begun_block_type = 'Horizontal'; // С‚РёРї Р±Р»РѕРєР°
 </SCRIPT>
 <SCRIPT src="http://autocontext.begun.ru/autocontext.js" type="text/javascript">
 </SCRIPT>
@@ -420,24 +420,24 @@ document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/code/
 
 </center>
 <index><map name="topmap">
-  <area shape="rect" coords="1,1,96,28" href="/biblio/" alt="Библиотека">
-  <area shape="rect" coords="97,1,230,28" href="/shop/" alt="Книги">
-  <area shape="rect" coords="231,1,308,28" href="/auto/progs.asp" alt="Программы">
-  <area shape="rect" coords="309,1,408,28" href="/encycl/catalog.asp" alt="Оборудование">
-  <area shape="rect" coords="409,0,518,28" href="/automation/" alt="Автоматизация">
-  <area shape="rect" coords="519,1,591,28" href="/contacts.asp" alt="Контакты">
+  <area shape="rect" coords="1,1,96,28" href="/biblio/" alt="Р‘РёР±Р»РёРѕС‚РµРєР°">
+  <area shape="rect" coords="97,1,230,28" href="/shop/" alt="РљРЅРёРіРё">
+  <area shape="rect" coords="231,1,308,28" href="/auto/progs.asp" alt="РџСЂРѕРіСЂР°РјРјС‹">
+  <area shape="rect" coords="309,1,408,28" href="/encycl/catalog.asp" alt="РћР±РѕСЂСѓРґРѕРІР°РЅРёРµ">
+  <area shape="rect" coords="409,0,518,28" href="/automation/" alt="РђРІС‚РѕРјР°С‚РёР·Р°С†РёСЏ">
+  <area shape="rect" coords="519,1,591,28" href="/contacts.asp" alt="РљРѕРЅС‚Р°РєС‚С‹">
 </map>
 <map name="bmap">
-  <area shape="rect" coords="7,1,97,33" href="/biblio/" alt="Библиотека">
-  <area shape="rect" coords="99,1,234,33" href="/shop/" alt="Книги">
-  <area shape="rect" coords="235,0,313,32" href="/auto/progs.asp" alt="Программы">
-  <area shape="rect" coords="314,1,412,32" href="/encycl/catalog.asp" alt="Оборудование">
-  <area shape="rect" coords="413,0,519,33" href="/automation/" alt="Автоматизация">
-  <area shape="rect" coords="522,1,592,33" href="/contacts.asp" alt="Контакты">
+  <area shape="rect" coords="7,1,97,33" href="/biblio/" alt="Р‘РёР±Р»РёРѕС‚РµРєР°">
+  <area shape="rect" coords="99,1,234,33" href="/shop/" alt="РљРЅРёРіРё">
+  <area shape="rect" coords="235,0,313,32" href="/auto/progs.asp" alt="РџСЂРѕРіСЂР°РјРјС‹">
+  <area shape="rect" coords="314,1,412,32" href="/encycl/catalog.asp" alt="РћР±РѕСЂСѓРґРѕРІР°РЅРёРµ">
+  <area shape="rect" coords="413,0,519,33" href="/automation/" alt="РђРІС‚РѕРјР°С‚РёР·Р°С†РёСЏ">
+  <area shape="rect" coords="522,1,592,33" href="/contacts.asp" alt="РљРѕРЅС‚Р°РєС‚С‹">
 </map></index>
 
 
-   <!--флеш баннер внизу <center> <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+   <!--С„Р»РµС€ Р±Р°РЅРЅРµСЂ РІРЅРёР·Сѓ <center> <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
                       codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"
                       WIDTH=468 HEIGHT=60>
                        <param name="allowScriptAccess" value="sameDomain" />
@@ -447,7 +447,7 @@ document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/code/
                       <PARAM NAME=quality VALUE=high>
                       <EMBED src="http://www.retail.ru/ua/images/forum468.swf" quality=high bgcolor=#FFFFFF  WIDTH=468 HEIGHT=60 TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED>
                   </OBJECT></center>
-конец нижнего флешбаннера-->
+РєРѕРЅРµС† РЅРёР¶РЅРµРіРѕ С„Р»РµС€Р±Р°РЅРЅРµСЂР°-->
 
 <!--TopList COUNTER-->
 <script language="JavaScript">
@@ -496,8 +496,8 @@ document.write("<a href='http://www.liveinternet.ru/click' "+
 escape(document.referrer)+((typeof(screen)=="undefined")?"":
 ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
 screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
-";i"+escape("Жж"+document.title.substring(0,80))+";"+Math.random()+
-"' alt='' title='LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня' "+
+";i"+escape("Р–Р¶"+document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: РїРѕРєР°Р·Р°РЅРѕ С‡РёСЃР»Рѕ РїСЂРѕСЃРјРѕС‚СЂРѕРІ Р·Р° 24 С‡Р°СЃР°, РїРѕСЃРµС‚РёС‚РµР»РµР№ Р·Р° 24 С‡Р°СЃР° Рё Р·Р° СЃРµРіРѕРґРЅСЏ' "+
 "border=0 width=88 height=31><\/a>")//--></script><!--/LiveInternet-->
 
 

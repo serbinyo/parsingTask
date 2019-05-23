@@ -5,9 +5,9 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
 	<meta name="robots" content="index, follow" />
-	<meta name="keywords" content="Ведущий специалист по разработке и внедрению конвергентных услуг," />
-	<meta name="description" content="1С-Битрикс: Управление сайтом" />
-	<title>Описание вакансии</title>
+	<meta name="keywords" content="Р’РµРґСѓС‰РёР№ СЃРїРµС†РёР°Р»РёСЃС‚ РїРѕ СЂР°Р·СЂР°Р±РѕС‚РєРµ Рё РІРЅРµРґСЂРµРЅРёСЋ РєРѕРЅРІРµСЂРіРµРЅС‚РЅС‹С… СѓСЃР»СѓРі," />
+	<meta name="description" content="1РЎ-Р‘РёС‚СЂРёРєСЃ: РЈРїСЂР°РІР»РµРЅРёРµ СЃР°Р№С‚РѕРј" />
+	<title>РћРїРёСЃР°РЅРёРµ РІР°РєР°РЅСЃРёРё</title>
 	<link href="/bitrix/templates/retail_main_page/components/bitrix/menu/top_menu/style.css" type="text/css" rel="stylesheet" />
 <link href="/bitrix/templates/retail_main_page/components/bitrix/menu/menu_left/style.css" type="text/css" rel="stylesheet" />
 <link href="/bitrix/templates/.default/ajax/ajax.css" type="text/css" rel="stylesheet" />
@@ -38,8 +38,8 @@
 
 			<div class="header_left">
 				<div id="logo">
-					<a href="/"><img src="/bitrix/templates/retail_main_page/images/logo.png" alt="Всё о розничной торговле"/></a>
-					<h3>Рабочий инструмент ритейлера</h3>
+					<a href="/"><img src="/bitrix/templates/retail_main_page/images/logo.png" alt="Р’СЃС‘ Рѕ СЂРѕР·РЅРёС‡РЅРѕР№ С‚РѕСЂРіРѕРІР»Рµ"/></a>
+					<h3>Р Р°Р±РѕС‡РёР№ РёРЅСЃС‚СЂСѓРјРµРЅС‚ СЂРёС‚РµР№Р»РµСЂР°</h3>
 				</div>
 
 			</div>
@@ -51,8 +51,8 @@
 <div id="menu">
     <table>
         <tr>
-        	                                                <td><a href="http://retail.ru/info">О проекте</a></td>
-                                                                                        <td><a href="http://shop.retail.ru/">Книги-магазин</a></td>
+        	                                                <td><a href="http://retail.ru/info">Рћ РїСЂРѕРµРєС‚Рµ</a></td>
+                                                                                        <td><a href="http://shop.retail.ru/">РљРЅРёРіРё-РјР°РіР°Р·РёРЅ</a></td>
                                                     <td class="last"></td>
         </tr>
     </table>
@@ -69,7 +69,7 @@
 			<div class="content_left" ><br/>
 				<div class="banner">
 					
-								<div><div style="position:absolute; z-index: 100;"><a href="/bitrix/rk.php?id=115&amp;event1=banner&amp;event2=click&amp;event3=14+%2F+%5B115%5D+%5Bleft_over_menu%5D+%C1%E5%F0%E0%F2%EE%F0+%C5%F1%EB%E8+%ED%E0+%E1%E8%E7%ED%E5%F1+%E7%E0%E2%EE%E4%FF%F2+%E4%E5%EB%EE&amp;goto=http%3A%2F%2Fshop.retail.ru%2Findex.php%3FSECTION_ID%3D552%26ELEMENT_ID%3D28315"  target="_blank"   title="Если на бизнес заводят дело" ><img src="/bitrix/images/1.gif" width="200" height="80" border="0" alt="Если на бизнес заводят дело" /></a></div><OBJECT
+								<div><div style="position:absolute; z-index: 100;"><a href="/bitrix/rk.php?id=115&amp;event1=banner&amp;event2=click&amp;event3=14+%2F+%5B115%5D+%5Bleft_over_menu%5D+%C1%E5%F0%E0%F2%EE%F0+%C5%F1%EB%E8+%ED%E0+%E1%E8%E7%ED%E5%F1+%E7%E0%E2%EE%E4%FF%F2+%E4%E5%EB%EE&amp;goto=http%3A%2F%2Fshop.retail.ru%2Findex.php%3FSECTION_ID%3D552%26ELEMENT_ID%3D28315"  target="_blank"   title="Р•СЃР»Рё РЅР° Р±РёР·РЅРµСЃ Р·Р°РІРѕРґСЏС‚ РґРµР»Рѕ" ><img src="/bitrix/images/1.gif" width="200" height="80" border="0" alt="Р•СЃР»Рё РЅР° Р±РёР·РЅРµСЃ Р·Р°РІРѕРґСЏС‚ РґРµР»Рѕ" /></a></div><OBJECT
 									classid="clsid:D27CDB6E-AE6D-11CF-96B8-444553540000"
 									codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"
 									id="banner_115"
@@ -98,17 +98,17 @@
 				<div class="left_menu">
 					<div class="public">
 						
-			<h3>Публикации</h3>
+			<h3>РџСѓР±Р»РёРєР°С†РёРё</h3>
 
 <ul>
 
-										<li><a href="http://retail.ru/news/">Новости</a></li>
-									<li><a href="http://retail.ru/masterclasses/">Мастер-класс</a></li>
-									<li><a href="http://retail.ru/interviews/">Интервью</a></li>
-									<li><a href="http://retail.ru/periodicals/index.php">Анонсы журналов</a></li>
-									<li><a href="http://retail.ru/articles/">Статьи</a></li>
-									<li><a href="http://retail.ru/pressreleases/index.php">Новости компаний</a></li>
-									<li><a href="http://retail.ru/eventdiary/">Дневники событий</a></li>
+										<li><a href="http://retail.ru/news/">РќРѕРІРѕСЃС‚Рё</a></li>
+									<li><a href="http://retail.ru/masterclasses/">РњР°СЃС‚РµСЂ-РєР»Р°СЃСЃ</a></li>
+									<li><a href="http://retail.ru/interviews/">РРЅС‚РµСЂРІСЊСЋ</a></li>
+									<li><a href="http://retail.ru/periodicals/index.php">РђРЅРѕРЅСЃС‹ Р¶СѓСЂРЅР°Р»РѕРІ</a></li>
+									<li><a href="http://retail.ru/articles/">РЎС‚Р°С‚СЊРё</a></li>
+									<li><a href="http://retail.ru/pressreleases/index.php">РќРѕРІРѕСЃС‚Рё РєРѕРјРїР°РЅРёР№</a></li>
+									<li><a href="http://retail.ru/eventdiary/">Р”РЅРµРІРЅРёРєРё СЃРѕР±С‹С‚РёР№</a></li>
 			
 </ul>
 					</div>
@@ -116,12 +116,12 @@
 					<div class="reference">
 						<div class="left-top"></div>
 						
-			<h3>Справочники</h3>
+			<h3>РЎРїСЂР°РІРѕС‡РЅРёРєРё</h3>
 
 <ul>
 
-										<li><a href="http://retail.ru/events/index.php">Календарь событий</a></li>
-									<li><a href="http://retail.ru/tradingnetworks/index.php">Сети России</a></li>
+										<li><a href="http://retail.ru/events/index.php">РљР°Р»РµРЅРґР°СЂСЊ СЃРѕР±С‹С‚РёР№</a></li>
+									<li><a href="http://retail.ru/tradingnetworks/index.php">РЎРµС‚Рё Р РѕСЃСЃРёРё</a></li>
 			
 </ul>
 					</div>
@@ -129,12 +129,12 @@
 					<div class="services">
 						<div class="left-top"></div>
 						
-			<h3>Сервисы</h3>
+			<h3>РЎРµСЂРІРёСЃС‹</h3>
 
 <ul>
 
-										<li><a href="http://retail.ru/vacancies/index.php">Банк вакансий</a></li>
-									<li><a href="http://forum.retail.ru">Форум</a></li>
+										<li><a href="http://retail.ru/vacancies/index.php">Р‘Р°РЅРє РІР°РєР°РЅСЃРёР№</a></li>
+									<li><a href="http://forum.retail.ru">Р¤РѕСЂСѓРј</a></li>
 			
 </ul>
 					</div>
@@ -150,26 +150,26 @@
     <input type="hidden" name="TYPE" value="AUTH" />
 
    <div class="both">
-        <label class="left">Логин: </label>
+        <label class="left">Р›РѕРіРёРЅ: </label>
         <input type="text" id="USER_LOGIN" name="USER_LOGIN" class="text" value=""/>
    </div>
 
    <div class="both">
-        <label class="left">Пароль: </label>
+        <label class="left">РџР°СЂРѕР»СЊ: </label>
         <input type="password" name="USER_PASSWORD" class="text pass" />
-        <input type="submit" name="Login" value="Войти" class="submit"/>
+        <input type="submit" name="Login" value="Р’РѕР№С‚Рё" class="submit"/>
    </div>
                      <div class="both">
              <input type="checkbox" id="USER_REMEMBER" name="USER_REMEMBER" value="Y" />
-             <label style="padding-left:7px;" for="USER_REMEMBER">Запомнить меня на <br/> этом компьютере</label>
+             <label style="padding-left:7px;" for="USER_REMEMBER">Р—Р°РїРѕРјРЅРёС‚СЊ РјРµРЅСЏ РЅР° <br/> СЌС‚РѕРј РєРѕРјРїСЊСЋС‚РµСЂРµ</label>
              </div>
         
 
    <div class="both">
-             <label class="forgot"><a href="http://retail.ru/profile/user.php?forgot_password=yes&amp;backurl=%2Fvacancies%2Fdetail.php%3Fid%3D28060">Забыли свой пароль?</a></label>
+             <label class="forgot"><a href="http://retail.ru/profile/user.php?forgot_password=yes&amp;backurl=%2Fvacancies%2Fdetail.php%3Fid%3D28060">Р—Р°Р±С‹Р»Рё СЃРІРѕР№ РїР°СЂРѕР»СЊ?</a></label>
    </div>
                     <div class="both">
-                <label class="fregistr"><a style="color:#000;" href="http://retail.ru/profile/user.php?register=yes&amp;backurl=%2Fvacancies%2Fdetail.php%3Fid%3D28060">Регистрация</a></label>
+                <label class="fregistr"><a style="color:#000;" href="http://retail.ru/profile/user.php?register=yes&amp;backurl=%2Fvacancies%2Fdetail.php%3Fid%3D28060">Р РµРіРёСЃС‚СЂР°С†РёСЏ</a></label>
             </div>
         
 </form>
@@ -179,7 +179,7 @@
 				<div class="left-btm"></div>
 				<div class="banner-left">
 					
-								<div><div style="position:absolute; z-index: 100;"><a href="/bitrix/rk.php?id=116&amp;event1=banner&amp;event2=click&amp;event3=14+%2F+%5B116%5D+%5Bleft_under_menu%5D+%C1%E5%F0%E0%F2%EE%F0+%CA+%E2%E0%EC+%EF%F0%E8%F8%EB%E0+%EF%F0%EE%E2%E5%F0%EA%E0&amp;goto=http%3A%2F%2Fshop.retail.ru%2Findex.php%3FSECTION_ID%3D552%26ELEMENT_ID%3D28316"  target="_blank"   title="К вам пришла проверка" ><img src="/bitrix/images/1.gif" width="200" height="80" border="0" alt="К вам пришла проверка" /></a></div><OBJECT
+								<div><div style="position:absolute; z-index: 100;"><a href="/bitrix/rk.php?id=116&amp;event1=banner&amp;event2=click&amp;event3=14+%2F+%5B116%5D+%5Bleft_under_menu%5D+%C1%E5%F0%E0%F2%EE%F0+%CA+%E2%E0%EC+%EF%F0%E8%F8%EB%E0+%EF%F0%EE%E2%E5%F0%EA%E0&amp;goto=http%3A%2F%2Fshop.retail.ru%2Findex.php%3FSECTION_ID%3D552%26ELEMENT_ID%3D28316"  target="_blank"   title="Рљ РІР°Рј РїСЂРёС€Р»Р° РїСЂРѕРІРµСЂРєР°" ><img src="/bitrix/images/1.gif" width="200" height="80" border="0" alt="Рљ РІР°Рј РїСЂРёС€Р»Р° РїСЂРѕРІРµСЂРєР°" /></a></div><OBJECT
 									classid="clsid:D27CDB6E-AE6D-11CF-96B8-444553540000"
 									codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"
 									id="banner_116"
@@ -212,7 +212,7 @@
 
 <div>
                 <a name="votehere"></a>
-                <h3>Опрос</h3>
+                <h3>РћРїСЂРѕСЃ</h3>
                 <div class="scell">
 <div class="voting-form-box">
 	<form action="/vacancies/detail.php?id=28060#votehere" method="post" onsubmit="return jsAjaxUtil.InsertFormDataToNode(this, 'comp_90965d0707d3b944f8a91760e15fca45', true);"><input type="hidden" name="bxajaxid" value="90965d0707d3b944f8a91760e15fca45" />
@@ -222,16 +222,16 @@
 
 	
 		
-		<b>Какой информации Вам не хватает на сайте Retail.ru?</b><br /><br />
+		<b>РљР°РєРѕР№ РёРЅС„РѕСЂРјР°С†РёРё Р’Р°Рј РЅРµ С…РІР°С‚Р°РµС‚ РЅР° СЃР°Р№С‚Рµ Retail.ru?</b><br /><br />
 
 		
-								<label>						ответ<br />
+								<label>						РѕС‚РІРµС‚<br />
 										<textarea name="vote_memo_53" wrap=&quot;hard&quot; cols="20" rows="3"></textarea></label>
 					<br />
 				
 		           <br />
 	
-	<input type="submit" name="vote" class="submit" value="Голосовать">
+	<input type="submit" name="vote" class="submit" value="Р“РѕР»РѕСЃРѕРІР°С‚СЊ">
     <br/><br/>
 
 	</form>
@@ -244,34 +244,34 @@
 				<div style="margin-bottom:10px;" class="left-btm"></div>
 				<div class="left-top-all"></div>
 				    		<div class="lcell">
-                <h3>Активные обсуждения</h3>
+                <h3>РђРєС‚РёРІРЅС‹Рµ РѕР±СЃСѓР¶РґРµРЅРёСЏ</h3>
                 <ul style="margin-bottom:0px">
                                             <li>
-			               <a href="http://forum.retail.ru/index.php?PAGE_NAME=read&amp;FID=14&amp;TID=192&amp;MID=2658#message2658">Всероссийский Бизнес-форум “Retail Director”</a>&nbsp;(1)
+			               <a href="http://forum.retail.ru/index.php?PAGE_NAME=read&amp;FID=14&amp;TID=192&amp;MID=2658#message2658">Р’СЃРµСЂРѕСЃСЃРёР№СЃРєРёР№ Р‘РёР·РЅРµСЃ-С„РѕСЂСѓРј вЂњRetail DirectorвЂќ</a>&nbsp;(1)
                         </li>
 		                                    <li>
-			               <a href="http://forum.retail.ru/index.php?PAGE_NAME=read&amp;FID=1&amp;TID=205&amp;MID=2569#message2569">Ошибки на сайте</a>&nbsp;(4)
+			               <a href="http://forum.retail.ru/index.php?PAGE_NAME=read&amp;FID=1&amp;TID=205&amp;MID=2569#message2569">РћС€РёР±РєРё РЅР° СЃР°Р№С‚Рµ</a>&nbsp;(4)
                         </li>
 		                                    <li>
-			               <a href="http://forum.retail.ru/index.php?PAGE_NAME=read&amp;FID=2&amp;TID=379&amp;MID=2716#message2716">Россию ожидает период банкротств в АПК, недвижимости и ритейле - глава Тройки Диалог</a>&nbsp;(0)
+			               <a href="http://forum.retail.ru/index.php?PAGE_NAME=read&amp;FID=2&amp;TID=379&amp;MID=2716#message2716">Р РѕСЃСЃРёСЋ РѕР¶РёРґР°РµС‚ РїРµСЂРёРѕРґ Р±Р°РЅРєСЂРѕС‚СЃС‚РІ РІ РђРџРљ, РЅРµРґРІРёР¶РёРјРѕСЃС‚Рё Рё СЂРёС‚РµР№Р»Рµ - РіР»Р°РІР° РўСЂРѕР№РєРё Р”РёР°Р»РѕРі</a>&nbsp;(0)
                         </li>
 		                                    <li>
-			               <a href="http://forum.retail.ru/index.php?PAGE_NAME=read&amp;FID=2&amp;TID=378&amp;MID=2715#message2715">Сотрудника &quot;Евросети&quot; обвинили в похищении и вымогательстве</a>&nbsp;(0)
+			               <a href="http://forum.retail.ru/index.php?PAGE_NAME=read&amp;FID=2&amp;TID=378&amp;MID=2715#message2715">РЎРѕС‚СЂСѓРґРЅРёРєР° &quot;Р•РІСЂРѕСЃРµС‚Рё&quot; РѕР±РІРёРЅРёР»Рё РІ РїРѕС…РёС‰РµРЅРёРё Рё РІС‹РјРѕРіР°С‚РµР»СЊСЃС‚РІРµ</a>&nbsp;(0)
                         </li>
 		                                    <li>
-			               <a href="http://forum.retail.ru/index.php?PAGE_NAME=read&amp;FID=14&amp;TID=372&amp;MID=2713#message2713">Барт Оейман - один из лучших специалистов по нейромаркетингу - ответит на вопросы, заданные до 2 сентября 2008 г.</a>&nbsp;(5)
+			               <a href="http://forum.retail.ru/index.php?PAGE_NAME=read&amp;FID=14&amp;TID=372&amp;MID=2713#message2713">Р‘Р°СЂС‚ РћРµР№РјР°РЅ - РѕРґРёРЅ РёР· Р»СѓС‡С€РёС… СЃРїРµС†РёР°Р»РёСЃС‚РѕРІ РїРѕ РЅРµР№СЂРѕРјР°СЂРєРµС‚РёРЅРіСѓ - РѕС‚РІРµС‚РёС‚ РЅР° РІРѕРїСЂРѕСЃС‹, Р·Р°РґР°РЅРЅС‹Рµ РґРѕ 2 СЃРµРЅС‚СЏР±СЂСЏ 2008 Рі.</a>&nbsp;(5)
                         </li>
 		                                    <li>
-			               <a href="http://forum.retail.ru/index.php?PAGE_NAME=read&amp;FID=1&amp;TID=343&amp;MID=2710#message2710">? Рассылка ?</a>&nbsp;(4)
+			               <a href="http://forum.retail.ru/index.php?PAGE_NAME=read&amp;FID=1&amp;TID=343&amp;MID=2710#message2710">? Р Р°СЃСЃС‹Р»РєР° ?</a>&nbsp;(4)
                         </li>
 		                                    <li>
-			               <a href="http://forum.retail.ru/index.php?PAGE_NAME=read&amp;FID=2&amp;TID=377&amp;MID=2709#message2709">Покупка «Евросети» компанией МТС изменит рынок сотовой розницы</a>&nbsp;(0)
+			               <a href="http://forum.retail.ru/index.php?PAGE_NAME=read&amp;FID=2&amp;TID=377&amp;MID=2709#message2709">РџРѕРєСѓРїРєР° В«Р•РІСЂРѕСЃРµС‚РёВ» РєРѕРјРїР°РЅРёРµР№ РњРўРЎ РёР·РјРµРЅРёС‚ СЂС‹РЅРѕРє СЃРѕС‚РѕРІРѕР№ СЂРѕР·РЅРёС†С‹</a>&nbsp;(0)
                         </li>
 		                                    <li>
-			               <a href="http://forum.retail.ru/index.php?PAGE_NAME=read&amp;FID=2&amp;TID=375&amp;MID=2707#message2707">Отечественный шоколад занимает 70% объема рынка</a>&nbsp;(0)
+			               <a href="http://forum.retail.ru/index.php?PAGE_NAME=read&amp;FID=2&amp;TID=375&amp;MID=2707#message2707">РћС‚РµС‡РµСЃС‚РІРµРЅРЅС‹Р№ С€РѕРєРѕР»Р°Рґ Р·Р°РЅРёРјР°РµС‚ 70% РѕР±СЉРµРјР° СЂС‹РЅРєР°</a>&nbsp;(0)
                         </li>
 		                                    <li>
-			               <a href="http://forum.retail.ru/index.php?PAGE_NAME=read&amp;FID=2&amp;TID=374&amp;MID=2706#message2706">Французская сеть Carrefour собирается открыть гипермаркет в Екатеринбурге</a>&nbsp;(0)
+			               <a href="http://forum.retail.ru/index.php?PAGE_NAME=read&amp;FID=2&amp;TID=374&amp;MID=2706#message2706">Р¤СЂР°РЅС†СѓР·СЃРєР°СЏ СЃРµС‚СЊ Carrefour СЃРѕР±РёСЂР°РµС‚СЃСЏ РѕС‚РєСЂС‹С‚СЊ РіРёРїРµСЂРјР°СЂРєРµС‚ РІ Р•РєР°С‚РµСЂРёРЅР±СѓСЂРіРµ</a>&nbsp;(0)
                         </li>
 		                            </ul>
         </div>
@@ -281,24 +281,24 @@
 <div class="left-top-all"></div>
 
 <div class="lcell">
-<h3>Всё для ритейлера</h3>
+<h3>Р’СЃС‘ РґР»СЏ СЂРёС‚РµР№Р»РµСЂР°</h3>
 
 	<table class="column">
     	<tr>
-    		<td colspan="2"><a class="goods_title" href="http://shop.retail.ru/index.php?SECTION_ID=528&ELEMENT_ID=17971">Проектирование магазинов и торговых центров</a><br/></td>
+    		<td colspan="2"><a class="goods_title" href="http://shop.retail.ru/index.php?SECTION_ID=528&ELEMENT_ID=17971">РџСЂРѕРµРєС‚РёСЂРѕРІР°РЅРёРµ РјР°РіР°Р·РёРЅРѕРІ Рё С‚РѕСЂРіРѕРІС‹С… С†РµРЅС‚СЂРѕРІ</a><br/></td>
         </tr>
         <tr>
 		<td valign="top">
-			<a href="http://shop.retail.ru/index.php?SECTION_ID=528&ELEMENT_ID=17971"><img class="pictures" border="0" src="/upload/iblock/947/tmptmptmptmptmptmptmptmpbig.jpg" width="60" height="90" alt="" title="Проектирование магазинов и торговых центров" /></a>
+			<a href="http://shop.retail.ru/index.php?SECTION_ID=528&ELEMENT_ID=17971"><img class="pictures" border="0" src="/upload/iblock/947/tmptmptmptmptmptmptmptmpbig.jpg" width="60" height="90" alt="" title="РџСЂРѕРµРєС‚РёСЂРѕРІР°РЅРёРµ РјР°РіР°Р·РёРЅРѕРІ Рё С‚РѕСЂРіРѕРІС‹С… С†РµРЅС‚СЂРѕРІ" /></a>
 		</td>
 		<td valign="top">
-			<small>Год издания: 2008</small><br/>
-			<small>Автор: Кира Канаян, Рубен Канаян, Армен Канаян</small><br/>
-			<small>Cтраниц: 416</small><br/>
-			<div class="now">2100,00 руб.</div>
+			<small>Р“РѕРґ РёР·РґР°РЅРёСЏ: 2008</small><br/>
+			<small>РђРІС‚РѕСЂ: РљРёСЂР° РљР°РЅР°СЏРЅ, Р СѓР±РµРЅ РљР°РЅР°СЏРЅ, РђСЂРјРµРЅ РљР°РЅР°СЏРЅ</small><br/>
+			<small>CС‚СЂР°РЅРёС†: 416</small><br/>
+			<div class="now">2100,00 СЂСѓР±.</div>
 			<div class="newbuy">
 					<a style="text-decoration: none;" href="/vacancies/detail.php?action=ADD2BASKET&amp;id=17971" title="">
-						Купить					</a>
+						РљСѓРїРёС‚СЊ					</a>
 			</div>
 		</td>
 		</tr>
@@ -306,20 +306,20 @@
 	<br/>
 	<table class="column">
     	<tr>
-    		<td colspan="2"><a class="goods_title" href="http://shop.retail.ru/index.php?SECTION_ID=527&ELEMENT_ID=28280">Бизнес-центры и офисы</a><br/></td>
+    		<td colspan="2"><a class="goods_title" href="http://shop.retail.ru/index.php?SECTION_ID=527&ELEMENT_ID=28280">Р‘РёР·РЅРµСЃ-С†РµРЅС‚СЂС‹ Рё РѕС„РёСЃС‹</a><br/></td>
         </tr>
         <tr>
 		<td valign="top">
-			<a href="http://shop.retail.ru/index.php?SECTION_ID=527&ELEMENT_ID=28280"><img class="pictures" border="0" src="/upload/iblock/793/tmptmpBIG.jpg" width="60" height="90" alt="" title="Бизнес-центры и офисы" /></a>
+			<a href="http://shop.retail.ru/index.php?SECTION_ID=527&ELEMENT_ID=28280"><img class="pictures" border="0" src="/upload/iblock/793/tmptmpBIG.jpg" width="60" height="90" alt="" title="Р‘РёР·РЅРµСЃ-С†РµРЅС‚СЂС‹ Рё РѕС„РёСЃС‹" /></a>
 		</td>
 		<td valign="top">
-			<small>Год издания: 2008</small><br/>
-			<small>Автор: Джереми Майерсон и Филипп Росс</small><br/>
-			<small>Cтраниц: 216</small><br/>
-			<div class="now">3900,00 руб.</div>
+			<small>Р“РѕРґ РёР·РґР°РЅРёСЏ: 2008</small><br/>
+			<small>РђРІС‚РѕСЂ: Р”Р¶РµСЂРµРјРё РњР°Р№РµСЂСЃРѕРЅ Рё Р¤РёР»РёРїРї Р РѕСЃСЃ</small><br/>
+			<small>CС‚СЂР°РЅРёС†: 216</small><br/>
+			<div class="now">3900,00 СЂСѓР±.</div>
 			<div class="newbuy">
 					<a style="text-decoration: none;" href="/vacancies/detail.php?action=ADD2BASKET&amp;id=28280" title="">
-						Купить					</a>
+						РљСѓРїРёС‚СЊ					</a>
 			</div>
 		</td>
 		</tr>
@@ -327,20 +327,20 @@
 	<br/>
 	<table class="column">
     	<tr>
-    		<td colspan="2"><a class="goods_title" href="http://shop.retail.ru/index.php?SECTION_ID=526&ELEMENT_ID=29007">Книга: Оптимальный договор: составление, исполнение, расторжение.</a><br/></td>
+    		<td colspan="2"><a class="goods_title" href="http://shop.retail.ru/index.php?SECTION_ID=526&ELEMENT_ID=29007">РљРЅРёРіР°: РћРїС‚РёРјР°Р»СЊРЅС‹Р№ РґРѕРіРѕРІРѕСЂ: СЃРѕСЃС‚Р°РІР»РµРЅРёРµ, РёСЃРїРѕР»РЅРµРЅРёРµ, СЂР°СЃС‚РѕСЂР¶РµРЅРёРµ.</a><br/></td>
         </tr>
         <tr>
 		<td valign="top">
-			<a href="http://shop.retail.ru/index.php?SECTION_ID=526&ELEMENT_ID=29007"><img class="pictures" border="0" src="/upload/iblock/6ab/tmpBIG.jpg" width="60" height="90" alt="" title="Книга: Оптимальный договор: составление, исполнение, расторжение." /></a>
+			<a href="http://shop.retail.ru/index.php?SECTION_ID=526&ELEMENT_ID=29007"><img class="pictures" border="0" src="/upload/iblock/6ab/tmpBIG.jpg" width="60" height="90" alt="" title="РљРЅРёРіР°: РћРїС‚РёРјР°Р»СЊРЅС‹Р№ РґРѕРіРѕРІРѕСЂ: СЃРѕСЃС‚Р°РІР»РµРЅРёРµ, РёСЃРїРѕР»РЅРµРЅРёРµ, СЂР°СЃС‚РѕСЂР¶РµРЅРёРµ." /></a>
 		</td>
 		<td valign="top">
-			<small>Год издания: 2008</small><br/>
-			<small>Автор: </small><br/>
-			<small>Cтраниц: 308</small><br/>
-			<div class="now">200,00 руб.</div>
+			<small>Р“РѕРґ РёР·РґР°РЅРёСЏ: 2008</small><br/>
+			<small>РђРІС‚РѕСЂ: </small><br/>
+			<small>CС‚СЂР°РЅРёС†: 308</small><br/>
+			<div class="now">200,00 СЂСѓР±.</div>
 			<div class="newbuy">
 					<a style="text-decoration: none;" href="/vacancies/detail.php?action=ADD2BASKET&amp;id=29007" title="">
-						Купить					</a>
+						РљСѓРїРёС‚СЊ					</a>
 			</div>
 		</td>
 		</tr>
@@ -389,15 +389,15 @@
 					<div class="rcell">
 									<div class="rcell">
 					<div class="basket"></div>
-						<h3>Корзина</h3>
+						<h3>РљРѕСЂР·РёРЅР°</h3>
 <table class="table-basket-line">
 
 	<tr>
 			<td><div class="basket-line-basket"></div></td>
-			<td>Ваша корзина пуста</td>
+			<td>Р’Р°С€Р° РєРѕСЂР·РёРЅР° РїСѓСЃС‚Р°</td>
 		</tr>		<tr>
 			<td><a href="http://retail.ru/profile/" class="basket-line-personal"></a></td>
-			<td><a href="http://retail.ru/profile/">Персональный раздел</a></td>
+			<td><a href="http://retail.ru/profile/">РџРµСЂСЃРѕРЅР°Р»СЊРЅС‹Р№ СЂР°Р·РґРµР»</a></td>
 		</tr>
 		
 </table>
@@ -406,21 +406,21 @@
 
 					<div class="right-top"></div>
 					<div class="rcell">
-<h3>Поиск по сайту:</h3>
+<h3>РџРѕРёСЃРє РїРѕ СЃР°Р№С‚Сѓ:</h3>
 <div id="search">
     <form action="http://retail.ru/search/index.php">
     <div class="both">
         <input type="text" class="text" name="q" value="" size="15" maxlength="50" />
     </div>
     <div class="both">
-        <input name="s" class="submit" type="submit" value="Поиск" />
+        <input name="s" class="submit" type="submit" value="РџРѕРёСЃРє" />
     </div>
     </form>
     <!--<ul style="padding:0 0 22px 0; margin-bottom:0px; ">
-        <li><a href="#">Оборудование</a></li>
-        <li><a href="#">Работу</a></li>
-        <li><a href="#">Работу</a></li>
-        <li><a href="#">Зарплату</a></li>
+        <li><a href="#">РћР±РѕСЂСѓРґРѕРІР°РЅРёРµ</a></li>
+        <li><a href="#">Р Р°Р±РѕС‚Сѓ</a></li>
+        <li><a href="#">Р Р°Р±РѕС‚Сѓ</a></li>
+        <li><a href="#">Р—Р°СЂРїР»Р°С‚Сѓ</a></li>
      </ul>-->
   </div>
 </div>					<div class="right-btm"></div>
@@ -428,21 +428,21 @@
 					<div class="right-top"></div>
 					
 <div class="rcell">
-<h3>Банк вакансий</h3>
+<h3>Р‘Р°РЅРє РІР°РєР°РЅСЃРёР№</h3>
     <ul>
 
         
-                			        				        <li><a href="http://retail.ru/vacancies/detail.php?id=29469">Курьер, 20-23 тыс. р.</a></li>
+                			        				        <li><a href="http://retail.ru/vacancies/detail.php?id=29469">РљСѓСЂСЊРµСЂ, 20-23 С‚С‹СЃ. СЂ.</a></li>
 			        		                
-                			        				        <li><a href="http://retail.ru/vacancies/detail.php?id=28062">Финансовый директор</a></li>
+                			        				        <li><a href="http://retail.ru/vacancies/detail.php?id=28062">Р¤РёРЅР°РЅСЃРѕРІС‹Р№ РґРёСЂРµРєС‚РѕСЂ</a></li>
 			        		                
-                			        				        <li><a href="http://retail.ru/vacancies/detail.php?id=28061">Генеральный директор ген. подрядной организации</a></li>
+                			        				        <li><a href="http://retail.ru/vacancies/detail.php?id=28061">Р“РµРЅРµСЂР°Р»СЊРЅС‹Р№ РґРёСЂРµРєС‚РѕСЂ РіРµРЅ. РїРѕРґСЂСЏРґРЅРѕР№ РѕСЂРіР°РЅРёР·Р°С†РёРё</a></li>
 			        		                
-                			        				        <li><a href="http://retail.ru/vacancies/detail.php?id=28060">Ведущий специалист по разработке и внедрению конвергентных услуг</a></li>
+                			        				        <li><a href="http://retail.ru/vacancies/detail.php?id=28060">Р’РµРґСѓС‰РёР№ СЃРїРµС†РёР°Р»РёСЃС‚ РїРѕ СЂР°Р·СЂР°Р±РѕС‚РєРµ Рё РІРЅРµРґСЂРµРЅРёСЋ РєРѕРЅРІРµСЂРіРµРЅС‚РЅС‹С… СѓСЃР»СѓРі</a></li>
 			        		                
-                			        				        <li><a href="http://retail.ru/vacancies/detail.php?id=28059">Директор по персоналу</a></li>
+                			        				        <li><a href="http://retail.ru/vacancies/detail.php?id=28059">Р”РёСЂРµРєС‚РѕСЂ РїРѕ РїРµСЂСЃРѕРЅР°Р»Сѓ</a></li>
 			        		                </ul>
-<div class="scell"><strong><a href="http://retail.ru/vacancies/index.php">Все вакансии</a></strong></div>
+<div class="scell"><strong><a href="http://retail.ru/vacancies/index.php">Р’СЃРµ РІР°РєР°РЅСЃРёРё</a></strong></div>
 </div>
 
 
@@ -452,7 +452,7 @@
 					<div class="right-top"></div>
 					
 <div class="rcell">
-                <h3>Интервью</h3>
+                <h3>РРЅС‚РµСЂРІСЊСЋ</h3>
 
         
           <div class="interw">
@@ -460,16 +460,16 @@
                 
 
                                     <div class="clear"></div>
-                        <div class="txt"><strong><a href="/interviews/29431/">«РегионМарт»: «Сибирью прирастать!»</a></strong></div>
+                        <div class="txt"><strong><a href="/interviews/29431/">В«Р РµРіРёРѕРЅРњР°СЂС‚В»: В«РЎРёР±РёСЂСЊСЋ РїСЂРёСЂР°СЃС‚Р°С‚СЊ!В»</a></strong></div>
                                             </div>
 				<div class="clear"></div>
-                                    <p style="padding:10px 10px 0px 10px">Этим летом стало известно, что ЗАО «РегионМарт» проводит...                     <a href="/interviews/29431/"><img src="/bitrix/templates/retail_main_page/images/article_arrows.gif" border="0" alt="подробнее"/></a></p>
+                                    <p style="padding:10px 10px 0px 10px">Р­С‚РёРј Р»РµС‚РѕРј СЃС‚Р°Р»Рѕ РёР·РІРµСЃС‚РЅРѕ, С‡С‚Рѕ Р—РђРћ В«Р РµРіРёРѕРЅРњР°СЂС‚В» РїСЂРѕРІРѕРґРёС‚...                     <a href="/interviews/29431/"><img src="/bitrix/templates/retail_main_page/images/article_arrows.gif" border="0" alt="РїРѕРґСЂРѕР±РЅРµРµ"/></a></p>
                 
         
         </div>
 
 				 				<div class="right-btm"></div>
-			</div><br/> 			<h3>Отраслевые мероприятия</h3>
+			</div><br/> 			<h3>РћС‚СЂР°СЃР»РµРІС‹Рµ РјРµСЂРѕРїСЂРёСЏС‚РёСЏ</h3>
 			<div class="banners">
 								<a href=""  ><div><OBJECT
 									classid="clsid:D27CDB6E-AE6D-11CF-96B8-444553540000"
@@ -496,8 +496,8 @@
 										</EMBED>
 								</OBJECT></div></a>
 								</div>
-			<div class="banners"><a href="/bitrix/rk.php?id=113&amp;goto=http%3A%2F%2Fevents.b2bmedia.ru%2Fcalendar%2Fcalendars_87.html"><img alt="Всероссийский Торговый Форум «Российский рынок товаров для дома XXI века. Новые возможности»"  title="Всероссийский Торговый Форум «Российский рынок товаров для дома XXI века. Новые возможности»" src="/upload/rk/b68/_200x80.gif" width="200" height="80" border="0" /></a></div>
-			<div class="banners"><a href="/bitrix/rk.php?id=119&amp;goto=http%3A%2F%2Fposm.ru%2Fnews.php%3Fnews_id%3D302+" target="_blank" ><img alt="P.O.S Конгресс"  title="P.O.S Конгресс" src="/upload/rk/60f/200X80.gif" width="200" height="80" border="0" /></a></div>
+			<div class="banners"><a href="/bitrix/rk.php?id=113&amp;goto=http%3A%2F%2Fevents.b2bmedia.ru%2Fcalendar%2Fcalendars_87.html"><img alt="Р’СЃРµСЂРѕСЃСЃРёР№СЃРєРёР№ РўРѕСЂРіРѕРІС‹Р№ Р¤РѕСЂСѓРј В«Р РѕСЃСЃРёР№СЃРєРёР№ СЂС‹РЅРѕРє С‚РѕРІР°СЂРѕРІ РґР»СЏ РґРѕРјР° XXI РІРµРєР°. РќРѕРІС‹Рµ РІРѕР·РјРѕР¶РЅРѕСЃС‚РёВ»"  title="Р’СЃРµСЂРѕСЃСЃРёР№СЃРєРёР№ РўРѕСЂРіРѕРІС‹Р№ Р¤РѕСЂСѓРј В«Р РѕСЃСЃРёР№СЃРєРёР№ СЂС‹РЅРѕРє С‚РѕРІР°СЂРѕРІ РґР»СЏ РґРѕРјР° XXI РІРµРєР°. РќРѕРІС‹Рµ РІРѕР·РјРѕР¶РЅРѕСЃС‚РёВ»" src="/upload/rk/b68/_200x80.gif" width="200" height="80" border="0" /></a></div>
+			<div class="banners"><a href="/bitrix/rk.php?id=119&amp;goto=http%3A%2F%2Fposm.ru%2Fnews.php%3Fnews_id%3D302+" target="_blank" ><img alt="P.O.S РљРѕРЅРіСЂРµСЃСЃ"  title="P.O.S РљРѕРЅРіСЂРµСЃСЃ" src="/upload/rk/60f/200X80.gif" width="200" height="80" border="0" /></a></div>
 			<div class="banners"><a href="/bitrix/rk.php?id=111&amp;event1=banner&amp;event2=click&amp;event3=10+%2F+%5B111%5D+%5Bright_column_events%5D+Customer+Management+Congress+&amp;goto=http%3A%2F%2Fwww.exposystems.ru%2Fcmc%2F2008%2F" target="_blank" ><img alt=""  title="" src="/upload/rk/f6b/MC08_200t80_banner_rus.gif" width="200" height="80" border="0" /></a></div>
 			<div class="banners"><a href="/bitrix/rk.php?id=109&amp;goto=http%3A%2F%2Ffarexpo.ru%2Fmoda-osen%2Fprogram.php"><img alt=""  title="" src="/upload/rk/452/200_80_forum.gif" width="200" height="80" border="0" /></a><p></p>
 </div>
@@ -509,7 +509,7 @@
 			<div class="scenter">
 				<div class="centr-ban">
 					
-								<div><div style="position:absolute; z-index: 100;"><a href="/bitrix/rk.php?id=114&amp;event1=banner&amp;event2=click&amp;event3=14+%2F+%5B114%5D+%5Bover_actual%5D+%C1%E5%F0%E0%F2%EE%F0+%D0%EE%E7%ED%E8%F7%ED%E0%FF+%F2%EE%F0%E3%EE%E2%EB%FF+%EE%F2+%C0+%E4%EE+%DF&amp;goto=http%3A%2F%2Fshop.retail.ru%2Findex.php%3FSECTION_ID%3D552%26ELEMENT_ID%3D17634"  target="_blank"   title="Розничная торговля от А до Я" ><img src="/bitrix/images/1.gif" width="468" height="60" border="0" alt="Розничная торговля от А до Я" /></a></div><OBJECT
+								<div><div style="position:absolute; z-index: 100;"><a href="/bitrix/rk.php?id=114&amp;event1=banner&amp;event2=click&amp;event3=14+%2F+%5B114%5D+%5Bover_actual%5D+%C1%E5%F0%E0%F2%EE%F0+%D0%EE%E7%ED%E8%F7%ED%E0%FF+%F2%EE%F0%E3%EE%E2%EB%FF+%EE%F2+%C0+%E4%EE+%DF&amp;goto=http%3A%2F%2Fshop.retail.ru%2Findex.php%3FSECTION_ID%3D552%26ELEMENT_ID%3D17634"  target="_blank"   title="Р РѕР·РЅРёС‡РЅР°СЏ С‚РѕСЂРіРѕРІР»СЏ РѕС‚ Рђ РґРѕ РЇ" ><img src="/bitrix/images/1.gif" width="468" height="60" border="0" alt="Р РѕР·РЅРёС‡РЅР°СЏ С‚РѕСЂРіРѕРІР»СЏ РѕС‚ Рђ РґРѕ РЇ" /></a></div><OBJECT
 									classid="clsid:D27CDB6E-AE6D-11CF-96B8-444553540000"
 									codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"
 									id="banner_114"
@@ -535,11 +535,11 @@
 								</OBJECT></div>
 								<p></p>
 				</div><br/>
-				<a href="/" title="Главная">Главная</a>&nbsp; > &nbsp;<a href="/vacancies/" title="Банк вакансий">Банк вакансий</a>
+				<a href="/" title="Р“Р»Р°РІРЅР°СЏ">Р“Р»Р°РІРЅР°СЏ</a>&nbsp; > &nbsp;<a href="/vacancies/" title="Р‘Р°РЅРє РІР°РєР°РЅСЃРёР№">Р‘Р°РЅРє РІР°РєР°РЅСЃРёР№</a>
 
 
 <div id="article">   
-     <!-- отображение кнопки редактирования для определённых групп пользователей -->
+     <!-- РѕС‚РѕР±СЂР°Р¶РµРЅРёРµ РєРЅРѕРїРєРё СЂРµРґР°РєС‚РёСЂРѕРІР°РЅРёСЏ РґР»СЏ РѕРїСЂРµРґРµР»С‘РЅРЅС‹С… РіСЂСѓРїРї РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№ -->
         
     
         
@@ -549,75 +549,75 @@
        
         
                             <div id="article_name">
-                    <h1>Ведущий специалист по разработке и внедрению конвергентных услуг</h1>
+                    <h1>Р’РµРґСѓС‰РёР№ СЃРїРµС†РёР°Р»РёСЃС‚ РїРѕ СЂР°Р·СЂР°Р±РѕС‚РєРµ Рё РІРЅРµРґСЂРµРЅРёСЋ РєРѕРЅРІРµСЂРіРµРЅС‚РЅС‹С… СѓСЃР»СѓРі</h1>
                 </div>
                     
       
 <div style="clear:both"></div>
    
- <p><b>Вакансия опубликована: </b>
-   29.06.2008 20:36:40</p>  <h3>Организация</h3><p>
-<p>Один из лидеров общероссийского рынка в области телекоммуникационных услуг. </p>
+ <p><b>Р’Р°РєР°РЅСЃРёСЏ РѕРїСѓР±Р»РёРєРѕРІР°РЅР°: </b>
+   29.06.2008 20:36:40</p>  <h3>РћСЂРіР°РЅРёР·Р°С†РёСЏ</h3><p>
+<p>РћРґРёРЅ РёР· Р»РёРґРµСЂРѕРІ РѕР±С‰РµСЂРѕСЃСЃРёР№СЃРєРѕРіРѕ СЂС‹РЅРєР° РІ РѕР±Р»Р°СЃС‚Рё С‚РµР»РµРєРѕРјРјСѓРЅРёРєР°С†РёРѕРЅРЅС‹С… СѓСЃР»СѓРі. </p>
 
-<p>Компания строит свой бизнес, основываясь на принципах максимального удовлетворения потребностей клиентов, добросовестной конкуренции, информационной открытости и предоставляет своим сотрудникам все возможности для реализации своего профессионального потенциала.
+<p>РљРѕРјРїР°РЅРёСЏ СЃС‚СЂРѕРёС‚ СЃРІРѕР№ Р±РёР·РЅРµСЃ, РѕСЃРЅРѕРІС‹РІР°СЏСЃСЊ РЅР° РїСЂРёРЅС†РёРїР°С… РјР°РєСЃРёРјР°Р»СЊРЅРѕРіРѕ СѓРґРѕРІР»РµС‚РІРѕСЂРµРЅРёСЏ РїРѕС‚СЂРµР±РЅРѕСЃС‚РµР№ РєР»РёРµРЅС‚РѕРІ, РґРѕР±СЂРѕСЃРѕРІРµСЃС‚РЅРѕР№ РєРѕРЅРєСѓСЂРµРЅС†РёРё, РёРЅС„РѕСЂРјР°С†РёРѕРЅРЅРѕР№ РѕС‚РєСЂС‹С‚РѕСЃС‚Рё Рё РїСЂРµРґРѕСЃС‚Р°РІР»СЏРµС‚ СЃРІРѕРёРј СЃРѕС‚СЂСѓРґРЅРёРєР°Рј РІСЃРµ РІРѕР·РјРѕР¶РЅРѕСЃС‚Рё РґР»СЏ СЂРµР°Р»РёР·Р°С†РёРё СЃРІРѕРµРіРѕ РїСЂРѕС„РµСЃСЃРёРѕРЅР°Р»СЊРЅРѕРіРѕ РїРѕС‚РµРЅС†РёР°Р»Р°.
   <br />
 </p>
-</p><h3>Адрес работы</h3><p>г. Москва</p><h3>Основные обязанности</h3><p>
-<p>Подчинение:&nbsp; Руководитель сектора</p>
+</p><h3>РђРґСЂРµСЃ СЂР°Р±РѕС‚С‹</h3><p>Рі. РњРѕСЃРєРІР°</p><h3>РћСЃРЅРѕРІРЅС‹Рµ РѕР±СЏР·Р°РЅРЅРѕСЃС‚Рё</h3><p>
+<p>РџРѕРґС‡РёРЅРµРЅРёРµ:&nbsp; Р СѓРєРѕРІРѕРґРёС‚РµР»СЊ СЃРµРєС‚РѕСЂР°</p>
 
-<p>Основные должностные обязанности: </p>
+<p>РћСЃРЅРѕРІРЅС‹Рµ РґРѕР»Р¶РЅРѕСЃС‚РЅС‹Рµ РѕР±СЏР·Р°РЅРЅРѕСЃС‚Рё: </p>
 
 <ul>
-  <li>разработка и запуск проектов компании, в т.ч. Федеральных по внедрению и конвергенции новых услуг на базе сетей фиксированной телефонной, подвижной радиотелефонной связи и сетей передачи данных </li>
+  <li>СЂР°Р·СЂР°Р±РѕС‚РєР° Рё Р·Р°РїСѓСЃРє РїСЂРѕРµРєС‚РѕРІ РєРѕРјРїР°РЅРёРё, РІ С‚.С‡. Р¤РµРґРµСЂР°Р»СЊРЅС‹С… РїРѕ РІРЅРµРґСЂРµРЅРёСЋ Рё РєРѕРЅРІРµСЂРіРµРЅС†РёРё РЅРѕРІС‹С… СѓСЃР»СѓРі РЅР° Р±Р°Р·Рµ СЃРµС‚РµР№ С„РёРєСЃРёСЂРѕРІР°РЅРЅРѕР№ С‚РµР»РµС„РѕРЅРЅРѕР№, РїРѕРґРІРёР¶РЅРѕР№ СЂР°РґРёРѕС‚РµР»РµС„РѕРЅРЅРѕР№ СЃРІСЏР·Рё Рё СЃРµС‚РµР№ РїРµСЂРµРґР°С‡Рё РґР°РЅРЅС‹С… </li>
 
-  <li>подготовка и согласование проектной документации, составление, ведение и контроль выполнения проектных планов-графиков </li>
+  <li>РїРѕРґРіРѕС‚РѕРІРєР° Рё СЃРѕРіР»Р°СЃРѕРІР°РЅРёРµ РїСЂРѕРµРєС‚РЅРѕР№ РґРѕРєСѓРјРµРЅС‚Р°С†РёРё, СЃРѕСЃС‚Р°РІР»РµРЅРёРµ, РІРµРґРµРЅРёРµ Рё РєРѕРЅС‚СЂРѕР»СЊ РІС‹РїРѕР»РЅРµРЅРёСЏ РїСЂРѕРµРєС‚РЅС‹С… РїР»Р°РЅРѕРІ-РіСЂР°С„РёРєРѕРІ </li>
 
-  <li>координация деятельности структурных подразделений компании, принимающих участие в реализации и развитии проектов </li>
+  <li>РєРѕРѕСЂРґРёРЅР°С†РёСЏ РґРµСЏС‚РµР»СЊРЅРѕСЃС‚Рё СЃС‚СЂСѓРєС‚СѓСЂРЅС‹С… РїРѕРґСЂР°Р·РґРµР»РµРЅРёР№ РєРѕРјРїР°РЅРёРё, РїСЂРёРЅРёРјР°СЋС‰РёС… СѓС‡Р°СЃС‚РёРµ РІ СЂРµР°Р»РёР·Р°С†РёРё Рё СЂР°Р·РІРёС‚РёРё РїСЂРѕРµРєС‚РѕРІ </li>
 
-  <li>организация межсетевого взаимодействия компании с другими операторами связи в рамках реализуемых проектов </li>
+  <li>РѕСЂРіР°РЅРёР·Р°С†РёСЏ РјРµР¶СЃРµС‚РµРІРѕРіРѕ РІР·Р°РёРјРѕРґРµР№СЃС‚РІРёСЏ РєРѕРјРїР°РЅРёРё СЃ РґСЂСѓРіРёРјРё РѕРїРµСЂР°С‚РѕСЂР°РјРё СЃРІСЏР·Рё РІ СЂР°РјРєР°С… СЂРµР°Р»РёР·СѓРµРјС‹С… РїСЂРѕРµРєС‚РѕРІ </li>
 
-  <li>ведение переговоров и деловой переписки </li>
+  <li>РІРµРґРµРЅРёРµ РїРµСЂРµРіРѕРІРѕСЂРѕРІ Рё РґРµР»РѕРІРѕР№ РїРµСЂРµРїРёСЃРєРё </li>
 </ul>
-</p><h3>Зарплата</h3><p>до 100 000 gross + квартальный и годовой бонус + соц. пакет</p><h3>Требования</h3><p>
-<p>Требования кандидату:</p>
+</p><h3>Р—Р°СЂРїР»Р°С‚Р°</h3><p>РґРѕ 100 000 gross + РєРІР°СЂС‚Р°Р»СЊРЅС‹Р№ Рё РіРѕРґРѕРІРѕР№ Р±РѕРЅСѓСЃ + СЃРѕС†. РїР°РєРµС‚</p><h3>РўСЂРµР±РѕРІР°РЅРёСЏ</h3><p>
+<p>РўСЂРµР±РѕРІР°РЅРёСЏ РєР°РЅРґРёРґР°С‚Сѓ:</p>
 
 <ul>
-  <li>высшее техническое образование (желательно в области связи) </li>
+  <li>РІС‹СЃС€РµРµ С‚РµС…РЅРёС‡РµСЃРєРѕРµ РѕР±СЂР°Р·РѕРІР°РЅРёРµ (Р¶РµР»Р°С‚РµР»СЊРЅРѕ РІ РѕР±Р»Р°СЃС‚Рё СЃРІСЏР·Рё) </li>
 
-  <li>опыт работы в области телекоммуникаций не менее 2-х лет в должности project-manager, product-manager, pre-sale </li>
+  <li>РѕРїС‹С‚ СЂР°Р±РѕС‚С‹ РІ РѕР±Р»Р°СЃС‚Рё С‚РµР»РµРєРѕРјРјСѓРЅРёРєР°С†РёР№ РЅРµ РјРµРЅРµРµ 2-С… Р»РµС‚ РІ РґРѕР»Р¶РЅРѕСЃС‚Рё project-manager, product-manager, pre-sale </li>
 
-  <li>знание отраслевой нормативно-правовой базы </li>
+  <li>Р·РЅР°РЅРёРµ РѕС‚СЂР°СЃР»РµРІРѕР№ РЅРѕСЂРјР°С‚РёРІРЅРѕ-РїСЂР°РІРѕРІРѕР№ Р±Р°Р·С‹ </li>
 
-  <li>знание принципов построения сетей связи, оборудования связи, принципов межоператорского взаимодействия, Интерконнекта, услуг подвижной и фиксированной связи </li>
+  <li>Р·РЅР°РЅРёРµ РїСЂРёРЅС†РёРїРѕРІ РїРѕСЃС‚СЂРѕРµРЅРёСЏ СЃРµС‚РµР№ СЃРІСЏР·Рё, РѕР±РѕСЂСѓРґРѕРІР°РЅРёСЏ СЃРІСЏР·Рё, РїСЂРёРЅС†РёРїРѕРІ РјРµР¶РѕРїРµСЂР°С‚РѕСЂСЃРєРѕРіРѕ РІР·Р°РёРјРѕРґРµР№СЃС‚РІРёСЏ, РРЅС‚РµСЂРєРѕРЅРЅРµРєС‚Р°, СѓСЃР»СѓРі РїРѕРґРІРёР¶РЅРѕР№ Рё С„РёРєСЃРёСЂРѕРІР°РЅРЅРѕР№ СЃРІСЏР·Рё </li>
 
-  <li>опыт составления бизнес-планов, описания продуктов </li>
+  <li>РѕРїС‹С‚ СЃРѕСЃС‚Р°РІР»РµРЅРёСЏ Р±РёР·РЅРµСЃ-РїР»Р°РЅРѕРІ, РѕРїРёСЃР°РЅРёСЏ РїСЂРѕРґСѓРєС‚РѕРІ </li>
 
-  <li>знание правил деловой переписки, навыки ведения переговоров</li>
+  <li>Р·РЅР°РЅРёРµ РїСЂР°РІРёР» РґРµР»РѕРІРѕР№ РїРµСЂРµРїРёСЃРєРё, РЅР°РІС‹РєРё РІРµРґРµРЅРёСЏ РїРµСЂРµРіРѕРІРѕСЂРѕРІ</li>
 
-  <li>английский язык - приветствуется </li>
+  <li>Р°РЅРіР»РёР№СЃРєРёР№ СЏР·С‹Рє - РїСЂРёРІРµС‚СЃС‚РІСѓРµС‚СЃСЏ </li>
 
-  <li>уверенный пользователь ПК: MS Word, MS Excel, MS Project, MS PowerPoint, MS Visio, нормативно-правовые системы Гарант </li>
+  <li>СѓРІРµСЂРµРЅРЅС‹Р№ РїРѕР»СЊР·РѕРІР°С‚РµР»СЊ РџРљ: MS Word, MS Excel, MS Project, MS PowerPoint, MS Visio, РЅРѕСЂРјР°С‚РёРІРЅРѕ-РїСЂР°РІРѕРІС‹Рµ СЃРёСЃС‚РµРјС‹ Р“Р°СЂР°РЅС‚ </li>
 </ul>
 
-<p>Личностные качества:</p>
+<p>Р›РёС‡РЅРѕСЃС‚РЅС‹Рµ РєР°С‡РµСЃС‚РІР°:</p>
 
 <ul>
-  <li>активность и самостоятельность при достижении поставленных целей</li>
+  <li>Р°РєС‚РёРІРЅРѕСЃС‚СЊ Рё СЃР°РјРѕСЃС‚РѕСЏС‚РµР»СЊРЅРѕСЃС‚СЊ РїСЂРё РґРѕСЃС‚РёР¶РµРЅРёРё РїРѕСЃС‚Р°РІР»РµРЅРЅС‹С… С†РµР»РµР№</li>
 
-  <li>организаторские способности</li>
+  <li>РѕСЂРіР°РЅРёР·Р°С‚РѕСЂСЃРєРёРµ СЃРїРѕСЃРѕР±РЅРѕСЃС‚Рё</li>
 
-  <li>опыт руководства рабочими группами</li>
+  <li>РѕРїС‹С‚ СЂСѓРєРѕРІРѕРґСЃС‚РІР° СЂР°Р±РѕС‡РёРјРё РіСЂСѓРїРїР°РјРё</li>
 
-  <li>системный подход к решению задач
+  <li>СЃРёСЃС‚РµРјРЅС‹Р№ РїРѕРґС…РѕРґ Рє СЂРµС€РµРЅРёСЋ Р·Р°РґР°С‡
     <br />
   </li>
 </ul>
-</p><h3>Условия найма</h3><p>до 100 000 gross + квартальный и годовой бонус + соц. пакет:&nbsp; медицинская страховка, дотации на питание, оплата мобильного телефона и фитнес-клуба</p><h3>Контактная информация</h3><p>Агентство APL GROUP
+</p><h3>РЈСЃР»РѕРІРёСЏ РЅР°Р№РјР°</h3><p>РґРѕ 100 000 gross + РєРІР°СЂС‚Р°Р»СЊРЅС‹Р№ Рё РіРѕРґРѕРІРѕР№ Р±РѕРЅСѓСЃ + СЃРѕС†. РїР°РєРµС‚:&nbsp; РјРµРґРёС†РёРЅСЃРєР°СЏ СЃС‚СЂР°С…РѕРІРєР°, РґРѕС‚Р°С†РёРё РЅР° РїРёС‚Р°РЅРёРµ, РѕРїР»Р°С‚Р° РјРѕР±РёР»СЊРЅРѕРіРѕ С‚РµР»РµС„РѕРЅР° Рё С„РёС‚РЅРµСЃ-РєР»СѓР±Р°</p><h3>РљРѕРЅС‚Р°РєС‚РЅР°СЏ РёРЅС„РѕСЂРјР°С†РёСЏ</h3><p>РђРіРµРЅС‚СЃС‚РІРѕ APL GROUP
 <br />
 <a href="http://www.apl-group.ru">www.apl-group.ru</a>
 <br />
 e-mail:&nbsp;<a href="mailto:cv@apl-group.ru">cv@apl-group.ru</a></p>
-<p><a href="/vacancies/?">&lt;&lt; Вернуться к списку вакансий</a></p>
+<p><a href="/vacancies/?">&lt;&lt; Р’РµСЂРЅСѓС‚СЊСЃСЏ Рє СЃРїРёСЃРєСѓ РІР°РєР°РЅСЃРёР№</a></p>
 
 
         
@@ -629,7 +629,7 @@ e-mail:&nbsp;<a href="mailto:cv@apl-group.ru">cv@apl-group.ru</a></p>
         
 <pre></pre>
   </div>
-    <a href="#authform" onclick="document.getElementById('USER_LOGIN').focus(); return false;">Введите логин и пароль</a> или <a href="http://retail.ru/profile/user.php?register=yes">зарегистрируйтесь</a>, чтобы оставлять комментарии<br /><br />
+    <a href="#authform" onclick="document.getElementById('USER_LOGIN').focus(); return false;">Р’РІРµРґРёС‚Рµ Р»РѕРіРёРЅ Рё РїР°СЂРѕР»СЊ</a> РёР»Рё <a href="http://retail.ru/profile/user.php?register=yes">Р·Р°СЂРµРіРёСЃС‚СЂРёСЂСѓР№С‚РµСЃСЊ</a>, С‡С‚РѕР±С‹ РѕСЃС‚Р°РІР»СЏС‚СЊ РєРѕРјРјРµРЅС‚Р°СЂРёРё<br /><br />
 
 
 
@@ -645,11 +645,11 @@ e-mail:&nbsp;<a href="mailto:cv@apl-group.ru">cv@apl-group.ru</a></p>
 	<div id="footer">
 		<div id="info">
 			<p>&copy; 1999&#151;2008&nbsp;Retail.ru</p>
-			<a href="http://retail.ru/info/index.php">О сайте</a>&nbsp;|&nbsp;
-			<a href="http://retail.ru/info/help.php">Помощь</a>&nbsp;|&nbsp;
-			<a href="http://retail.ru/info/agreement.php">Правила</a>&nbsp;|&nbsp;
-			<a href="http://retail.ru/info/advert.php">Размещение&nbsp;рекламы</a>&nbsp;|&nbsp;
-			<a href="http://retail.ru/info/statistics.php">Статистика</a>
+			<a href="http://retail.ru/info/index.php">Рћ СЃР°Р№С‚Рµ</a>&nbsp;|&nbsp;
+			<a href="http://retail.ru/info/help.php">РџРѕРјРѕС‰СЊ</a>&nbsp;|&nbsp;
+			<a href="http://retail.ru/info/agreement.php">РџСЂР°РІРёР»Р°</a>&nbsp;|&nbsp;
+			<a href="http://retail.ru/info/advert.php">Р Р°Р·РјРµС‰РµРЅРёРµ&nbsp;СЂРµРєР»Р°РјС‹</a>&nbsp;|&nbsp;
+			<a href="http://retail.ru/info/statistics.php">РЎС‚Р°С‚РёСЃС‚РёРєР°</a>
 		</div>
 
 		<div id="counters">
@@ -665,12 +665,12 @@ e-mail:&nbsp;<a href="mailto:cv@apl-group.ru">cv@apl-group.ru</a></p>
 		d.write('<a href="http://top.mail.ru/jump?from=12478"'+
 		' target="_top"><img src="http://d0.c3.b0.a0.top.mail.ru/counter'+
 		'?id=12478;t=52;js='+js+a+';rand='+Math.random()+
-		'" alt="Рейтинг@Mail.ru"'+' border="0" height="31" width="88"/><\/a>')
+		'" alt="Р РµР№С‚РёРЅРі@Mail.ru"'+' border="0" height="31" width="88"/><\/a>')
 		if(11<js)d.write('<'+'!-- ')//--></script><noscript><a
 		target="_top" href="http://top.mail.ru/jump?from=12478"><img
 		src="http://d0.c3.b0.a0.top.mail.ru/counter?js=na;id=12478;t=52"
 		border="0" height="31" width="88"
-		alt="Рейтинг@Mail.ru"/></a></noscript><script language="JavaScript" type="text/javascript"><!--
+		alt="Р РµР№С‚РёРЅРі@Mail.ru"/></a></noscript><script language="JavaScript" type="text/javascript"><!--
 		if(11<js)d.write('--'+'>')//--></script><!--/COUNTER-->
 
         		<!-- SpyLOG -->
