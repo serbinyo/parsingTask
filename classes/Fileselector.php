@@ -41,9 +41,9 @@ class Fileselector
     }
 
     /**
-     * @param string|array $filter   критерий для выборки по имени файла
+     * @param string|array $filter критерий для выборки по имени файла
      *                               может принимать маску типа *.txt, массив масок или регулярное выражение
-     * @param string       $destPath путь до папки назначения
+     * @param string $destPath путь до папки назначения
      */
     public function select($filter, $destPath): void
     {
@@ -55,5 +55,77 @@ class Fileselector
             $this->fileSystem->mirror($this->dir . '/' . $relativePath, __DIR__
                 . $destPath . '/' . $relativePath);
         }
+    }
+
+    public function setUtfCharset(): void
+    {
+
+        foreach ($this->finder as $file) {
+
+            $relativePath = __DIR__ . '/../../archive/selected/' . $file->getRelativePathname();
+            echo $relativePath . "\n";
+            $content = file_get_contents($relativePath);
+
+            $charset = $this->detectCurCharset($content);
+            //echo $charset . "\n";
+
+            if ($charset !== 'UTF-8') {
+                $content = mb_convert_encoding($content, 'UTF-8', $charset);
+                file_put_contents($relativePath, $content);
+            }
+
+        }
+    }
+
+    public function detectCurCharset($content)
+    {
+
+        $charset = '';
+        $isUtf = mb_detect_encoding($content, 'UTF-8', true);
+
+        if (!$isUtf) {
+            $charsets = [
+                'KOI8-R' => 0,
+                'windows-1251' => 0,
+            ];
+
+            for ($i = 0, $length = strlen($content); $i < $length; $i++) {
+
+                $char = ord($content[$i]);
+
+                if ($char < 128) {
+                    continue;
+                }
+
+                //KOI8-R
+                if ($char > 191 && $char < 223) {
+                    $charsets['KOI8-R'] += LOWERCASE;
+                }
+
+                if ($char > 222 && $char < 256) {
+                    $charsets['KOI8-R'] += UPPERCASE;
+                }
+
+                //windows-1251
+                if ($char > 223 && $char < 256) {
+                    $charsets['windows-1251'] += LOWERCASE;
+                }
+
+                if ($char > 191 && $char < 224) {
+                    $charsets['windows-1251'] += UPPERCASE;
+                }
+
+            }
+
+        } else {
+            $charset = 'UTF-8';
+        }
+
+        if ($charset !== 'UTF-8') {
+            arsort($charsets);
+            $charset = key($charsets);
+        }
+
+        return $charset;
     }
 }
