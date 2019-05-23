@@ -12,33 +12,53 @@ $logger = $log->pushHandler(new StreamHandler('logs/info.log', Logger::INFO));
 
 $fileselector = new Fileselector(__DIR__ . '/../archive/original');
 
-$count = $fileselector->filesCount();
-$logger->info('Количество файлов:', ['до обработки' => $count]);
+//Подсчет файлов до всех операций
+//$count = $fileselector->filesCount();
+//$logger->info('Количество файлов:', ['до обработки' => $count]);
 
+//Выборка каталогов с потенциально контентными файлами
+//$fileselector->select(
+//    [
+//        '*.asp',
+//        '*.html',
+//        '*.xhtml',
+//        '*.xml',
+//        '*.txt',
+//        '*.htm',
+//        '*.',
+//    ],
+//    '/../../archive/select'
+//);
+
+
+//Подсчет выбранных контентных файлов
+//$count = $fileselector->filesCount();
+//$logger->info('Количество файлов:', [
+//    'выбрано файлов' => $count,
+//    'критерий отбора' => [
+//        '*.asp',
+//        '*.html',
+//        '*.xhtml',
+//        '*.xml',
+//        '*.txt',
+//        '*.htm',
+//        '*.'
+//    ]
+//]);
+
+
+//Выборка каталогов содержащих изображения
 $fileselector->select(
-    [
-        '*.asp',
-        '*.html',
-        '*.xhtml',
-        '*.xml',
-        '*.txt',
-        '*.htm'
-    ],
-    '/../../archive/selected'
+    ['*.tiff', '*.jpeg', '*.bmp', '*.jpe', '*.jpg', '*.png', '*.gif', '*.psd'],
+    '/../../archive/select_images'
 );
 
-$count = $fileselector->filesCount();
-$logger->info('Количество файлов:', [
-    'выбрано файлов' => $count,
-    'критерий отбора' => [
-        '*.asp',
-        '*.html',
-        '*.xhtml',
-        '*.xml',
-        '*.txt',
-        '*.htm'
-    ]
-]);
+//Подсчет изображений
+//$count = $fileselector->filesCount(['*.tiff', '*.jpeg', '*.bmp', '*.jpe', '*.jpg', '*.png', '*.gif', '*.psd']);
+//$logger->info('Количество файлов:', [
+//    'выбрано файлов' => $count,
+//    'критерий отбора' => ['*.tiff', '*.jpeg', '*.bmp', '*.jpe', '*.jpg', '*.png', '*.gif', '*.psd'],
+//]);
 
 
 /*
@@ -53,5 +73,3 @@ $logger->info('Количество файлов:', [
  * [2019-05-23 01:36:07] name.INFO: Количество файлов: {"выбрано файлов":104423,"критерий отбора":["*.asp","*.html","*.xhtml","*.xml","*.txt"]} []
  * [2019-05-23 14:12:48] name.INFO: Количество файлов: {"выбрано файлов":21989,"критерий отбора":["*.htm"]} []
  */
-
-//TODO проверить файлы без разширения *.

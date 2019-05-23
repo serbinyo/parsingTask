@@ -5,6 +5,6 @@ use Classes\Fileselector\Fileselector;
 
 require_once __DIR__ . '/classes/Fileselector.php';
 
-$fileselector = new Fileselector(__DIR__ . '/spart');
+$fileselector = new Fileselector(__DIR__ . '/../archive/select');
 
 $fileselector->encode();

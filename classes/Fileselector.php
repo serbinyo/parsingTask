@@ -36,8 +36,14 @@ class Fileselector
     /**
      * @return int возвращает количество файлов
      */
-    public function filesCount(): int
+    public function filesCount($filter = null): int
     {
+        if (isset($filter)){
+            $this->finder->files()->name($filter);
+        }
+        //.tiff, .jpeg, .bmp, .jpe, .jpg, .png, .gif, .psd
+        //$this->finder->files()->name(['.tiff', '.jpeg', '.bmp', '.jpe', '.jpg', '.png', '.gif', '.psd']);
+
         return iterator_count($this->finder);
     }
 
