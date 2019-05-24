@@ -71,6 +71,8 @@ class AnalysisContent
 
     public static function getContentFirst(string $dir, string $linkToFolder)
     {
+        echo date('h:i:s A');
+
         $imgMaskName = [
             '*.jpg',
             '*.JPG',
@@ -92,18 +94,22 @@ class AnalysisContent
 
             # получаем контент по ссылке
             $html = $file->getContents();
+//            $html = file_get_contents($dir . $linkToFolder . $link);
 
-            $masTagsRegex = 'p|h1|h2|h3|h4|h5|span|ul';
-            preg_match_all('#(<(' . $masTagsRegex . ').*?<\/(' . $masTagsRegex . ')>)#si', $html, $tags, PREG_PATTERN_ORDER);
+//            $masTagsRegex = 'p|h1|h2|h3|h4|h5|span|ul|ol';
+//            preg_match_all('#(<(' . $masTagsRegex . ').*?<\/(' . $masTagsRegex . ')>)#mis', $html, $tags, PREG_PATTERN_ORDER);
+            preg_match_all('#(<h1.*?<\/h1>)|(<h2.*?<\/h2>)|(<h3.*?<\/h3>)|(<h4.*?<\/h4>)|(<h5.*?<\/h5>)|(<p.*?<\/p>)|(<ul.*?<\/ul>)|(<span.*?<\/span>)#mis', $html, $tags, PREG_PATTERN_ORDER);
 
 
             # возвращаем данные только с нужными тегами
-            $masTagsStrip = '<p><h1><h2><h3><h4><h5><span><ul><ol><li><br>';
+            $masTagsStrip = '<p><h1><h2><h3><h4><h5><ul><ol><li><br>';
             $result = strip_tags(implode('', $tags[0]), $masTagsStrip);
 
+//            file_put_contents($dir . '/archive_edit2/' . $link, $result);
             $fileSystem = new Filesystem();
-            $fileSystem->dumpFile($dir . '/archive_edit/2004/' . $link, $result);
+            $fileSystem->dumpFile($dir . '/archive_edit2/' . $link, $result);
         }
+            echo date('h:i:s A');
     }
 
 
