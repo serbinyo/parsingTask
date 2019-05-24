@@ -22,7 +22,7 @@ class AnalysisContent
      * @param string $linkToFolder
      *
      */
-    public static function saveContentInFiles(string $dir, string $linkToFolder)
+    public static function deleteUnnecessaryTags(string $dir, string $linkToFolder)
     {
         $imgMaskName = [
             '*.jpg',
@@ -47,12 +47,8 @@ class AnalysisContent
             $html = $file->getContents();
 
             # убираем все лишнее
-            $html = preg_replace('#(<head.*?<\/head>)|
-                                (<object.*?<\/object>)|
-                                (<script.*?<\/script>)|
-                                (<noscript.*?<\/noscript>)|(<style.*?<\/style>)|
-                                (<footer.*?<\/footer>)#si', '', $html);
-            $html = preg_replace('#(<param.*?>)|(<embed.*?>)#si', '', $html);
+            $html = preg_replace('#(<head.*?<\/head>)|(<script.*?<\/script>)|(<noscript.*?<\/noscript>)|(<style.*?<\/style>)|(<footer.*?<\/footer>)#si', '', $html);
+            $html = preg_replace('#(<object.*?<\/object>)|(<param.*?>)|(<embed.*?<\/embed>)#si', '', $html);
 
             # поиск тега h1 в тексте
             # если нашли, удаляем все, что выше тега h1
@@ -61,19 +57,48 @@ class AnalysisContent
                 $html = $temp[1];
             }
 
-            $masTagsStrip = '<p><h1><h2><h3><h4><h5><span><ul><ol><li><br>';
+            $fileSystem = new Filesystem();
+            $fileSystem->dumpFile($dir . '/archive_edit/' . $link, $html);
+        }
+    }
+
+    public static function getContentFirst(string $dir, string $linkToFolder)
+    {
+        $imgMaskName = [
+            '*.jpg',
+            '*.JPG',
+            '*.png',
+            '*.PNG',
+            '*.gif',
+            '*.GIF',
+            '*.ico',
+            '*.ICO',
+            '*.pdf',
+            '*.PDF'
+        ];
+        $finder = new Finder();
+        $finder->files()->in($dir . $linkToFolder)->notName($imgMaskName);
+
+        # проходим по всем файлам
+        foreach ($finder as $file) {
+            $link = $file->getRelativePathname();
+
+            # получаем контент по ссылке
+            $html = $file->getContents();
+
             $masTagsRegex = 'p|h1|h2|h3|h4|h5|span';
             preg_match_all('#(<(' . $masTagsRegex . ').*?<\/(' . $masTagsRegex . ')>)#si', $html, $tags, PREG_PATTERN_ORDER);
 
 
             # возвращаем данные только с нужными тегами
+            $masTagsStrip = '<p><h1><h2><h3><h4><h5><span><ul><ol><li><br>';
             $result = strip_tags(implode('', $tags[0]), $masTagsStrip);
-//            $tags = str_replace([chr(13), chr(10)],'', $tags); //убираем табуляцию и переносы
 
             $fileSystem = new Filesystem();
             $fileSystem->dumpFile($dir . '/archive_edit/' . $link, $result);
         }
     }
+
 
 
 
