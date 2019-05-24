@@ -47,8 +47,15 @@ class AnalysisContent
             $html = $file->getContents();
 
             # убираем все лишнее
-            $html = preg_replace('#(<head.*?<\/head>)|(<script.*?<\/script>)|(<noscript.*?<\/noscript>)|(<style.*?<\/style>)|(<footer.*?<\/footer>)#si', '', $html);
-            $html = preg_replace('#(<object.*?<\/object>)|(<param.*?>)|(<embed.*?<\/embed>)|(<form.*?<\/form>)#si', '', $html);
+            $html = preg_replace('#(<head.*?<\/head>)|(<script.*?<\/script>)|'.
+                                    '(<noscript.*?<\/noscript>)|(<style.*?<\/style>)|'.
+                                    '(<footer.*?<\/footer>)#si', '', $html);
+            $html = preg_replace('#(<object.*?<\/object>)|(<param.*?>)|'.
+                                    '(<embed.*?<\/embed>)|(<form.*?<\/form>)|'.
+                                    '(<noindex.*?<\/noindex>)#si', '', $html);
+            $html = preg_replace('#(<map.*?<\/map>)|(<\/body>)|'.
+                                    '(<html.*?>)|(<\/html>)|(<body.*?>)|'.
+                                    '(<\!--.*?-->)|(<\!doctype.*?>)#si', '', $html);
 
             # поиск тега h1 в тексте
             # если нашли, удаляем все, что выше тега h1
@@ -86,7 +93,7 @@ class AnalysisContent
             # получаем контент по ссылке
             $html = $file->getContents();
 
-            $masTagsRegex = 'p|h1|h2|h3|h4|h5|span';
+            $masTagsRegex = 'p|h1|h2|h3|h4|h5|span|ul';
             preg_match_all('#(<(' . $masTagsRegex . ').*?<\/(' . $masTagsRegex . ')>)#si', $html, $tags, PREG_PATTERN_ORDER);
 
 
@@ -95,7 +102,7 @@ class AnalysisContent
             $result = strip_tags(implode('', $tags[0]), $masTagsStrip);
 
             $fileSystem = new Filesystem();
-            $fileSystem->dumpFile($dir . '/archive_edit/' . $link, $result);
+            $fileSystem->dumpFile($dir . '/archive_edit/2004/' . $link, $result);
         }
     }
 
