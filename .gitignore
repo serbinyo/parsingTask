@@ -1,5 +1,6 @@
 vendor/
 archive/
+archive_edit/
 .idea/
 logs/
 nohup.out
