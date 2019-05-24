@@ -4,7 +4,6 @@ declare(strict_types=1);
 namespace Classes\Fileselector;
 
 require_once __DIR__ . '/../vendor/autoload.php';
-require_once __DIR__ . '/../encodeL.php';
 
 use Symfony\Component\Filesystem\Filesystem;
 use Symfony\Component\Finder\Finder;
@@ -34,15 +33,15 @@ class Fileselector
     }
 
     /**
+     * @param null|string|array $filter
+     *
      * @return int возвращает количество файлов
      */
     public function filesCount($filter = null): int
     {
-        if (isset($filter)){
+        if (isset($filter)) {
             $this->finder->files()->name($filter);
         }
-        //.tiff, .jpeg, .bmp, .jpe, .jpg, .png, .gif, .psd
-        //$this->finder->files()->name(['.tiff', '.jpeg', '.bmp', '.jpe', '.jpg', '.png', '.gif', '.psd']);
 
         return iterator_count($this->finder);
     }
@@ -64,18 +63,37 @@ class Fileselector
         }
     }
 
-    public function encode(): void
+
+    public function cleanUnnecessary(): void
     {
         foreach ($this->finder as $file) {
             $path = $this->dir . '/' . $file->getRelativePathname();
 
+            # получаем контент по ссылке
             $content = file_get_contents($path);
-            $charset = detectCurCharset($content);
 
-            if ($charset !== 'UTF-8') {
-                $content = mb_convert_encoding($content, 'UTF-8', $charset);
-                file_put_contents($path, $content);
+            # убираем все лишнее
+            $content = preg_replace('#(<head.*?<\/head>)|(<script.*?<\/script>)|'
+                . '(<noscript.*?<\/noscript>)|(<style.*?<\/style>)|'
+                . '(<footer.*?<\/footer>)#si', '', $content);
+
+            $content = preg_replace('#(<object.*?<\/object>)|(<param.*?>)|'
+                . '(<embed.*?<\/embed>)|(<form.*?<\/form>)|'
+                . '(<noindex.*?<\/noindex>)#si', '', $content);
+
+            $content = preg_replace('#(<map.*?<\/map>)|(<\/body>)|'
+                . '(<html.*?>)|(<\/html>)|(<body.*?>)|'
+                . '(<\!--.*?-->)|(<\!doctype.*?>)#si', '', $content);
+
+            # поиск тега h1 в тексте
+            # если нашли, удаляем все, что выше тега h1
+            if (mb_stripos($content, '<h1') > 0) {
+                preg_match('#(<h1.*)#si', $content, $pocket);
+                $content = $pocket[1];
             }
+
+            # записываем контент
+            file_put_contents($path, $content);
         }
     }
 }

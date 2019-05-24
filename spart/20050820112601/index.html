@@ -1,49 +1,6 @@
 
 <html>
-<head><title>Retail.Ru r3.0</title>
-<META content="text/html; charset=utf-8" http-equiv="Content-Type">
-<LINK href="/styles/general.css" rel="stylesheet" type="text/css">
-<link rel="SHORTCUT ICON" href="/favicon.ico">
-<style>
-<!--
-ul {
-        color: #255a80;
-        font-family: Tahoma Cyr, Tahoma;
-        font-size: 10pt;
-        line-height: 16pt;
-        text-align: left;
-        list-style-type: square;
-}
 
-ul ul {
-        list-style-type: disc;
-}
-
-ul ul ul {
-        list-style-type: circle;
-}
-
-A {
-        font-family: "Arial Cyr", "MS Sans Serif";
-        font-size: 9pt;
-        line-height: 11pt;
-        font-weight: normal;
-        text-decoration: none;
-        color: #255a80;
-}
-
-A:hover {
-        color: #255a80;
-        text-decoration: underline;
-}
-
-a.none
-{
-        line-height: 0pt;
-}
--->
-</style>
-</head>
 
 
 <body _bgcolor="#F5F8F9" bgcolor="#ffffff" link="#000080" alink="#000080" vlink="#0086cf" topmargin=0>
@@ -448,31 +405,15 @@ a.none
 
 
 
-<script language="JavaScript" src="/shop/script.js"></script>
-<script>
-function wopen(wurl,w,h) {
-//    window.open(wurl,'NN','height='+h+',width='+w+',resizable=no,scrollbars=no,menubar=no,status=yes');
-      window.open(wurl,'NN','height='+h+',width='+w+',resizable=yes,scrollbars=yes,menubar=yes,status=yes');
-      return false;       
-  }
 
-function edGoodOpen(wurl,w,h) {
-//    window.open(wurl,'NN','height='+h+',width='+w+',resizable=no,scrollbars=no,menubar=no,status=yes');
-//      docLocation = wurl;
-      docLocation = wurl+'&refUrl='+document.location;
-//      alert("docLocation="+docLocation);
-      window.open(docLocation,'NN','height='+h+',width='+w+',resizable=yes,scrollbars=yes,menubar=yes,status=yes');
-   return false;       
-}
 
-</script>
 
 
 <!-- TEST_TEST -->
 
 <!-- начало 1 вывода книг book -->
 <span>
-<script language=JavaScript src='/htmlDl.js'></script>
+
 
 <table border=0 width='95%' cellpadding=0 cellspacing=0 align=center>
 <tr><td>
@@ -645,55 +586,9 @@ function edGoodOpen(wurl,w,h) {
         <table border="0" cellspacing="0" cellpadding="1">
         <tr>
         <td bgcolor="#b2cbdd">
-<script language="javascript" type="text/javascript">
-function validateEmail() {
-        var i;
-        var email = document.subs.subscribers.value;
-        if (String(email).length<=7) {
-                if (String(email).length==0) {
-                        alert("Пожалуйста, введите адрес!");
-                } else {
-                        alert("Слишком короткий адрес!");
-                }
-                return false;
-        }
 
-        var mischars = Array("&", "?", "/", ":", "=", "+", "%", "<", ">");
-        for (i=0; i<mischars.length; i++) if (email.indexOf(mischars[i])!=-1) {
-                alert("Адрес содержит недопустимый символ!");
-                return false;
-        }
-
-        if ((email.indexOf("@")==-1 || email.indexOf("@")==0) || email.indexOf("@")==String(email).length) {
-                alert("Неверный адрес!");
-                return false;
-        }
-        if ((email.indexOf(".")==-1 || email.indexOf(".")==0) || email.indexOf(".")==String(email).length) {
-                alert("Неверный адрес!");
-                return false;
-        }
-
-        return true;
-}
-</script>
         <table bgcolor="#ffffff" width="100%" border="0" cellspacing="0" cellpadding="0">
-         <form name="subs" action="/_mailing/add-single.asp" method="post" onsubmit="return validateEmail()" style="padding:0; margin:0">
-           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="weekly" value="subs" CHECKED><a href="http://www.retail.ru/arch/">Новости Retail.Ru<br>(еженедельный выпуск)</a></font></td></tr>
-           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="daily" value="subs" CHECKED><a href="http://www.retail.ru/subscriber/4/">Новости торговли<br>(ежедневный выпуск)</a></font></td></tr>
-           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="rus_rinw" value="subs" CHECKED><a href="http://www.retail.ru/subscriber/3/">Новости торговли<BR>(еженедельный выпуск)</a></font></td></tr>
-           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="rus_riam" value="subs" CHECKED><a href="http://www.retail.ru/subscriber/2/">Автоматизация предприятий торговли<BR>(ежемесячный выпуск)</a></font></td></tr>
-           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="rus_shop" value="subs" CHECKED><a href="http://www.retail.ru/shop/">Новости интернет-магазина Retail.Ru</a></font></td></tr>
-
-           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="ua_daily" value="subs" CHECKED><a href="http://www.retail.ru/arch/">Новости Retail.Ru - Украинская Редакция<br>(ежедневный выпуск)</a></font></td></tr>
-
-<!--           <tr><td colspan="2" align="left"><font color="#255a80"><INPUT TYPE=checkbox name="rwna" value="subs">Retail.Ru Weekly News & Announces</font></td></tr> -->
-           <tr><td colspan="2" align="left"><font color="#255a80"><INPUT TYPE=checkbox name="rind" value="subs">Retail Industry<br>News Daily</font></td></tr>
-<!--           <tr><td colspan="2" align="left"><font color="#255a80"><INPUT TYPE=checkbox name="rinw" value="subs">Retail Industry<br>News Weekly</font></td></tr>
-           <tr><td colspan="2" align="left"><font color="#255a80"><INPUT TYPE=checkbox name="riam" value="subs">Retail Industry Automation Monthly</font></td></tr> -->
-
-           <tr><td colspan="2" align="center">&nbsp;<input name="subscribers" size="10" VALUE="ваш e-mail" style="width:111px;" type="text" onfocus='if (this.value=="ваш e-mail") this.value=""' onblur='if (this.value=="") this.value="ваш e-mail"'></td></tr>
-           <tr><td colspan="2" align="center"><input name="add" type="submit" value="Подписаться"></td></tr>
-         </form>
+         
         </table>
         </td>
         </tr>
@@ -772,16 +667,7 @@ function validateEmail() {
 
 <BR>
 
-                  <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
-                      codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"
-                      WIDTH=100 HEIGHT=100>
-                       <param name="allowScriptAccess" value="sameDomain" />
-                       <param name=menu value=false>
-                       <param name=quality value=best>
-                      <PARAM NAME=movie VALUE="http://www.retail.ru/ua/images/sammit100.swf">
-                      <PARAM NAME=quality VALUE=high>
-                      <EMBED src="http://www.retail.ru/ua/images/sammit100.swf" quality=high bgcolor=#FFFFFF  WIDTH=100 HEIGHT=100 TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED>
-                  </OBJECT>
+                  
 
 <BR>&nbsp;
 
@@ -885,41 +771,13 @@ function validateEmail() {
 </map>
 
 <!--TopList COUNTER-->
-<script language="JavaScript">
-        <!--
-        d=document;js=10;a=';r='+escape(d.referrer)
-        //-->
-</script>
-<script language="JavaScript1.1">
-        <!--
-        js=11;a+=';j='+navigator.javaEnabled()
-        //-->
-</script>
-<script language="JavaScript1.2">
-        <!--
-        js=12;s=screen;a+=';s='+s.width+'*'+s.height
-        a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth)
-        //-->
-</script>
-<script language="JavaScript1.3">
-        <!--
-        js=13
-        //-->
-</script>
-<script language="JavaScript">
-        <!--
-        d.write('<img src="http://top.list.ru/counter'+'?id=12478;js='+js+a+'" alt="" height=1 width=1>')
-        if(js>11)d.write('<'+'!-- ')
-        //-->
-</script>
-<noscript>
-        <img src="http://top.list.ru/counter?js=na;id=12478" height=1 width=1 alt="">
-</noscript>
-<script language="JavaScript">
-        <!--
-        if(js>11)d.write('--'+'>')
-        //-->
-</script>
+
+
+
+
+
+
+
 <!--TopList COUNTER-->
 <br>
 <center>
@@ -933,33 +791,15 @@ function validateEmail() {
 <!--end of Top100 logo -->
 
 <!-- HotLog -->
-<script language="javascript">
-hotlog_js="1.0";hotlog_d=document;
-hotlog_n=navigator;hotlog_rn=Math.random();
-hotlog_n_n=(hotlog_n.appName.substring(0,3)=="Mic")?0:1;
-hotlog_r=""+hotlog_rn+"&s=27073&im=133&r="+escape(hotlog_d.referrer)+"&pg="+
-escape(window.location.href);
-hotlog_d.cookie="hotlog=1"; hotlog_r+="&c="+(hotlog_d.cookie?"Y":"N");
-hotlog_d.cookie="hotlog=1; expires=Thu, 01-Jan-70 00:00:01 GMT"</script>
-<script language="javascript1.1">
-hotlog_js="1.1";hotlog_r+="&j="+(navigator.javaEnabled()?"Y":"N")</script>
-<script language="javascript1.2">
-hotlog_js="1.2";hotlog_s=screen;
-hotlog_r+="&wh="+hotlog_s.width+'x'+hotlog_s.height+"&px="+((hotlog_n_n==0)?
-hotlog_s.colorDepth:hotlog_s.pixelDepth)</script>
-<script language="javascript1.3">hotlog_js="1.3"</script>
-<script language="javascript">hotlog_r+="&js="+hotlog_js;
-hotlog_d.write("<a href=http://click.hotlog.ru/?27073 target=_top><img "+
-"src=\"http://hit2.hotlog.ru/cgi-bin/hotlog/count?"+
-hotlog_r+"&\" border=0 width=88 height=31 alt=HotLog></a>")</script>
-<noscript><a href=http://click.hotlog.ru/?27073 target=_top><img
-src="http://hit2.hotlog.ru/cgi-bin/hotlog/count?s=27073&im=133" border=0
-width="88" height="31" alt="HotLog"></a></noscript>
+
+
+
+
+
+
 <!-- /HotLog -->
 </center>
-<!-- <script language="JavaScript" SRC="/Flakes/snow.js">
-/* Sory, but I needed JavaScript */
-</script> -->
+<!--  -->
 
 
 

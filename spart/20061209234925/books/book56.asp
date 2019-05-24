@@ -1,21 +1,5 @@
 <HTML>
-<HEAD>
-<TITLE>Экономика недвижимости / Книги / Retail.RU v2.0 </TITLE>
-<META http-equiv="Content-Type" content="text/html">
-<meta name="keywords" content="retail, торговля, розница, автоматизация, учет, склад, супермаркет, гипермаркет, дискаунтер, штрих, код, опт, принтер, сканер, касса, ККМ, POS, терминал, EAN, ЮНИКОД, магазин, ТСД, Barcode, ССD, весы, чек, лента, ГМЭК, штрихкод, РАРУС, 1С, Альфа-Авто, торговый дом, электронные весы, аптека, фармацевт, общепит, ресторан, рынок, терминал сбора данных,  товар, цена, реестр, налог, торговое оборудование, витрины, прилавки, бар, кафе, супермаркет, электронные, кассовое оборудование, этикетки, этикетпистолеты, контрольно-кассовые машины, чековая лента, сейфы, счетно-денежные машины, детекторы фальшивых купюр, торговая реклама, автоматизация торговли, система автоматизации учета для торговли, складское оборудование, автоматическая идентификация, штрихкодовое оборудование, Denso, BHT, Metrologic, Chiper, CAS, Zebex, PSC, DataLogic, DataScan,  ICL, DataMax, Intermec, Bolet, Metler, TEC, Opticon, Eltron, Zebra, Bizerba, Scantech, Casio, Fujitsu, UPOS, OPOS, JavaPOS, ISBN, EDI, Siemens, Wincor, периферия, ISSN, оптовая торговля, розничная торговля">
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
 
-<link rel="stylesheet" href="../styles/general.css" type="text/css">
-
-<script language=javascript>
-<!--
-function OnW(url, name, scr, w, h){name = window.open(url, name, 'toolbar=no,location=no,status=no,menubar=no,resizable=yes,directories=no,scrollbars='+scr+',width='+w+',height='+h+'');}
-function mOvr(src,clrOver) { if (!src.contains(event.fromElement)) { src.style.cursor = 'hand'; src.bgColor = clrOver; }}
-function mOut(src,clrIn) { if (!src.contains(event.toElement)) { src.style.cursor = 'default'; src.bgColor = clrIn; }} 
-function mClk(src) { if(event.srcElement.tagName.toUpperCase()=='TD'){ src.children.tags('A')[0].click();}}
-//-->
-</script>
-</HEAD>
 
 <BODY BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#000080" ALINK="#FF3030" VLINK="#0086CF">
 
@@ -30,7 +14,7 @@ function mClk(src) { if(event.srcElement.tagName.toUpperCase()=='TD'){ src.child
 <LINK href="/styles/general.css" rel="stylesheet" type="text/css">
 
 
-<script language="JavaScript" src="/relocate.js" type="text/javascript"></script>
+
 <map name="topmap">
   <area shape="rect" coords="1,1,96,28" href="/biblio/" alt="Библиотека">
   <area shape="rect" coords="97,1,230,28" href="/shop/" alt="Книги">
@@ -187,55 +171,9 @@ function mClk(src) { if(event.srcElement.tagName.toUpperCase()=='TD'){ src.child
         <table border="0" cellspacing="0" cellpadding="1">
         <tr>
         <td bgcolor="#b2cbdd">
-<script language="javascript" type="text/javascript">
-function validateEmail() {
-        var i;
-        var email = document.subs.subscribers.value;
-        if (String(email).length<=7) {
-                if (String(email).length==0) {
-                        alert("Пожалуйста, введите адрес!");
-                } else {
-                        alert("Слишком короткий адрес!");
-                }
-                return false;
-        }
 
-        var mischars = Array("&", "?", "/", ":", "=", "+", "%", "<", ">");
-        for (i=0; i<mischars.length; i++) if (email.indexOf(mischars[i])!=-1) {
-                alert("Адрес содержит недопустимый символ!");
-                return false;
-        }
-
-        if ((email.indexOf("@")==-1 || email.indexOf("@")==0) || email.indexOf("@")==String(email).length) {
-                alert("Неверный адрес!");
-                return false;
-        }
-        if ((email.indexOf(".")==-1 || email.indexOf(".")==0) || email.indexOf(".")==String(email).length) {
-                alert("Неверный адрес!");
-                return false;
-        }
-
-        return true;
-}
-</script>
         <table bgcolor="#ffffff" width="100%" border="0" cellspacing="0" cellpadding="0">
-         <form name="subs" action="/_mailing/add-single.asp" method="post" onsubmit="return validateEmail()" style="padding:0; margin:0">
-           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="subsSect" value="weekly" CHECKED><a href="http://www.retail.ru/arch/">Новости Retail.Ru<br>(еженедельный выпуск)</a></font></td></tr>
-           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="subsSect" value="daily" CHECKED><a href="http://www.retail.ru/subscriber/4/">Новости торговли<br>(ежедневный выпуск)</a></font></td></tr>
-           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="subsSect" value="rus_rinw" CHECKED><a href="http://www.retail.ru/subscriber/3/">Новости торговли<BR>(еженедельный выпуск)</a></font></td></tr>
-<!--           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="subsSect" value="rus_riam" CHECKED><a href="http://www.retail.ru/subscriber/2/">Автоматизация предприятий торговли<BR>(ежемесячный выпуск)</a></font></td></tr> -->
-           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="subsSect" value="rus_shop" CHECKED><a href="http://www.retail.ru/shop/"><font color="red">Новости интернет-магазина Retail.Ru</font></a></font></td></tr>
-
-           <tr><td colspan="2" align="left"><font color="#2e72a3"><INPUT TYPE=checkbox name="subsSect" value="ua_daily" CHECKED><a href="http://www.retail.ru/arch/">Новости Retail.Ru - Украинская Редакция<br>(ежедневный выпуск)</a></font></td></tr>
-
-<!--           <tr><td colspan="2" align="left"><font color="#255a80"><INPUT TYPE=checkbox name="rwna" value="subs">Retail.Ru Weekly News & Announces</font></td></tr> -->
-<!--           <tr><td colspan="2" align="left"><font color="#255a80"><INPUT TYPE=checkbox name="subsSect" value="rind">Retail Industry<br>News Daily</font></td></tr> -->
-<!--           <tr><td colspan="2" align="left"><font color="#255a80"><INPUT TYPE=checkbox name="rinw" value="subs">Retail Industry<br>News Weekly</font></td></tr>
-           <tr><td colspan="2" align="left"><font color="#255a80"><INPUT TYPE=checkbox name="riam" value="subs">Retail Industry Automation Monthly</font></td></tr> -->
-
-           <tr><td colspan="2" align="center">&nbsp;<input name="subscribers" size="8" VALUE="ваш e-mail" style="width:111px; height:16px" type="text" onfocus='if (this.value=="ваш e-mail") this.value=""' onblur='if (this.value=="") this.value="ваш e-mail"'></td></tr>
-           <tr><td colspan="2" align="center"><input name="add" type="submit" value="Подписаться"></td></tr>
-         </form>
+         
         </table>
         </td>
         </tr>
@@ -273,18 +211,7 @@ function validateEmail() {
         <tr>
         <td bgcolor="#b2cbdd">
               <table width="100%" border="0" cellspacing="0" cellpadding="2" bgcolor="#FFFFFF">
-               <FORM name=web action=http://www.yandex.ru:8081/yandsearch method=get width="100%">
-                  <tr><td align="center">
-                    <INPUT title="Введите слова для поиска" size="8" style="width:111px; height:16px" maxLength=160  name=text> 
-                    <INPUT type=hidden value="http://www.retail.ru/" name=serverurl> 
-                    <INPUT type=hidden value="Retail.ru" name=server_name> 
-                    <INPUT type=hidden value="http://www.retail.ru/" name=referrer1> 
-                    <INPUT type=hidden value="Retail.ru" name=referrer2>
-                  </td></tr>
-                  <tr><td align="center">
-                    <INPUT title=Найти! type=submit value=Найти! name=go><BR>
-                  </td></tr>
-               </FORM>
+               
                </table>
         </td>
         </tr>
@@ -333,15 +260,7 @@ function validateEmail() {
         <td>
         <center>
         
- <OBJECT codeBase=http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0
-    height=60 width=400 classid=clsid:D27CDB6E-AE6D-11cf-96B8-444553540000>
-    <PARAM NAME="menu" VALUE="false">
-    <PARAM NAME="quality" VALUE="best">
-    <PARAM NAME="movie" VALUE="/baners/468x60ret.swf">
-    <EMBED src="/baners/ahconferences_[13_02_06-13_03_2006]_400_60.swf" quality=high bgcolor=#FFFFFF  WIDTH=400
-        HEIGHT=60 TYPE="application/x-shockwave-flash"
-        PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED>
-    </OBJECT>
+ 
     <br>
     <br>
    
@@ -858,17 +777,7 @@ ISBN 5-94798-236-6</p>
 
 <br>
 <center>
- <OBJECT codeBase=http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0
-    height=60 width=468 classid=clsid:D27CDB6E-AE6D-11cf-96B8-444553540000>
-    <PARAM NAME="menu" VALUE="false">
-    <PARAM NAME="quality" VALUE="best">
-    <PARAM NAME="movie" VALUE="/baners/Atol_chek_061010.swf">
-    <PARAM NAME="link" VALUE="http://gaap.ru">
-
-    <EMBED src="/baners/Atol_chek_061010.swf" quality=high  WIDTH=468
-        HEIGHT=60 TYPE="application/x-shockwave-flash"
-        PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED>
-    </OBJECT>
+ 
 <!-- bgcolor=#FFFFFF -->
 
 
@@ -912,41 +821,13 @@ ISBN 5-94798-236-6</p>
 
 
 <!--TopList COUNTER-->
-<script language="JavaScript">
-        <!--
-        d=document;js=10;a=';r='+escape(d.referrer)
-        //-->
-</script>
-<script language="JavaScript1.1">
-        <!--
-        js=11;a+=';j='+navigator.javaEnabled()
-        //-->
-</script>
-<script language="JavaScript1.2">
-        <!--
-        js=12;s=screen;a+=';s='+s.width+'*'+s.height
-        a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth)
-        //-->
-</script>
-<script language="JavaScript1.3">
-        <!--
-        js=13
-        //-->
-</script>
-<script language="JavaScript">
-        <!--
-        d.write('<img src="http://top.list.ru/counter'+'?id=12478;js='+js+a+'" alt="" height=1 width=1>')
-        if(js>11)d.write('<'+'!-- ')
-        //-->
-</script>
-<noscript>
-        <img src="http://top.list.ru/counter?js=na;id=12478" height=1 width=1 alt="">
-</noscript>
-<script language="JavaScript">
-        <!--
-        if(js>11)d.write('--'+'>')
-        //-->
-</script>
+
+
+
+
+
+
+
 <!--TopList COUNTER-->
 <br>
 <center>
@@ -959,36 +840,17 @@ ISBN 5-94798-236-6</p>
 <!--end of Top100 logo -->
 
 <!-- HotLog -->
-<script language="javascript">
-hotlog_js="1.0";hotlog_d=document;
-hotlog_n=navigator;hotlog_rn=Math.random();
-hotlog_n_n=(hotlog_n.appName.substring(0,3)=="Mic")?0:1;
-hotlog_r=""+hotlog_rn+"&s=27073&im=133&r="+escape(hotlog_d.referrer)+"&pg="+
-escape(window.location.href);
-hotlog_d.cookie="hotlog=1"; hotlog_r+="&c="+(hotlog_d.cookie?"Y":"N");
-hotlog_d.cookie="hotlog=1; expires=Thu, 01-Jan-70 00:00:01 GMT"</script>
-<script language="javascript1.1">
-hotlog_js="1.1";hotlog_r+="&j="+(navigator.javaEnabled()?"Y":"N")</script>
-<script language="javascript1.2">
-hotlog_js="1.2";hotlog_s=screen;
-hotlog_r+="&wh="+hotlog_s.width+'x'+hotlog_s.height+"&px="+((hotlog_n_n==0)?
-hotlog_s.colorDepth:hotlog_s.pixelDepth)</script>
-<script language="javascript1.3">hotlog_js="1.3"</script>
-<script language="javascript">hotlog_r+="&js="+hotlog_js;
-hotlog_d.write("<a href=http://click.hotlog.ru/?27073 target=_top><img "+
-"src=\"http://hit2.hotlog.ru/cgi-bin/hotlog/count?"+
-hotlog_r+"&\" border=0 width=88 height=31 alt=HotLog></a>")</script>
-<noscript><a href=http://click.hotlog.ru/?27073 target=_top><img
-src="http://hit2.hotlog.ru/cgi-bin/hotlog/count?s=27073&im=133" border=0
-width="88" height="31" alt="HotLog"></a></noscript>
+
+
+
+
+
+
 <!-- /HotLog -->
 
 <!-- SpyLOG -->
-<script src="http://tools.spylog.ru/counter2.2.js" type="text/javascript" id="spylog_code" counter="790421" ></script>
-<noscript>
-<a href="http://u7904.21.spylog.com/cnt?cid=790421&f=3&p=0" target="_blank">
-<img src="http://u7904.21.spylog.com/cnt?cid=790421&p=0&f=4" alt='SpyLOG' border='0' width=88 height=31 ></a>
-</noscript>
+
+
 <!--/ SpyLOG -->
 
 </center>

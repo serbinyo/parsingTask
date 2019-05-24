@@ -1,10 +1,10 @@
 <?php
 declare(strict_types=1);
 
-use Classes\Fileselector\Fileselector;
+use Classes\Encoder\Encoder;
 
-require_once __DIR__ . '/classes/Fileselector.php';
+require_once __DIR__ . '/classes/Encoder.php';
 
-$fileselector = new Fileselector(__DIR__ . '/../archive/select');
+$fileselector = new Encoder(__DIR__ . '/../archive/spart');
 
 $fileselector->encode();
