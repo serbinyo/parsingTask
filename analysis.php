@@ -11,4 +11,4 @@ use Classes\AnalysisContent;
 
 require_once __DIR__ . '/classes/AnalysisContent.php';
 
-AnalysisContent::deleteUnnecessaryTags(__DIR__ , '/spart/', false);
+AnalysisContent::deleteUnnecessaryTags(__DIR__ , '/archive/select/retail.ru/201401*', false);

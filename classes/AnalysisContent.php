@@ -48,7 +48,7 @@ class AnalysisContent
 
             # убираем все лишнее
             $html = preg_replace('#(<head.*?<\/head>)|(<script.*?<\/script>)|(<noscript.*?<\/noscript>)|(<style.*?<\/style>)|(<footer.*?<\/footer>)#si', '', $html);
-            $html = preg_replace('#(<object.*?<\/object>)|(<param.*?>)|(<embed.*?<\/embed>)#si', '', $html);
+            $html = preg_replace('#(<object.*?<\/object>)|(<param.*?>)|(<embed.*?<\/embed>)|(<form.*?<\/form>)#si', '', $html);
 
             # поиск тега h1 в тексте
             # если нашли, удаляем все, что выше тега h1
