@@ -10,11 +10,11 @@ require_once __DIR__ . '/classes/Fileselector.php';
 $log = new Logger('name');
 $logger = $log->pushHandler(new StreamHandler('logs/info.log', Logger::INFO));
 
-$fileselector = new Fileselector(__DIR__ . '/../archive/original');
+$fileselector = new Fileselector(__DIR__ . '/../archive/select');
 
 //Подсчет файлов до всех операций
-//$count = $fileselector->filesCount();
-//$logger->info('Количество файлов:', ['до обработки' => $count]);
+$count = $fileselector->filesCount();
+$logger->info('Количество файлов:', ['до обработки' => $count]);
 
 //Выборка каталогов с потенциально контентными файлами
 //$fileselector->select(
@@ -48,10 +48,10 @@ $fileselector = new Fileselector(__DIR__ . '/../archive/original');
 
 
 //Выборка каталогов содержащих изображения
-$fileselector->select(
-    ['*.tiff', '*.jpeg', '*.bmp', '*.jpe', '*.jpg', '*.png', '*.gif', '*.psd'],
-    '/../../archive/select_images'
-);
+//$fileselector->select(
+//    ['*.tiff', '*.jpeg', '*.bmp', '*.jpe', '*.jpg', '*.png', '*.gif', '*.psd'],
+//    '/../../archive/select_images'
+//);
 
 //Подсчет изображений
 //$count = $fileselector->filesCount(['*.tiff', '*.jpeg', '*.bmp', '*.jpe', '*.jpg', '*.png', '*.gif', '*.psd']);
@@ -72,4 +72,5 @@ $fileselector->select(
  * [2019-05-22 17:58:42] name.INFO: Количество файлов: {"до обработки":152517} []
  * [2019-05-23 01:36:07] name.INFO: Количество файлов: {"выбрано файлов":104423,"критерий отбора":["*.asp","*.html","*.xhtml","*.xml","*.txt"]} []
  * [2019-05-23 14:12:48] name.INFO: Количество файлов: {"выбрано файлов":21989,"критерий отбора":["*.htm"]} []
+ * [2019-05-24 07:38:38] name.INFO: Количество файлов: {"выбрано файлов":5899,"критерий отбора":['*.tiff', '*.jpeg', '*.bmp', '*.jpe', '*.jpg', '*.png', '*.gif', '*.psd']} []
  */
