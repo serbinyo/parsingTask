@@ -47,9 +47,12 @@ class AnalysisContent
             $html = $file->getContents();
 
             # убираем все лишнее
-            $html = preg_replace('#(<head.*?<\/head>)|(<script.*?<\/script>)|
+            $html = preg_replace('#(<head.*?<\/head>)|
+                                (<object.*?<\/object>)|
+                                (<script.*?<\/script>)|
                                 (<noscript.*?<\/noscript>)|(<style.*?<\/style>)|
                                 (<footer.*?<\/footer>)#si', '', $html);
+            $html = preg_replace('#(<param.*?>)|(<embed.*?>)#si', '', $html);
 
             # поиск тега h1 в тексте
             # если нашли, удаляем все, что выше тега h1
@@ -58,16 +61,23 @@ class AnalysisContent
                 $html = $temp[1];
             }
 
-            # возвращаем данные только с нужными тегами
-//            $tags = strip_tags($html, '<p><h1><h2><h3><h4><h5><span><ul><ol><li><img>');
-            $tags = strip_tags($html, '<p><h1><h2><h3><h4><h5><span>');
-            $tags = str_replace([chr(13), chr(10)],'', $tags); //убираем табуляцию и переносы
+            $masTagsStrip = '<p><h1><h2><h3><h4><h5><span><ul><ol><li><br>';
+            $masTagsRegex = 'p|h1|h2|h3|h4|h5|span';
+            preg_match_all('#(<(' . $masTagsRegex . ').*?<\/(' . $masTagsRegex . ')>)#si', $html, $tags, PREG_PATTERN_ORDER);
 
+
+            # возвращаем данные только с нужными тегами
+            $result = strip_tags(implode('', $tags[0]), $masTagsStrip);
+//            $tags = str_replace([chr(13), chr(10)],'', $tags); //убираем табуляцию и переносы
 
             $fileSystem = new Filesystem();
-            $fileSystem->dumpFile($dir . '/archive_edit/' . $link, $tags);
+            $fileSystem->dumpFile($dir . '/archive_edit/' . $link, $result);
         }
     }
+
+
+
+
 
 
 
@@ -89,4 +99,5 @@ class AnalysisContent
             #endregion
 
      * */
+
 }
