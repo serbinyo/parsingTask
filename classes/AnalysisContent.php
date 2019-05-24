@@ -51,7 +51,7 @@ class AnalysisContent
 
             # поиск тега h1 в тексте
             # если нашли, удаляем все, что выше тега h1
-            if (mb_stripos($html, '<h1')) {
+            if (mb_stripos($html, '<h1') > 0) {
                 preg_match('#(<h1.*)#si', $html, $temp);
                 $html = $temp[1];
             }
