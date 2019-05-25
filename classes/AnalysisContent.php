@@ -47,14 +47,23 @@ class AnalysisContent
             $html = $file->getContents();
 
             # убираем все лишнее
-            $html = preg_replace('#(<head.*?<\/head>)|(<script.*?<\/script>)|(<noscript.*?<\/noscript>)|(<style.*?<\/style>)|(<footer.*?<\/footer>)#si', '', $html);
-            $html = preg_replace('#(<object.*?<\/object>)|(<param.*?>)|(<embed.*?<\/embed>)|(<form.*?<\/form>)#si', '', $html);
+            $html = preg_replace('#(<head.*?<\/head>)|(<script.*?<\/script>)|'
+                . '(<noscript.*?<\/noscript>)|(<style.*?<\/style>)|'
+                . '(<footer.*?<\/footer>)#si', '', $html);
+
+            $html = preg_replace('#(<object.*?<\/object>)|(<param.*?>)|'
+                . '(<embed.*?<\/embed>)|(<form.*?<\/form>)|'
+                . '(<noindex.*?<\/noindex>)#si', '', $html);
+
+            $html = preg_replace('#(<map.*?<\/map>)|(<\/body>)|'
+                . '(<html.*?>)|(<\/html>)|(<body.*?>)|'
+                . '(<\!--.*?-->)|(<\!doctype.*?>)#si', '', $html);
 
             # поиск тега h1 в тексте
             # если нашли, удаляем все, что выше тега h1
             if (mb_stripos($html, '<h1') > 0) {
-                preg_match('#(<h1.*)#si', $html, $temp);
-                $html = $temp[1];
+                preg_match('#(<h1.*)#si', $html, $pocket);
+                $html = $pocket[1];
             }
 
             $fileSystem = new Filesystem();

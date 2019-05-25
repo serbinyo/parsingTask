@@ -1,48 +1,47 @@
-<h1>УПРАВЛЕНИЕ СБЫТОМ</h1></div>
+<html><body>
+<h1>УПРАВЛЕНИЕ СБЫТОМ</h1>
 <div align="center"><h2>9-10 октября 2003г.</h2></div>
 
 <p>Семинар адресован руководителям торговых предприятий, начальникам отделов продаж и сбыта предприятий-производителей и имеет практическую направленность. Семинар построен как практическое пособие, проводящее участников по всем этапам организации наиболее эффективной сбытовой структуры. Результат: готовая работоспособная технология построения и управления современной сбытовой структурой, которую можно начать применять на следующий день после окончания семинара.</p>
 
 <div align="center"><h3>В программе:</h3></div>
 
-<table cellspacing="5" cellpadding="5" border="1">
-<tr>
-    <td width="50%"><b>1. Основы сбыта и управления сбытом. </b><br>
-<b>2. Основные понятия управления 21 века </b><br>
+<table cellspacing="5" cellpadding="5" border="1"><tr>
+<td width="50%">
+<b>1. Основы сбыта и управления сбытом. </b><br><b>2. Основные понятия управления 21 века </b><br>
 3аконы развития бизнеса<br>
 Барьеры в развитии клиенториентированного бизнеса.<br>
 Частые ошибки в руководстве сбытом<br>
-Охват покупателей и доля рынка <br>
-<b>3. Концепция  сбыта </b><br>
+Охват покупателей и доля рынка <br><b>3. Концепция  сбыта </b><br>
 Суть и задачи концепции сбыта  <br> 
 Цели  и стратегии сбыта<br>
-Корпоративная культура организации <br>
-<b>4. Концепция управления </b><br>
-<b>5. Структура организации сбыта </b><br>
+Корпоративная культура организации <br><b>4. Концепция управления </b><br><b>5. Структура организации сбыта </b><br>
 Структурное деление: по функциям,  по областям сбыта,<br>
  по инстанциям, для уменьшения персонификации.
 </td>
     <td width="50%">Размер организации (количество сотрудников)<br>
-Образование районов сбыта<br>
-<b>6. Работа с персоналом </b><br>
+Образование районов сбыта<br><b>6. Работа с персоналом </b><br>
 Поиск и отбор сотрудников внешней службы. Политика найма и увольнения.<br>
 Комплекс способностей продавца<br>
 Управление обучением и развитием<br>
 Управление процессами вознаграждения и продвижения по службе <br>
 Управление организационным климатом <br>
-Оценка эффективности системы управления людскими ресурсами <br>
-<b>7. Деятельность сбытовой организации </b><br>
+Оценка эффективности системы управления людскими ресурсами <br><b>7. Деятельность сбытовой организации </b><br>
 Постановка задач, инструменты и  планирование сбытовой организации 
 </td>
-</tr>
-</table>
+</tr></table>
 <p><b>По окончании семинара участники смогут:</b></p>
-<ul><li>	Планировать сбытовую деятельность
-</li><li>	Создавать эффективные структуры сбыта
-</li><li>	Организовывать информационные структуры для контроля сбыта
-</li><li>	Мотивировать сотрудников сбыта
-</li><li>	Использовать ряд нетрадиционных подходов к продажам, позволяющий резко поднять объем продаж.</li></ul>
-
+<ul>
+<li>	Планировать сбытовую деятельность
+</li>
+<li>	Создавать эффективные структуры сбыта
+</li>
+<li>	Организовывать информационные структуры для контроля сбыта
+</li>
+<li>	Мотивировать сотрудников сбыта
+</li>
+<li>	Использовать ряд нетрадиционных подходов к продажам, позволяющий резко поднять объем продаж.</li>
+</ul>
 <p><b>Автор семинара - Иванов Леонид Анатольевич, управленческий и маркетинговый консультант,</b> магистр социальной психологии, Master of Business Administration (Мастер управления бизнесом). <b>Преподаватель  МВА</b> в бизнес - школе ГУ "Высшая школа экономики" и в институте "Мирбис" РЭА им. Плеханова. <b>Общий стаж работы в качестве руководителя маркетинговой службы 6 лет.</b> Как консультант по маркетингу выполнил более 20 удачных проектов. Имеет более 300 выпускников, работающих на руководящих должностях, как в российских, так и в зарубежных компаниях. </p>
 
 <p>Стоимость семинара составляет 8 640 руб. (вкл. НДС 20 %). В стоимость семинара входит: оплата методических пособий, обеда в ресторане, кофе-пауз. </p>
@@ -54,89 +53,60 @@
 <!-- C O N T E N T   E N D -->
 
 <!-- set header_norm -->
-        </td>
-        </tr>
-        </table>
-</td>
-</tr>
-</table>
-</td>
-</tr>
+        
+        
+        
+
+
+
+
+
 <!--end of center part-->
 <!--bottom-->
 <tr>
 <td colspan="2">
-        <table border="0" cellspacing="0" cellpadding="0">
-        <tr>
-                <td><a href="http://www.retail.ru"><img src="/images/botwww.gif" width="160" height="24" border="0" alt="На главную страницу"></a></td>
+        <table border="0" cellspacing="0" cellpadding="0"><tr>
+<td><a href="http://www.retail.ru"><img src="/images/botwww.gif" width="160" height="24" border="0" alt="На главную страницу"></a></td>
 
             <td><img src="/images/botnav_bar.gif" width="600" height="24" border="0" alt="Навигационная панель" usemap="#bmap"></td>
-        </tr>
-        </table>
-
-<br>
-<center>
+        </tr></table>
+<br><center>
 
  
          
          
 
 </center>
-<br>
-
-<!-- нижний банер тут -->
+<br><!-- нижний банер тут -->
 </td>
 </tr>
 <tr>
 <td colspan="2" bgcolor="#ffffff">
-<br>
-                <div align="center">
+<br><div align="center">
 
 
-        <a href="http://www.retail.ru/">&copy; Retail.Ru, 1999 - 2006</a><br>
-                </div>
+        <a href="http://www.retail.ru/">© Retail.Ru, 1999 - 2006</a><br>
+</div>
 
 </td>
 </tr>
-<!--end of bottom-->
-</table>
+<!--end of bottom--><map name="topmap"><area shape="rect" coords="1,1,96,28" href="/biblio/" alt="Библиотека">
+<area shape="rect" coords="97,1,230,28" href="/shop/" alt="Книги">
+<area shape="rect" coords="231,1,308,28" href="/auto/progs.asp" alt="Программы">
+<area shape="rect" coords="309,1,408,28" href="/encycl/catalog.asp" alt="Оборудование">
+<area shape="rect" coords="409,0,518,28" href="/automation/" alt="Автоматизация">
+<area shape="rect" coords="519,1,591,28" href="/contacts.asp" alt="Контакты"></map><map name="bmap"><area shape="rect" coords="7,1,97,33" href="/biblio/" alt="Библиотека">
+<area shape="rect" coords="99,1,234,33" href="/shop/" alt="Книги">
+<area shape="rect" coords="235,0,313,32" href="/auto/progs.asp" alt="Программы">
+<area shape="rect" coords="314,1,412,32" href="/encycl/catalog.asp" alt="Оборудование">
+<area shape="rect" coords="413,0,519,33" href="/automation/" alt="Автоматизация">
+<area shape="rect" coords="522,1,592,33" href="/contacts.asp" alt="Контакты"></map><!--TopList COUNTER--><!--TopList COUNTER--><br><center>
 
-</center>
-<map name="topmap">
-  <area shape="rect" coords="1,1,96,28" href="/biblio/" alt="Библиотека">
-  <area shape="rect" coords="97,1,230,28" href="/shop/" alt="Книги">
-  <area shape="rect" coords="231,1,308,28" href="/auto/progs.asp" alt="Программы">
-  <area shape="rect" coords="309,1,408,28" href="/encycl/catalog.asp" alt="Оборудование">
-  <area shape="rect" coords="409,0,518,28" href="/automation/" alt="Автоматизация">
-  <area shape="rect" coords="519,1,591,28" href="/contacts.asp" alt="Контакты">
-</map>
-<map name="bmap">
-  <area shape="rect" coords="7,1,97,33" href="/biblio/" alt="Библиотека">
-  <area shape="rect" coords="99,1,234,33" href="/shop/" alt="Книги">
-  <area shape="rect" coords="235,0,313,32" href="/auto/progs.asp" alt="Программы">
-  <area shape="rect" coords="314,1,412,32" href="/encycl/catalog.asp" alt="Оборудование">
-  <area shape="rect" coords="413,0,519,33" href="/automation/" alt="Автоматизация">
-  <area shape="rect" coords="522,1,592,33" href="/contacts.asp" alt="Контакты">
-</map>
-
-
-<!--TopList COUNTER-->
-
-
-
-
-
-
-
-<!--TopList COUNTER-->
-<br>
-<center>
-
-<!--TopList LOGO--><a target=_top href="http://top.list.ru/jump?from=12478"><img src="http://top.list.ru/counter?id=12478;t=52;l=1" border=0 height=31 width=88 alt="TopList"></a><!--TopList LOGO-->
+<!--TopList LOGO--><a target="_top" href="http://top.list.ru/jump?from=12478"><img src="http://top.list.ru/counter?id=12478;t=52;l=1" border="0" height="31" width="88" alt="TopList"></a><!--TopList LOGO-->
 
 <!--begin of Top100 logo-->
 <a href="http://top100.rambler.ru/top100/">
-<img src="http://top100-images.rambler.ru/top100/banner-88x31-rambler-darkblue2.gif" alt="Rambler's Top100" width=88 height=31 border=0></a>
+<img src="http://top100-images.rambler.ru/top100/banner-88x31-rambler-darkblue2.gif" alt="Rambler's Top100" width="88" height="31" border="0"></a>
 <!--end of Top100 logo -->
 
 <!-- HotLog -->
@@ -150,5 +120,4 @@
 
 </center>
 
-</BODY>
-</HTML>
+</body></html>

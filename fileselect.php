@@ -10,11 +10,11 @@ require_once __DIR__ . '/classes/Fileselector.php';
 $log = new Logger('name');
 $logger = $log->pushHandler(new StreamHandler('logs/info.log', Logger::INFO));
 
-$fileselector = new Fileselector(__DIR__ . '/../archive/select');
+$fileselector = new Fileselector(__DIR__ . '/../archive/original');
 
 //Подсчет файлов до всех операций
-$count = $fileselector->filesCount();
-$logger->info('Количество файлов:', ['до обработки' => $count]);
+//$count = $fileselector->filesCount();
+//$logger->info('Количество файлов:', ['до обработки' => $count]);
 
 //Выборка каталогов с потенциально контентными файлами
 //$fileselector->select(
@@ -59,6 +59,14 @@ $logger->info('Количество файлов:', ['до обработки' =
 //    'выбрано файлов' => $count,
 //    'критерий отбора' => ['*.tiff', '*.jpeg', '*.bmp', '*.jpe', '*.jpg', '*.png', '*.gif', '*.psd'],
 //]);
+
+
+//Подсчет форматов
+$count = $fileselector->filesCount(['*.asp']);
+$logger->info('Количество файлов:', [
+    'выбрано файлов' => $count,
+    'критерий отбора' => ['*.asp'],
+]);
 
 
 /*
