@@ -49,10 +49,10 @@ class BdFiller
             $content = file_get_contents($path);
 
             # Получаем копипаст
-            preg_match('#(©|&copy;.*)(?=<\/)|(©|&copy;.*)$#u', $content, $cpocket);
+            preg_match('#(©|&copy;).*(?=<\/)|(©|&copy;).*$#u', $content, $cpocket);
             if (!empty($cpocket)) {
                 foreach ($cpocket as $item) {
-                    $copy = strip_tags($item);
+                    $copy .= strip_tags($item);
                 }
             }
 
