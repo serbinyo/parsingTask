@@ -11,7 +11,7 @@ $db->exec('CREATE TABLE testtable
     date timestamp
 )');
 
-$db->exec("INSERT INTO testtable1 VALUES (null, 'Первая запись', 'Привет, мир', 1558946369)");
+$db->exec("INSERT INTO testtable VALUES (null, 'Первая запись', 'Привет, мир', 1558946369)");
 
 
 $st = $db->query('SELECT * FROM testtable');
