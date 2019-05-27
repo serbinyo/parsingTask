@@ -5,7 +5,7 @@ use Classes\TagCloser\TagCloser;
 
 require_once __DIR__ . '/classes/TagCloser.php';
 
-$tagCloser = new TagCloser(__DIR__ . '/../archive/select');
+$tagCloser = new TagCloser(__DIR__ . '/spart/html');
 
 $tagCloser->closeTags();
 

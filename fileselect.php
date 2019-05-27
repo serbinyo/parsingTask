@@ -10,7 +10,7 @@ require_once __DIR__ . '/classes/Fileselector.php';
 $log = new Logger('name');
 $logger = $log->pushHandler(new StreamHandler('logs/info.log', Logger::INFO));
 
-$fileselector = new Fileselector(__DIR__ . '/../archive/select');
+$fileselector = new Fileselector(__DIR__ . '/../archive/select.image');
 
 //Подсчет файлов до всех операций
 //$count = $fileselector->filesCount();

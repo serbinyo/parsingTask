@@ -4,6 +4,7 @@
     "symfony/filesystem": "^4.2",
     "monolog/monolog"   : "^1.24",
     "ext-mbstring"      : "*",
-    "ext-dom"           : "*"
+    "ext-dom"           : "*",
+    "ext-pdo"           : "*"
   }
 }
