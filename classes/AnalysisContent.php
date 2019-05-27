@@ -101,7 +101,7 @@ class AnalysisContent
             $html = preg_replace('#(<div class="clear"><\/div>)#si', '', $html);
             $html = preg_replace('#(<p class="pagelist".*?<\/p>)|(<p class="menu".*?<\/p>)|(<ul class="counters".*?<\/ul>)#si', '', $html);
             $html = preg_replace('#(<div class="active-breadcrumbs".*?<\/div>)|'.
-                '(<font.*?>)|(<\/font)|(<ul class="abs-list">.*?<\/ul>)#si', '', $html);
+                '(<ul class="abs-list">.*?<\/ul>)#si', '', $html);
             $html = preg_replace('#(<div class="article_footer".*?<\/div>)|(<div id="footer".*?<\/div>)#si', '', $html);
 
             # выделяем нужные и полезные части
@@ -162,6 +162,43 @@ class AnalysisContent
     }
 
 
+    public static function getContentTwo(string $dir, string $linkToFolder)
+    {
+        echo date('h:i:s A');
+
+        $imgMaskName = [
+            '*.jpg',
+            '*.JPG',
+            '*.png',
+            '*.PNG',
+            '*.gif',
+            '*.GIF',
+            '*.ico',
+            '*.ICO',
+            '*.pdf',
+            '*.PDF'
+        ];
+        $finder = new Finder();
+        $finder->files()->in($dir . $linkToFolder)->notName($imgMaskName);
+
+        # проходим по всем файлам
+        foreach ($finder as $file) {
+            $link = $file->getRelativePathname();
+
+            # получаем контент по ссылке
+            $html = $file->getContents();
+
+
+            $pattern = '/(\s(class|id|name|style)="[\w-\s:;]*")|(\son([a-z])*="[\w(\',\s)\.=;а-яА-Я]*")/ui';
+            $result = preg_replace($pattern, '', $html);
+
+            $fileSystem = new Filesystem();
+            $fileSystem->dumpFile($dir . $linkToFolder . '_2/' . $link, $result);
+
+        }
+
+        echo date('h:i:s A');
+    }
 
 
 
