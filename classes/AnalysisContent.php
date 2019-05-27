@@ -48,18 +48,18 @@ class AnalysisContent
 
             # убираем все лишнее
             $html = preg_replace('#(<head.*?<\/head>)|(<script.*?<\/script>)|'.
-                                    '(<noscript.*?<\/noscript>)|(<style.*?<\/style>)|'.
-                                    '(<footer.*?<\/footer>)#si', '', $html);
+                '(<noscript.*?<\/noscript>)|(<style.*?<\/style>)|'.
+                '(<footer.*?<\/footer>)#si', '', $html);
             $html = preg_replace('#(<object.*?<\/object>)|(<param.*?>)|'.
-                                    '(<embed.*?<\/embed>)|(<form.*?<\/form>)|'.
-                                    '(<noindex.*?<\/noindex>)#si', '', $html);
+                '(<embed.*?<\/embed>)|(<form.*?<\/form>)|'.
+                '(<noindex.*?<\/noindex>)#si', '', $html);
             $html = preg_replace('#(<map.*?<\/map>)|(<\/body>)|'.
-                                    '(<html.*?>)|(<\/html>)|(<body.*?>)|'.
-                                    '(<\!--.*?-->)|(<\!doctype.*?>)#si', '', $html);
+                '(<html.*?>)|(<\/html>)|(<body.*?>)|'.
+                '(<\!--.*?-->)|(<\!doctype.*?>)#si', '', $html);
 
             # поиск тега h1 в тексте
             # если нашли, удаляем все, что выше тега h1
-            if (mb_stripos($html, '<h1') > 0) {
+            if (mb_stripos($html, '<h1') > 0) { #fixme preg_split
                 preg_match('#(<h1.*)#si', $html, $temp);
                 $html = $temp[1];
             }
@@ -90,26 +90,75 @@ class AnalysisContent
 
         # проходим по всем файлам
         foreach ($finder as $file) {
+//            $log = [];
+
             $link = $file->getRelativePathname();
 
             # получаем контент по ссылке
             $html = $file->getContents();
-//            $html = file_get_contents($dir . $linkToFolder . $link);
 
-//            $masTagsRegex = 'p|h1|h2|h3|h4|h5|span|ul|ol';
-//            preg_match_all('#(<(' . $masTagsRegex . ').*?<\/(' . $masTagsRegex . ')>)#mis', $html, $tags, PREG_PATTERN_ORDER);
-            preg_match_all('#(<h1.*?<\/h1>)|(<h2.*?<\/h2>)|(<h3.*?<\/h3>)|(<h4.*?<\/h4>)|(<h5.*?<\/h5>)|(<p.*?<\/p>)|(<ul.*?<\/ul>)|(<span.*?<\/span>)#mis', $html, $tags, PREG_PATTERN_ORDER);
+            # чистим контент дальше
+            $html = preg_replace('#(<div class="clear"><\/div>)#si', '', $html);
+            $html = preg_replace('#(<p class="pagelist".*?<\/p>)|(<p class="menu".*?<\/p>)|(<ul class="counters".*?<\/ul>)#si', '', $html);
+            $html = preg_replace('#(<div class="active-breadcrumbs".*?<\/div>)|'.
+                '(<font.*?>)|(<\/font)|(<ul class="abs-list">.*?<\/ul>)#si', '', $html);
+            $html = preg_replace('#(<div class="article_footer".*?<\/div>)|(<div id="footer".*?<\/div>)#si', '', $html
+
+            # выделяем нужные и полезные части
+            preg_match_all('#(<h1.*?<\/h1>)|(<h2.*?<\/h2>)|(<h3.*?<\/h3>)|(<h4.*?<\/h4>)|(<h5.*?<\/h5>)|'.
+                '(<p.*?<\/p>)|(<ul.*?<\/ul>)|(<span.*?<\/span>)|'.
+                '(<table.*?<\/table>)|'.
+                '(<div class="article_body".*?<\/div>)#is',
+                $html, $tags, PREG_PATTERN_ORDER);
 
 
             # возвращаем данные только с нужными тегами
-            $masTagsStrip = '<p><h1><h2><h3><h4><h5><ul><ol><li><br>';
+            $masTagsStrip = '<p><h1><h2><h3><h4><h5><ul><ol><li><br><table><tr><td><th>';
             $result = strip_tags(implode('', $tags[0]), $masTagsStrip);
 
-//            file_put_contents($dir . '/archive_edit2/' . $link, $result);
-            $fileSystem = new Filesystem();
-            $fileSystem->dumpFile($dir . '/archive_edit2/' . $link, $result);
+            # проверка страниц на полезный контент
+            $lengthWithUl = mb_strlen($result);
+
+            $resultNoUl = preg_replace('#(<ul.*?<\/ul>)#msi', '', $result);
+            $lengthNoUl = mb_strlen($resultNoUl);
+
+            if ($lengthWithUl > 200 && $lengthNoUl > 0) { //не пустая страница
+                $percentContent = $lengthNoUl / $lengthWithUl;
+
+                if ($percentContent > 0.4) {
+                    $log['goodContent'] = (string) $percentContent;
+                    preg_match('#<table.*#si', $html, $table);
+
+                    if (count($table) > 0) {
+//                        $log['table'] = 'Y';
+
+                        $fileSystem = new Filesystem();
+                        $fileSystem->dumpFile($dir . '/archive_table/' . $link, $result);
+                    } else {
+//                        $log['table'] = 'N';
+
+                        //сохраняем данные
+                        $fileSystem = new Filesystem();
+                        $fileSystem->dumpFile($dir . '/archive_edit4/' . $link, $result);
+                    }
+
+                }  /*else {
+                    $log['goodContent'] = 'no good content. delete';
+                }*/
+            } /*else {
+                $log['goodContent'] = 'no good content. delete';
+            }
+
+            $log = [
+                'link' => $link,
+                'lengthWithUl' => $lengthWithUl,
+                'lengthNoUl' => $lengthNoUl
+            ] + $log;
+
+            ?><pre><?php var_dump($log);?></pre><?php*/
+
         }
-            echo date('h:i:s A');
+        echo date('h:i:s A');
     }
 
 

@@ -13,4 +13,4 @@ require_once __DIR__ . '/classes/AnalysisContent.php';
 
 //AnalysisContent::deleteUnnecessaryTags(__DIR__ , '/archive/select/retail.ru/1999*');
 //AnalysisContent::deleteUnnecessaryTags(__DIR__ , '/spart/');
-AnalysisContent::getContentFirst(__DIR__, '/archive_edit/');
+AnalysisContent::getContentFirst(__DIR__, '/archive/select/retail.ru/');
