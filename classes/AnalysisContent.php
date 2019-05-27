@@ -102,7 +102,7 @@ class AnalysisContent
             $html = preg_replace('#(<p class="pagelist".*?<\/p>)|(<p class="menu".*?<\/p>)|(<ul class="counters".*?<\/ul>)#si', '', $html);
             $html = preg_replace('#(<div class="active-breadcrumbs".*?<\/div>)|'.
                 '(<font.*?>)|(<\/font)|(<ul class="abs-list">.*?<\/ul>)#si', '', $html);
-            $html = preg_replace('#(<div class="article_footer".*?<\/div>)|(<div id="footer".*?<\/div>)#si', '', $html
+            $html = preg_replace('#(<div class="article_footer".*?<\/div>)|(<div id="footer".*?<\/div>)#si', '', $html);
 
             # выделяем нужные и полезные части
             preg_match_all('#(<h1.*?<\/h1>)|(<h2.*?<\/h2>)|(<h3.*?<\/h3>)|(<h4.*?<\/h4>)|(<h5.*?<\/h5>)|'.
