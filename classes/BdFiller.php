@@ -60,11 +60,14 @@ class BdFiller
 
             # Получаем заголовок страницы
             preg_match('#(<h1.*?<\/h1>)#si', $content, $hpocket);
-            preg_replace('#(<h1.*?<\/h1>)#si', '', $content, 1);
+
 
             if (!empty($hpocket)) {
+                $content = preg_replace('#(<h1.*?<\/h1>)#si', '', $content, 1);
                 $h1 = strip_tags($hpocket[1]);
             }
+
+
 
             # Получаем контент <p><h1><h2><h3><h4><ul>
             preg_match_all('#(<p.*?<\/p>)|(<h1.*?<\/h1>)|(<h2.*?<\/h2>)|' .
@@ -74,12 +77,12 @@ class BdFiller
                     foreach ($items as $item) {
                         # Пропускаем копирайты, остальное записываем в контент
                         if (strpos($item, '©') === false) {
-                            $body .= strip_tags($item, '<p><h2><h3><h4><ul><li>');
+                            $body .= strip_tags($item, '<p><h1></h1><h2><h3><h4><ul><li>');
                         }
                         //удаляем лишние пробелы
-                        preg_replace('/(\s)+/', ' ', $body);
+                        $body = preg_replace('/(\s)+/', ' ', $body);
                         //удаляем пустые теги <p>
-                        preg_replace('/<p[^>]*>\s*<\/p[^>]*>/', '', $body);
+                        $body = preg_replace('/<p[^>]*>\s*<\/p[^>]*>/', '', $body);
                         //echo $body;
                     }
                 }
@@ -87,7 +90,7 @@ class BdFiller
 
             if ($body !== '') {
                 $body = str_replace('', ' ', $body);
-                $this->db->exec("INSERT INTO retail11 VALUES (null, '$h1', '$body', '$copy', '$timestamp')");
+                $this->db->exec("INSERT INTO retail VALUES (null, '$h1', '$body', '$copy', '$timestamp')");
             }
         }
     }
