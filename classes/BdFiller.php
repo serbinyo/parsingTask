@@ -52,12 +52,16 @@ class BdFiller
             preg_match('#(©|&copy;).*(?=<\/)|(©|&copy;).*$#u', $content, $cpocket);
             if (!empty($cpocket)) {
                 foreach ($cpocket as $item) {
+                    $item = rtrim($item, '©');
+                    $item = str_replace('', ' ', $item);
                     $copy .= strip_tags($item);
                 }
             }
 
             # Получаем заголовок страницы
             preg_match('#(<h1.*?<\/h1>)#si', $content, $hpocket);
+            preg_replace('#(<h1.*?<\/h1>)#si', '', $content, 1);
+
             if (!empty($hpocket)) {
                 $h1 = strip_tags($hpocket[1]);
             }
@@ -68,7 +72,10 @@ class BdFiller
             if (!empty($ppocket)) {
                 foreach ($ppocket as $items) {
                     foreach ($items as $item) {
-                        $body .= strip_tags($item, '<p><h2><h3><h4><ul><li>');
+                        # Пропускаем копирайты, остальное записываем в контент
+                        if (strpos($item, '©') === false) {
+                            $body .= strip_tags($item, '<p><h2><h3><h4><ul><li>');
+                        }
                         //удаляем лишние пробелы
                         preg_replace('/(\s)+/', ' ', $body);
                         //удаляем пустые теги <p>
@@ -79,7 +86,8 @@ class BdFiller
             }
 
             if ($body !== '') {
-                $this->db->exec("INSERT INTO testtable VALUES (null, '$h1', '$body', '$copy', '$timestamp')");
+                $body = str_replace('', ' ', $body);
+                $this->db->exec("INSERT INTO retail11 VALUES (null, '$h1', '$body', '$copy', '$timestamp')");
             }
         }
     }
