@@ -61,13 +61,10 @@ class BdFiller
             # Получаем заголовок страницы
             preg_match('#(<h1.*?<\/h1>)#si', $content, $hpocket);
 
-
             if (!empty($hpocket)) {
                 $content = preg_replace('#(<h1.*?<\/h1>)#si', '', $content, 1);
                 $h1 = strip_tags($hpocket[1]);
             }
-
-
 
             # Получаем контент <p><h1><h2><h3><h4><ul>
             preg_match_all('#(<p.*?<\/p>)|(<h1.*?<\/h1>)|(<h2.*?<\/h2>)|' .

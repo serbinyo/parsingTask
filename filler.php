@@ -16,10 +16,10 @@ $db->query('CREATE TABLE retail
     bdate timestamp
 )');
 
-$filler = new BdFiller($db, __DIR__ . '/../archive/archive/select.parse3/files');
-
-$filler->fill();
-
-//$filler = new BdFiller($db, __DIR__ . '/../archive/archive/select.parse3/files_table');
+//$filler = new BdFiller($db, __DIR__ . '/../archive/archive/select.parse3/files');
 //
 //$filler->fill();
+
+$filler = new BdFiller($db, __DIR__ . '/../archive/archive/select.parse3/files_table');
+
+$filler->fill();
