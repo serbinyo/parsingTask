@@ -2,5 +2,5 @@ vendor/
 archive/
 archive_edit/
 .idea/
-logs/
+logs/info.log
 nohup.out
