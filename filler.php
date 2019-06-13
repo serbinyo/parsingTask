@@ -5,7 +5,7 @@ use Classes\BdFiller\BdFiller;
 
 require_once __DIR__ . '/classes/BdFiller.php';
 
-$db = new PDO('sqlite:retail.ru.sqlite');
+$db = new PDO('sqlite:retail.ru_13062019.sqlite');
 
 $db->query('CREATE TABLE retail
 (
@@ -16,9 +16,9 @@ $db->query('CREATE TABLE retail
     bdate timestamp
 )');
 
-//$filler = new BdFiller($db, __DIR__ . '/../archive/archive/select.parse3/files');
-//
-//$filler->fill();
+$filler = new BdFiller($db, __DIR__ . '/../archive/archive/select.parse3/files');
+
+$filler->fill();
 
 $filler = new BdFiller($db, __DIR__ . '/../archive/archive/select.parse3/files_table');
 

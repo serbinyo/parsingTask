@@ -60,6 +60,15 @@ class BdFiller
 
             # Получаем заголовок страницы
             preg_match('#(<h1.*?<\/h1>)#si', $content, $hpocket);
+            if (empty($hpocket)) {
+                preg_match('#(<h2.*?<\/h2>)#si', $content, $hpocket);
+            }
+
+            # если заголовок Новости убираем его и ищем дальше
+            if (!empty($hpocket) && $hpocket[1] === '<h1>Новости</h1>') {
+                $content = preg_replace('#(<h1.*?<\/h1>)#si', '', $content, 1);
+                preg_match('#(<h1.*?<\/h1>)#si', $content, $hpocket);
+            }
 
             if (!empty($hpocket)) {
                 $content = preg_replace('#(<h1.*?<\/h1>)#si', '', $content, 1);
@@ -80,7 +89,10 @@ class BdFiller
                         $body = preg_replace('/(\s)+/', ' ', $body);
                         //удаляем пустые теги <p>
                         $body = preg_replace('/<p[^>]*>\s*<\/p[^>]*>/', '', $body);
-                        //echo $body;
+                        $begin = substr($body, 0, 4);
+                        if ('<ul>' === $begin) {
+                            continue 3;
+                        }
                     }
                 }
             }
